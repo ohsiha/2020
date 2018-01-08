@@ -8,12 +8,10 @@
           <title>MATHM-81000 Ohjelmallinen sisällönhallinta :: Luento 1</title>
           <meta name="copyright" content="Esitys Jukka Huhtamäki. Käytössä HTML Slidy." />
           <meta name="font-size-adjustment" content="1" />
-          <link rel="stylesheet" type="text/css" media="print" href="../Slidy/print.css" />    
+          <link rel="stylesheet" type="text/css" media="print" href="../Slidy/print.css" />
           <link rel="stylesheet" href="../Slidy2/styles/slidy.css" type="text/css"
       media="screen, projection" />
 
-<!--    <link rel="stylesheet" href="../Slidy2/styles/w3c-blue.css" type="text/css"
-      media="screen, projection" /> -->
     <link rel="stylesheet" href="../Slidy2/styles/iislab.css" type="text/css"
       media="screen, projection" />
     <script src="../Slidy2/scripts/slidy.js" type="text/javascript"></script><style type="text/css">
@@ -22,8 +20,8 @@
     width: 30ex;
     float: left;
   }
-</style>   
-   
+</style>
+
        <!-- start Mixpanel -->
 <!--    <script type="text/javascript">
     //<![CDATA[
@@ -31,7 +29,7 @@
    g.length;e++)(function(a){b[a]=function(){b.push([a].concat(Array.prototype.slice.call(arguments,0)))}})(g[e]);c._i.push([a,d,f])};window.mixpanel=c})(document,[]);
    mixpanel.init("d5293bf02815fd090b6340416496ef8a");</script> -->
    <!-- end Mixpanel -->
-    <script src="https://code.jquery.com/jquery-latest.js"></script>   
+    <script src="https://code.jquery.com/jquery-latest.js"></script>
     <!--
     <script type="text/javascript">
      $(document).ready(function () {
@@ -42,29 +40,30 @@
 </head><body><div class="background">
              <div class="header"></div>
 
-          </div>      
+          </div>
 
 <div class="slide">
 <h1>MAT-81000 Ohjelmallinen sisällönhallinta (7 op)</h1>
   <div style="text-align: right;">
 <iframe width="300" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=fi&amp;geocode=&amp;q=Korkeakoulunkatu,+33720+Tampere,+Finland&amp;sll=61.520193,23.637924&amp;sspn=0.010866,0.038409&amp;ie=UTF8&amp;hq=&amp;hnear=Korkeakoulunkatu,+33720+Tampere,+Suomi&amp;ll=61.449541,23.858825&amp;spn=0.010891,0.038409&amp;z=15&amp;layer=c&amp;cbll=61.449893,23.858471&amp;panoid=x5hugpoTawHhhknc_jzhhg&amp;cbp=12,354.07,,1,-2.77&amp;output=svembed"></iframe><br /><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=fi&amp;geocode=&amp;q=Korkeakoulunkatu,+33720+Tampere,+Finland&amp;sll=61.520193,23.637924&amp;sspn=0.010866,0.038409&amp;ie=UTF8&amp;hq=&amp;hnear=Korkeakoulunkatu,+33720+Tampere,+Suomi&amp;ll=61.449541,23.858825&amp;spn=0.010891,0.038409&amp;z=15&amp;layer=c&amp;cbll=61.449893,23.858471&amp;panoid=x5hugpoTawHhhknc_jzhhg&amp;cbp=12,354.07,,1,-2.77" style="color:#0000FF;text-align:left">Näytä suurempi kartta</a></small>
 </div>
-</div>      
+</div>
 
 <div class="slide">
 <h1>Vastuuvapauslauseke (Disclaimer)</h1>
 <p>
-  Ohjelmallinen sisällönhallinta järjestetään nyt kolmatta kertaa. Kokonaisuus
-  elää edelleen voimakkaasti 
+  Ohjelmallinen sisällönhallinta järjestetään nyt neljättä kertaa. Kokonaisuus
+  elää edelleen voimakkaasti
 </p>
 <ul>
   <li>Luennoitsijalla ei ole tavoitteena koota tästä luentoprujusta valmista pakettia vaan aihepiirin teemojen painotuksia ja oppimisen kannalta toimivaa esitysjärjestystä on tarkoitus kypsytellä yhteistyössä kanssanne</li>
   <li>Tulemme siis ainakin maistamaan omaa <a href="https://twitter.com/AlekRossi/status/410730758089633792">koiranruokaamme</a> (<a href="http://www.urbandictionary.com/define.php?term=eating%20your%20own%20dog%20food">eating your own dog food</a>)</li>
 </ul>
-<p>Myös verkko-oppimisympäristöalusta on edelleen pohdinnassa. Aikaisemmin käytössä oli TTY-Piiri ,vrt. 
-<a href="https://iislab.ee.tut.fi/piiri/ohjelmallinen-sis%C3%A4ll%C3%B6nhallinta-2016/wiki/luentop%C3%A4iv%C3%A4kirja">kevään 2016 luentopäiväkirja</a>.</p>
-
-<!--  <p>TTY-Piiristä löytyvä <a href="https://iislab.ee.tut.fi/piiri/ohjelmallinen-sis%C3%A4ll%C3%B6nhallinta-2016/wiki/luentop%C3%A4iv%C3%A4kirja">Luentopäiväkirja</a> kokoaa yhteen kevään sisällöt</p>-->
+<p>
+  Materiaalit ovat jaossa tässä Github-kokonaisuudessa. Lisäksi otamme käyttöön Yammer-alusta harjoitustöistä raportoimiseen.
+  <!-- Verkko-oppimisympäristöalusta on edelleen pohdinnassa. Aikaisemmin käytössä oli TTY-Piiri ,vrt.
+  <a href="https://iislab.ee.tut.fi/piiri/ohjelmallinen-sis%C3%A4ll%C3%B6nhallinta-2016/wiki/luentop%C3%A4iv%C3%A4kirja">kevään 2016 luentopäiväkirja</a>. -->
+</p>
 </div>
 
 <div class="slide">
@@ -84,12 +83,12 @@
     </dd>
     <dt>Esimerkki 4</dt>
     <dd>
-      <a href="https://srogers.cartodb.com/viz/123be814-96bb-11e4-aec1-0e9d821ea90d/embed_map">Cartodb.com</a> Geotagged Tweets mentioning <a href="https://twitter.com/search?f=tweets&amp;vertical=default&amp;q=%23JeSuisCharlie&amp;src=tyah">#JeSuisCharlie</a>, Paris time zone, January 7, 2015 
+      <a href="https://srogers.cartodb.com/viz/123be814-96bb-11e4-aec1-0e9d821ea90d/embed_map">Cartodb.com</a> Geotagged Tweets mentioning <a href="https://twitter.com/search?f=tweets&amp;vertical=default&amp;q=%23JeSuisCharlie&amp;src=tyah">#JeSuisCharlie</a>, Paris time zone, January 7, 2015
     </dd>
     <dt>Esimerkki 5</dt>
-    <dd> 
+    <dd>
       <a href="https://core.telegram.org/bots/samples">Bot Code Examples</a>
-    </dd> 
+    </dd>
     <dt>Bonus</dt>
     <dd>
       <a href="https://www.facebook.com/artoliukkonen/posts/10153835213709754?hc_location=ufi">Lippukauppa 2.0 - tee se itse!</a>
@@ -98,26 +97,27 @@
 </div>
 
 <div class="slide">
-   <h1>Ohjelmallinen sisällönhallinta, kevät 2017</h1>
-   <p><span class="label">Luennoitsija:</span> Jukka Huhtamäki (vastaanotto: to 13-14)</p> 
+   <h1>Ohjelmallinen sisällönhallinta, kevät 2018</h1>
+   <p><span class="label">Luennoitsija:</span> Jukka Huhtamäki (<a href="https://twitter.com/jnkka">@jnkka</a>)</p>
+   <p><span class="label">Tuntiassistentti:</span> Samuli Määttä</p>
    <p><span class="label">Yhteystiedot:</span> jukka.huhtamaki@tut.fi (040-5854771 - sähköpostilla tavoitat todennäköisemmin) </p>
    <p><span class="label">Huone:</span> FB321, <a href="http://www.tut.fi/fi/tutkimus/tutkimusalat/tuotantotalous-ja-tietojohtaminen/index.htm">Tuotantotalous ja tietojohtaminen</a></p>
    <p><span class="label">Luennot:</span> maanantaisin kello 14-16 ja keskiviikkoisin 9-10 Sähkötalon salissa SJ204.</p>
    <p><span class="label">Harjoitukset:</span> ei harjoituksia (ellei tarvetta ilmene)</p>
    <p><span class="label">Kotisivu:</span> työn alla!
     <!--<a href="http://iislab.ee.tut.fi/piiri/groups/ohjelmallinen-sis%C3%A4ll%C3%B6nhallinta-2016" style="font-size: smaller;">https://iislab.ee.tut.fi/piiri/groups/ohjelmallinen-sisällönhallinta-2016</a>--></p>
-   <p><span class="label">Twitter:</span> 
-    <a href="https://twitter.com/search?q=%23ohsiha&amp;src=hash&amp;f=realtime" style="font-size: smaller;">#ohsiha</a></p>
-   <p><span class="label">Suorittaminen:</span> harjoitustyö ja tentti (vaihtoehtoisesti: luentopäiväkirja)</p>
+   <p><span class="label">Twitter:</span>
+    <a href="https://twitter.com/search?f=tweets&amp;vertical=default&amp;q=%23ohsiha&amp;src=hash" style="font-size: smaller;">#ohsiha</a></p>
+   <p><span class="label">Suorittaminen:</span> harjoitustyö ja luentopäiväkirja (tai tentti)</p>
 </div>
 
 <div class="slide">
   <h1>Muodolliset esitiedot</h1>
-  <p>Opintojakson tarkoituksenmukainen suorittaminen edellyttää ymmärrystä sekä hypermedian keskeisistä periaatteista että ohjelmoinnin perusteista:</p>
+  <p>Opintojakson tarkoituksenmukainen suorittaminen edellyttää ymmärrystä sekä Web-hypermedian keskeisistä periaatteista että ohjelmoinnin perusteista:</p>
   <ul>
-    <li>Johdatus hypermediaan (tai Hypermedian perusteet) tai vastaavat tiedot - moniko suorittanut? </li>
+    <li>Web-hypermedian perusteet - moniko osaa HTML-merkkausta, CSS-tyylejä tai Javascript-ohjelmointia?</li>
     <li>Ohjelmointitaito välttämätön (~ Ohjelmointi II tai Laaja ohjelmointi)</li>
-    <li>Suositeltavia esimerkiksi Web-ohjelmointi, Johdatus tietokantoihin ja Structured Documents</li>
+    <li><strong>Suositeltavia</strong> esimerkiksi Web-ohjelmointi ja Johdatus tietokantoihin</li>
   </ul>
   <p>Opintojakson sisältö ja vaatimustaso asettuu mukavasti opiskelijan omien taitojen mukaiseksi - suorittaminen toki edellyttää tietyn minimitason saavuttamista.</p>
 </div>
@@ -125,47 +125,48 @@
 <div class="slide">
   <h1>Opintojakson sisältö ja suorittaminen</h1>
   <p class="subhead">
-    Ohjelmallinen sisällönhallinta jatkoi aikaisemmin siitä mihin 
-    <a href="http://www.tut.fi/wwwoppaat/opas2015-2016/perus/laitokset/Matematiikka/MAT-80000.html">Johdatus hypermediaan</a> 
-    päätti (muutoksia!). Keskiössä on sisällönhallinnan automatisointi sekä vuorovaikutteisten (Web-) 
-    informaatiojärjestelmien (hypermediasovellusten) toiminnallisuus ja sen teknisesti laadukas toteuttaminen.
+    Ohjelmallisen sisällönhallinnankeskiössä on sisällönhallinnan automatisointi sekä vuorovaikutteisten (Web-)
+    informaatiojärjestelmien (hypermediasovellusten) toiminnallisuus ja teknisesti laadukas toteuttaminen.
   </p>
   <p>Opintojakson teemakokonaisuudet:</p>
     <ul>
-      <li><strong>Menetelmät:</strong> Ohjelmallinen sisällönhallinta. 
-        Informaatiojärjestelmän ominaisuudet, 
-        joiden <em>toteuttaminen edellyttää</em> ohjelmointia. 
-        Verkkopalveluiden yleiset periaatteet ja toiminnallisuus. 
+      <li><strong>Menetelmät:</strong> Ohjelmallinen sisällönhallinta.
+        Informaatiojärjestelmän ominaisuudet,
+        joiden <em>toteuttaminen edellyttää</em> ohjelmointia.
+        Verkkopalveluiden yleiset periaatteet ja toiminnallisuus.
         Hajautetut informaatiojärjestelmät. Mahdollisuudet ja rajoitteet.
       </li>
-      <li><strong>Sovellukset:</strong> 
-        Informaatiojärjestelmien ja hypermedian yleisten ideoiden toteuttaminen Web-teknologiaan perustuvissa sovelluksissa. Verkkopalvelun toteuttaminen sivupohjakielen (template-kieli) ja relaatiotietokannan avulla.
+      <li><strong>Sovellukset:</strong>
+        Informaatiojärjestelmien ja hypermedian yleisten ideoiden toteuttaminen Web-teknologiaan perustuvissa sovelluksissa.
+        Verkkopalvelun toteuttaminen sivupohjakielen (template-kieli) ja relaatiotietokannan avulla.
       </li>
       <li><strong>Tekniikka:</strong>
-        Vapaavalintaisella teknologialla (PHP, Python, JavaScript, Ruby) toteutettu Web-sovelluskehys. 
-        Perinteisesti PHP: Hypertext Preprocessor (PHP) -kieli ja MySQL-tietokanta. 
-        Tarkempi tekninen rajaus: Linux/Apache/MySQL/PHP (LAMP). Valittavissa.
+        Vapaavalintaisella teknologialla (PHP, Python, JavaScript, Ruby) toteutettu Web-sovelluskehys.
+        Oletusvalinta Django (Python).
+        Perinteisesti <a href="https://fi.wikipedia.org/wiki/LAMP">LAMP</a>: Python tai Hypertext Preprocessor (PHP) -kieli ja MySQL-tietokanta.
+
       </li>
     </ul>
 </div>
 <div class="slide">
     <h1>Haluatko datatieteilijäksi?</h1>
-    <p>Web yleensä ja sosiaalinen media erityisesti tuottavat joka päivä valtavan määrän uutta dataa, jota analysoimalla on mahdollista tuottaa uutta tietoa ihmisistä - esimerkiksi heidän tarpeistaan arvonluonnin tueksi.</p> 
-    <p>Ammattinimike <a href="http://www.marketingdistillery.com/wp-content/uploads/2014/11/mds_f.png">data scientist</a> on ilmestynyt laajempaan käyttöön viime aikoina. Haussa on yhdistelmä taitoja:</p>
+    <p>Web yleensä ja sosiaalinen media erityisesti tuottavat joka päivä valtavan määrän uutta dataa, jota analysoimalla on mahdollista tuottaa uutta tietoa ihmisistä - esimerkiksi heidän tarpeistaan arvonluonnin tueksi.</p>
+    <p>Ammattinimike <a href="https://www.schoolofdatascience.amsterdam/news/skills-need-become-modern-data-scientist/">data scientist</a> on ilmestynyt laajempaan käyttöön viime aikoina. Haussa on yhdistelmä taitoja:</p>
     <ul>
         <li>(Web-)tietojenkäsittely (koostepalvelut, informaation visualisointi, korkea vuorovaikutus).</li>
         <li>Edistyneet algoritmit (tilastolliset menetelmät, matematiikka, signaalinkäsittely, koneoppiminen, verkostoanalyysi).</li>
         <li>Käytettävyys ja käyttökokemus (user experience, UX)!</li>
     </ul>
-    <p>Kasvuyrittäjyyspotentiaalia: <q>Which department is educating 
-      data scientists in Finland? Startups NEED these folks (hard-core CS pros with UX skills).</q>, 
-      kysyi <a href="http://twitter.com/#!/hoopeekoo">Petteri Koponen</a> jo <a href="https://twitter.com/hoopeekoo/status/141203522938077184">muutama vuotta sitten</a> ja 
-      asia on <a href="http://ouzor.github.io/blog/2015/04/29/tty-datascience-lecture.html">edelleen</a> 
+    <p>Kasvuyrittäjyyspotentiaalia: <q>Which department is educating
+      data scientists in Finland? Startups NEED these folks (hard-core CS pros with UX skills).</q>,
+      kysyi <a href="http://twitter.com/#!/hoopeekoo">Petteri Koponen</a> jo <a href="https://twitter.com/hoopeekoo/status/141203522938077184">muutama vuotta sitten</a> ja
+      asia on <a href="http://ouzor.github.io/blog/2015/04/29/tty-datascience-lecture.html">edelleen</a>
       <a href="http://www.meetup.com/Tampere-Data-Science/">ajankohtainen</a>.
     </p>
-    <p><a href="http://www.tut.fi/rajapinta/artikkelit/2013/2/datajournalisti-visualisoi-tietoa">Datajournalistit</a> 
+    <p>Esimerkiksi <a href="http://www.tut.fi/rajapinta/artikkelit/2013/2/datajournalisti-visualisoi-tietoa">datajournalistit</a>
       soveltavat vastaavanlaista osaamista uudenlaisten journalististen ratkaisujen kehittämisessä.</p>
 </div>
+
 <div class="slide">
   <h1>Entä Web-ohjelmoijaksi?</h1>
    <ul>
@@ -175,30 +176,32 @@
       <li>Opintojaksot tarkastelevat osin samoja teemoja, mutta näkökulmat ja painotukset eroavat toisistaan:
           <ul>
              <li>Ohjelmallinen sisällönhallinta lähestyy informaatiojärjestelmiä käyttöliittymän, tietosisällön käsittelyn automatisoinnin ja sovelluksen toiminnallisuuden näkökulmista.</li>
-             <li>Web-ohjelmoinnissa pääpaino on verkkopalveluiden teknisesti laadukkaassa totetuksessa 
-              (keväällä 2017 Node JS -kehyksellä?).</li>
-          </ul>           
+             <li>Erityisesti painotamme analytiikan kojelautojen ja muiden datatuotteiden toteuttamista.
+             <li>Web-ohjelmoinnissa pääpaino on verkkopalveluiden teknisesti laadukkaassa totetuksessa.</li>
+          </ul>
       </li>
-      <li>Opintojaksojen suorittaminen rinnakkain on mahdollista ja myös hyödyllistä. 
-          Huomioi kuitenkin esitiedot ja harjoitustöiden vaatima työmäärä. 
+      <li>Opintojaksojen suorittaminen rinnakkain on mahdollista ja myös hyödyllistä.
+          Huomioi kuitenkin esitiedot ja harjoitustöiden vaatima työmäärä.
       </li>
    </ul>
 </div>
+
 <div class="slide">
    <h1>Opiskelusta - mitä opintojaksolla oppii?</h1>
-   <p>Näkökulma on erityisesti asioiden sovelluksista riippumattomien perusteiden opiskelu: 
+   <p>Näkökulma on erityisesti asioiden sovelluksista riippumattomien perusteiden opiskelu:
     ohjelmistot ja teknologiat tulevat ja menevät, ideat pysyvät.</p>
   <p>Opintojakson tavoitteena on vastata muun muassa seuraaviin kysymyksiin:</p>
    <ul>
       <li>Mitä tarkoittaa ohjelmallinen sisällönhallinta? Mitä keinoja on olemassa ohjelmallisen sisällönhallinnan toteuttamiseen?</li>
       <li>Mitä toimintoja ohjelmallinen sisällönhallinta edellyttää ja miten ominaisuudet toteutetaan?</li>
       <li>Mitkä ovat ohjelmoinnin tuomat lisäarvot hypermediasovelluksen toteuttamisessa?</li>
-      <li>Mitä yleisiä ominaisuuksia verkkopalveluissa on? Miten ominaisuudet toteutetaan käytännössä?</li>
+      <li>Mitä yleisiä ominaisuuksia verkkopalveluina toteutettavissa informaatiojärjestelmissä on? Miten ominaisuudet toteutetaan käytännössä?</li>
       <li>Mitä keinoja informaatiojärjestelmän käyttäjän toiminnan tukemiseen on olemassa? Mitä niiden toteutuksessa on otettava huomioon?</li>
   </ul>
   <p>Esimerkiksi <dfn>mukautuvien järjestelmien</dfn> toteuttaminen edellyttää käytännössä aina ohjelmointia.</p>
-  
+
 </div>
+
 <div class="slide">
   <h1>Myös tekniikkaa</h1>
   <p>Toimintojen ja prosessien ohella kevään aikana käydään läpi myös teknisempiä kysymyksiä:</p>
@@ -209,43 +212,42 @@
       <li>Minkälaista on on käytettävien ja käyttökelpoisten verkkopalveluiden toteuttamisen mahdollistava teknologia?</li>
    </ul>
 </div>
+
 <div class="slide">
-  <h1>Kaksi pääteemaa</h1>
-  <p>Keväällä 2017 opintojakson sisällöt kahteen keskeiseen kokonaisuuteen:</p>
-  <ul>
-    <li>Opetusjakso 4: Dynaamiset dokumentit</li>
-    <li>Opetusjakso 5: Informaatiojärjestelmän toteuttaminen</li>
-  </ul>
+  <h1>Tiivistetään sisältöä</h1>
+  <p>Keväällä 2018 opintojakson sisältöä tiivistetään vastaamaan 5 opintopisteen laajuutta:</p>
+  <p>Valtaosa luennoista pidetään 3. opetusjaksolla. Harjoitustyön toteutusta voi jatkaa 4. jaksolla.</p>
   <p>Käsiteltävät asiat ja painotukset muuttuvat vuosittain. Huomattava osa opintojakson sisällöstä avautuu
     harjoitusten, itseopiskelun ja harjoitustyön kautta.
   </p>
   <p>Prujun lisäksi luennoilla käydään läpi paljon käytännön esimerkkejä ja muuta asiaan liittyvää.</p>
-  <p>Ajantaiset tiedot opintojakson sisällöstä löytyvät aina 
-      <!--<a href="https://iislab.ee.tut.fi/piiri/ohjelmallinen-sis%C3%A4ll%C3%B6nhallinta-2016/wiki/luentop%C3%A4iv%C3%A4kirja">luentopäiväkirjasta</a>--> luentopäiväkirjasta - jahka sen toteutus selviää. </p>
+  <p>Ajantaiset tiedot opintojakson sisällöstä löytyvät aina <a href="https://ohsiha.github.io/2018/luentopaivakirja/">luentopäiväkirjasta</a>. </p>
 </div>
+
 <div class="slide">
   <h1>Mistä opintojaksolla puhutaan?</h1>
   <p>Katso <a href="http://bit.ly/ohsiha2017suunnitelma">luentosuunnitelma</a>.</p>
 </div>
+
 <div class="slide">
   <h1>Harjoitustyö</h1>
   <ul>
-    <li>Harjoitustyön tekeminen on olennainen osa kevään 
-      työskentelyä. Harjoitustyön aihe on vapaavalintainen ja myös 
+    <li>Harjoitustyön tekeminen on olennainen osa kevään
+      työskentelyä. Harjoitustyön aihe on vapaavalintainen ja myös
       toteutusteknologiassa on valinnaisuutta.
     </li>
     <li>
-      Keväällä 2017 edetään suoraviivaisesti korkean tason sovellus- ja järjestelmäkehitykseen 
-      ja jätetään teknologiset yksityiskohdat käsiteltäväksi 
-      esim. <a href="http://www.cs.tut.fi/~seitti/">Web-ohjelmointi 
+      Keväällä 2018 edetään suoraviivaisesti korkean tason sovellus- ja järjestelmäkehitykseen
+      ja jätetään teknologiset yksityiskohdat käsiteltäväksi
+      esim. <a href="http://www.cs.tut.fi/courses/OHJ-5100/">Web-ohjelmointi
       -opintojaksolla</a>. Toki yksityiskohtia oppii myös harjoitustyötä tehdessä.
     </li>
     <li>
-      Harjoitustyön lopputuloksena syntyy portfoliollinen toteutettuja ominaisuuksia ja 
-      niiden tiiviit kuvaukset valittyyn oppimisympäristöalustaan julkaistuna.
+      Harjoitustyön lopputuloksena syntyy portfoliollinen toteutettuja ominaisuuksia ja
+      niiden tiiviit kuvaukset Yammer-ympäristöön julkaistuna.
     </li>
     <li>
-      Harjoitustyöhön toteutetuista ominaisuuksista jaetaan pisteitä. 
+      Harjoitustyöhön toteutetuista ominaisuuksista jaetaan pisteitä.
     </li>
    </ul>
 </div>
@@ -284,56 +286,57 @@
 <div class="slide">
    <h1>Muistettavaa &amp; vinkkejä opiskeluun</h1>
    <ul>
-      <li>Ohjelmallinen sisällönhallinta ja informaatiojärjestelmät <strong>!=</strong> Web. 
-        Toteutukset ovat mahdollisia eri tavoin ja eri menetelmin (älypuhelinten sovellukset, 
-        Flash, MS Silverlight, Delphi, ..., Universal Windows Platform, Cocoa, Ubuntu, ...) 
+      <li>Ohjelmallinen sisällönhallinta ja informaatiojärjestelmät <strong>!=</strong> Web.
+        Toteutukset ovat mahdollisia eri tavoin ja eri menetelmin (älypuhelinten sovellukset,
+        Flash, MS Silverlight, Delphi, ..., Universal Windows Platform, Cocoa, Ubuntu, ...)
       </li>
-      <li>Laadukkaan sovelluksen tekeminen edellyttää aina sen <em>sovellusalueen sisällöllistä</em>   
-        osaamista, jonka parissa työskennellään. Laajoista osaamisvaatimuksista johtuen 
+      <li>Laadukkaan sovelluksen tekeminen edellyttää aina sen <em>sovellusalueen sisällöllistä</em>
+        osaamista, jonka parissa työskennellään. Laajoista osaamisvaatimuksista johtuen
         informaatiojärjestelmien kehittäminen on käytännössä aina ryhmätyötä.
       </li>
-      <li>Suhtaudu sovelluksiin, menetelmiin ja teoriaan kriittisesti. Kysy koko ajan: miksi näin? 
-        mitä tämä tarkoittaa? miten tätä voisi käyttää? mikä tässä on olennaista? 
+      <li>Suhtaudu sovelluksiin, menetelmiin ja teoriaan kriittisesti. Kysy koko ajan: miksi näin?
+        mitä tämä tarkoittaa? miten tätä voisi käyttää? mikä tässä on olennaista?
       </li>
-      <li>Muista että informaatiojärjestelmät &amp; tietokoneet ovat ihmisen ihmiselle tekemiä asioita 
-        &amp; kapistuksia: suhtaudu niihin sen mukaisesti (hyvässä ja pahassa). 
-        &quot;Näin on aina tehty&quot; on harvoin hyvä perustelu. 
+      <li>Muista että informaatiojärjestelmät &amp; tietokoneet ovat ihmisen ihmiselle tekemiä asioita
+        &amp; kapistuksia: suhtaudu niihin sen mukaisesti (hyvässä ja pahassa).
+        &quot;Näin on aina tehty&quot; on harvoin hyvä perustelu.
       </li>
    </ul>
 </div>
 <div class="slide">
   <h1>Vielä pari vinkkiä</h1>
-  <p>Kannattaa muistaa, että opintojakso suoritetaan siksi, että asioita 
+  <p>Kannattaa muistaa, että opintojakso suoritetaan siksi, että asioita
     opiskeltaisiin <strong>ja opittaisiin</strong>, eli:</p>
    <ul>
       <li><strong>Paikkaa tiedon reiät</strong>: yhden käsiteltävän osa-alueen, esimerkiksi ohjelmoinnin,
        hallitseminen on hyvä asia, mutta kannattaa yrittää laajentaa näkökulmaansa ja pohtia josko
-       informaatiojärjestelmien kehittäminen olisi muutakin kuin vain X:n tekemistä. 
+       informaatiojärjestelmien kehittäminen olisi muutakin kuin vain X:n tekemistä.
       </li>
-      <li><strong>Ole oma-aloitteinen</strong>: jos jokin asia on jo tuttua, 
-        <strong>syvennä</strong> oma-aloitteisesti tietojasi siitä 
-        etsimällä itse lisämateriaalia! 
+      <li><strong>Ole oma-aloitteinen</strong>: jos jokin asia on jo tuttua,
+        <strong>syvennä</strong> oma-aloitteisesti tietojasi siitä
+        etsimällä itse lisämateriaalia!
       </li>
-      <li><strong>Älä ylenkatso noviiseja</strong>: jokainen oppii asioita joskus ensimmäistä kertaa. 
+      <li><strong>Älä ylenkatso noviiseja</strong>: jokainen oppii asioita joskus ensimmäistä kertaa.
         Vastaa mielestäsi turhan helppoihin kysymyksiinkin asiallisesti. Vältä jargonia (pätee myös luennoitsijaan!).
       </li>
    </ul>
-   <p>Rikkaus: informaatiojärjestelmien kehittäminen on tämän päivän käsityöläisyyttä: 
+   <p>Rikkaus: informaatiojärjestelmien kehittäminen on tämän päivän käsityöläisyyttä:
     tekemällä oppii eikä osaaminen ole ikinä valmis.</p>
 </div>
 
 <div class="slide">
    <h1>Opintojakson opetusmuoto ja materiaali</h1>
-   <p>Oppimateriaalin rungon muodostaa tämä käsillä oleva luentopruju, jonka on jäsentää 
-    hajanainen asia, erityisesti otsikot, hallittavaan muotoon ja toimia muistilappuna luentojen sisältöön. <strong>HUOM!</strong> Luentorunko ei missään tapauksessa sisällä koko oppimateriaalia, vaan ainoastaan jäsentää sitä!</p>
-   <p>Luentorungon lisäksi opintojakson sisältöön kuuluvat</p>
+   <p>Oppimateriaalin rungon muodostaa <a href="https://ohsiha.github.io/2018/luentopaivakirja/">luentopäiväkirja</a>, joka jäsentää
+    otsikkotasolla kokonaisuuden hallittavaan muotoon ja toimia muistilappuna luentojen sisältöön.
+    <strong>HUOM!</strong> Luentorunko ei missään tapauksessa sisällä koko oppimateriaalia, vaan ainoastaan jäsentää sitä!</p>
+   <p>Luentopäiväkirjan lisäksi opintojakson sisältöön kuuluvat</p>
    <ul>
-      <li>oppimisympäristöalustaan julkaistut koosteet eri aiheista</li>
+      <li>Github-kokonaisuuteen julkaistut koosteet eri aiheista</li>
       <li>luentojen yhteydessä vapaamuotoisesti (esim. taululla tai tietokone-esimerkkien avulla) käsitellyt asiat</li>
       <li>luentorungossa ja kotisivulla mainitut lähteet (soveltuvin osin, totta kai)</li>
       <li>harjoitustyö</li>
    </ul>
-   <p>Luentorunkoa julkaistaan luentojen edetessä toteutuskerran kotisivuilla.</p> 
+   <p>Olisi hienoa jos keksimme järkevän tavan automatisoida toteutuskerran tiedotusta ohsihan hengessä.</p>
 </div>
 
 <div class="slide">
@@ -343,10 +346,10 @@
      Muutamia esimerkkejä
   </p>
   <ul>
-    <li>Jurney, R. (2013). Agile Data Science (p. 178). O’Reilly Media. Saatavilla: 
+    <li>Jurney, R. (2013). Agile Data Science (p. 178). O’Reilly Media. Saatavilla:
       <a href="http://shop.oreilly.com/product/0636920025054.do">http://shop.oreilly.com/product/0636920025054.do</a></li>
-    <li>Kazil &amp; Jarmul (2015). Data Wrangling with Python: Tips and Tools to Make Your Life Easier 
-      (p. 486). O'Reilly Media. Saatavilla: 
+    <li>Kazil &amp; Jarmul (2015). Data Wrangling with Python: Tips and Tools to Make Your Life Easier
+      (p. 486). O'Reilly Media. Saatavilla:
       <a href="http://shop.oreilly.com/product/0636920032861.do">http://shop.oreilly.com/product/0636920032861.do</a></li>
   </ul>
   <p>
@@ -365,21 +368,21 @@
    <ul>
       <li><span>The World Wide Web Consortium (ks. </span><a href="http://www.w3.org/"><span><span>http://www.w3.org/</span></span></a><span> )  </span></li>
    </ul>
-   <p>PHP-sovellusten kehittäjille suunnattua materiaalia tarjoavat esim. </p>
+   <p>Django-sovellusten kehittäjille ja Python-ohjelmointiin suunnattua materiaalia tarjoavat esim. </p>
    <ul>
-      <li>PHP-kielen kotisivut: <span>php.net</span> 
-        (<a href="http://www.php.net/"><span>http://www.php.net/</span></a>)
+      <li>Djangon kotisivut: djangoproject.com
+        (<a href="https://www.djangoproject.com/"><span>djangoproject.com</span></a>)
       </li>
-      <li>Johdanto PHP-kieleen:<span> PHP Tutorial</span> 
-        (<a href="http://www.w3schools.com/php/"><span>http://www.w3schools.com/php/</span></a>)</li>
-      <li>Stack Overflow: 
-        <a href="http://stackoverflow.com/questions/tagged/php">Questions tagged with PHP</a></li>
+      <li>Johdanto Python-kieleen: <span> Learning Python: From Zero to Hero</span>
+        (<a href="https://twitter.com/jnkka/status/948854448679514112"><span>freecodecamp.org</span></a>)</li>
+      <li>Stack Overflow:
+        <a href="http://stackoverflow.com/questions/tagged/python">Questions tagged with Python</a></li>
    </ul>
    <p>Myös <a href="http://slides.html5rocks.com/">HTML5-kieleen</a> ja muihin ajankohtaisiin Web-teknologioihin perehtymiseen löytyy tukimateriaalia pilvin pimein.
    </p>
 </div>
 <div class="slide">
-  <h1>Teknologiat</h1> 
+  <h1>Teknologiat</h1>
    <p>Opintojaksolla käytettävä tekniikkapatteri (LAMP) on vapaasti jaossa: </p>
    <ul>
       <li>Linux: maun mukaan esimerkiksi <a href="http://www.ubuntu-fi.org/">Ubuntu</a> tai <a href="http://www.debian.org/">Debian</a>.</li>
@@ -388,184 +391,208 @@
       <li><span>PHP: </span><a href="http://www.php.net/downloads.php"><span><span>http://www.php.net/downloads.php</span></span></a></li>
       <li>Asennusohje: <a href="http://www.php.net/manual/en/install.php"><span>http://www.php.net/manual/en/install.php</span></a></li>
    </ul>
-   <p>Eri käyttöjärjestelmiin löytyy valmiiksi paketoituja kokonaisuuksia 
-       (<a href="http://www.wampserver.com/en/">WampServer</a>, 
-       <a href="http://www.mamp.info/en/index.html">MAMP</a>, 
+   <p>Eri käyttöjärjestelmiin löytyy valmiiksi paketoituja kokonaisuuksia
+       (<a href="http://www.wampserver.com/en/">WampServer</a>,
+       <a href="http://www.mamp.info/en/index.html">MAMP</a>,
        <a href="http://www.apachefriends.org/en/xampp.html">XAMPP</a>), joiden tuella asentaminen on suoraviivaista.
    </p>
-   <p><a href="https://c9.io/">Cloud9 IDE</a>, <a href="https://www.heroku.com/">Heroku</a> ja muut verkossa (pilvipalveluina) tarjolla olevat kehitys- ja tuotantoympäristöt 
+   <p><a href="https://c9.io/">Cloud9 IDE</a>, <a href="https://www.heroku.com/">Heroku</a> ja muut verkossa (pilvipalveluina) tarjolla olevat kehitys- ja tuotantoympäristöt
     tarjoavat kilpailukykyisen vaihtoehdon oman palvelimen ylläpitämiselle.</p>
 </div>
+
 <div class="slide">
    <h1>1. Ohjelmallinen sisällönhallinta</h1>
-   <p>Ohjelmointi mahdollistaa sisällönhallinnan (kerääminen, jalostaminen) automatisoinnin, toteutustyön automatisoinnin, monikanavajulkaisemisen sekä vuorovaikutuksen ja hajautuksen toteuttamisen.
-    Nyt ohjelmallista sisällönhallintaa käsitellään lähinnä Web-pohjaisten verkkopalvelujen 
-    näkökulmasta:</p>
+   <p>Ohjelmointi mahdollistaa sisällönhallinnan (kerääminen, jalostaminen)
+     automatisoinnin, toteutustyön automatisoinnin, monikanavajulkaisemisen
+     sekä vuorovaikutuksen ja hajautuksen toteuttamisen. Nyt
+     ohjelmallista sisällönhallintaa käsitellään lähinnä
+     Web-pohjaisten informaatiojärjestelmien näkökulmasta:</p>
    <ul>
-      <li>Web on olennaisilta osiltaan tekstimuotoista hypermediaa (HTML, SVG): näkymien 
-        ohjelmallinen tuottaminen  on suoraviivaista 
+      <li>Web on olennaisilta osiltaan tekstimuotoista hypermediaa
+        (HTML, SVG), joten näkymien ohjelmallinen tuottaminen  on suoraviivaista
       </li>
-      <li>Valtaosa informaatiojärjestelmistä on tällä hetkellä Webissä: opintojakson opit voidaan siirtää suoraviivaisesti tuotantokäyttöön
+      <li>Valtaosa informaatiojärjestelmistä on tällä hetkellä Webissä:
+        opintojakson opit voidaan siirtää suoraviivaisesti tuotantokäyttöön
       </li>
-      <li>Web-soveltajien käytössä on joukko ilmaisuvoimaisia teknologioita informaatiojärjestelmien
-         toteuttamiseen
+      <li>Web-soveltajien käytössä on rajaton joukko ilmaisuvoimaisia teknologioita
+        informaatiojärjestelmien toteuttamiseen
       </li>
    </ul>
-  <p>Ohjelmoinnilla on keskeinen rooli myös multimediaan tai tiedon visualisointiin kallellaan 
-    olevissa informaatiojärjestelmissä (Flash, Visual Basic, MS Silverlight, Java, Delphi, ...). 
-    Näissä ohjelmointi keskittyy erityisesti vuorovaikutuksen toteuttamiseen.</p> 
+  <p>Ohjelmoinnilla on keskeinen rooli myös multimediaan tai
+    tiedon visualisointiin kallellaan
+    olevissa informaatiojärjestelmissä (Flash, Visual Basic, MS Silverlight,
+    Java, Delphi, ...). Näissä ohjelmointi keskittyy erityisesti
+    vuorovaikutuksen toteuttamiseen.</p>
     <p>Javascriptin merkitys korostuu kaikessa ohjelmistokehityksessä.</p>
 </div>
+
 <div class="slide">
   <h1>Mekaanisen työn automatisointi</h1>
   <p>Esimerkkejä mekaanisen työn automatisoinnista:</p>
   <ul>
-    <li>Monipuolisten navigoinnin apuvälineet on tarkoituksenmukaista toteuttaa ohjelmallisesti:
+    <li>Monipuolisten navigoinnin apuvälineet on tarkoituksenmukaista
+      toteuttaa ohjelmallisesti:
       <ul>
-        <li>Rakenteelliset linkit (murupolku, lineaarinen navigaatio, mukautuva valikko) voidaan 
-          kaikki tuottaa yhden rakennekuvauksen perusteella ohjelmallisesti</li>
-        <li>Myös assosiatiivisten linkkien muodostaminen voidaan automatisoida (~suosittelijajärjestelmät)</li>
+        <li>Rakenteelliset linkit (murupolku, lineaarinen navigaatio,
+          mukautuva valikko) voidaan kaikki tuottaa
+          yhden rakennekuvauksen perusteella ohjelmallisesti</li>
+        <li>Myös assosiatiivisten linkkien muodostaminen voidaan automatisoida
+          (~suosittelijajärjestelmät)</li>
       </ul>
       </li>
-      <li>Tietosisällön uudelleenkäyttö onnistuu esimerkiksi tallentamalla tiedot 
-        tietokantaan tai määrämuotoiseen tekstitiedostoon ja toteuttamalla julkaisurutiinit  
-        haluttuihin muotoihin ohjelmallisesti.
+      <li>Tietosisällön uudelleenkäyttö onnistuu esimerkiksi tallentamalla
+        tiedot tietokantaan tai määrämuotoiseen tekstitiedostoon ja
+        toteuttamalla julkaisurutiinit haluttuihin muotoihin ohjelmallisesti.
       </li>
-      <li>Informaatiojärjestelmän tietosisällön päivittämiseen voidaan rakentaa lomakkeisiin perustuvat toiminnot</li>
+      <li>Informaatiojärjestelmän tietosisällön päivittämiseen voidaan
+        rakentaa lomakkeisiin perustuvat toiminnot</li>
    </ul>
 </div>
+
 <div class="slide">
   <h1>Monikanavajulkaiseminen</h1>
-  <p><a href="http://www.w3.org/TR/webarch/">Nykyaikainen Web-arkkitehtuuri</a> erottaa toisistaan URI-tunnisteen 
-    yksilöimän <dfn>resurssin</dfn> ja sen <dfn>representaation</dfn>. 
-    Representaatio räätälöidään päätelaitteen, käyttäjän ja käyttötilanteen (=käyttökontekstin) perusteella.</p>
+  <p><a href="http://www.w3.org/TR/webarch/">Nykyaikainen Web-arkkitehtuuri</a>
+    erottaa toisistaan URI-tunnisteen
+    yksilöimän <dfn>resurssin</dfn> ja sen <dfn>representaation</dfn>.
+    Representaatio räätälöidään päätelaitteen, käyttäjän ja käyttötilanteen
+    (=käyttökontekstin) perusteella.</p>
   <p>Edellisen toteutus <dfn>monikanavajulkaisemisen</dfn> keinoin:</p>
   <ul>
-    <li>Räätälöity julkaiseminen (vrt. <a href="http://www.w3.org/TR/di-atdi/#sec1MultipleAuthoring">Multiple Authoring</a>): 
+    <li>Räätälöity julkaiseminen
+      (vrt. <a href="http://www.w3.org/TR/di-atdi/#sec1MultipleAuthoring">Multiple
+        Authoring</a>):
       resurssista julkaistaan kiinteä joukko representaatiota, joista valitaan
-      jakelukontekstiin sopiva vaihtoehto.</li>
-    <li>Joustava julkaiseminen (vrt. <a href="http://www.w3.org/TR/di-atdi/#sec3FlexibleAuthoring">Flexible Authoring</a>): 
-      representaatio räätälöidään pyynnön mukana välitettävän jakelukontekstin kuvauksen perusteella (vrt. 
-      <a href="http://en.wikipedia.org/wiki/Content_negotiation">content negotiation</a>).</li>
-    <li>Nykyaikainen tapa monikanavaisuuden toteuttamiseen: <a href="https://www.sofokus.com/blogi/mita-on-responsiivinen-design/">responsiivinen design</a></li>
+      palvelukontekstiin sopiva vaihtoehto.</li>
+    <li>Joustava julkaiseminen
+      (vrt. <a href="http://www.w3.org/TR/di-atdi/#sec3FlexibleAuthoring">Flexible
+        Authoring</a>):
+      representaatio räätälöidään pyynnön mukana välitettävän palvelukontekstin
+      kuvauksen perusteella (vrt.
+      <a href="http://en.wikipedia.org/wiki/Content_negotiation">content
+        negotiation</a>).</li>
+    <li>Nykyaikainen tapa monikanavaisuuden toteuttamiseen:
+      <a href="https://www.sofokus.com/blogi/mita-on-responsiivinen-design/">responsiivinen
+        design</a></li>
   </ul>
-  <p>Sekä räätälöity että joustava julkaiseminen on syytä toteuttaa ohjelmallisesti.</p>
+  <p>Sekä räätälöity että joustava julkaiseminen on syytä toteuttaa
+    ohjelmallisesti.</p>
 </div>
+
 <div class="slide">
   <h1>Vuorovaikutuksen toteuttaminen</h1>
-  <p>Käyttäjän syötteeseen reagointi edellyttää (navigointia lukuun ottamatta) aina ohjelmointia. Esimerkiksi lomakkeen käsittely tapahtuu aina ohjelmallisesti. Esimerkkejä toiminnoista:
+  <p>Käyttäjän syötteeseen reagointi edellyttää (navigointia lukuun ottamatta)
+    aina ohjelmointia. Esimerkiksi lomakkeen käsittely tapahtuu aina
+    ohjelmallisesti. Esimerkkejä toiminnoista:
   </p>
   <ul>
-    <li>Informaatiojärjestelmän keskeisiä ominaisuuksia ovat esimerkiksi <em>hakutoiminto</em> 
+    <li>Informaatiojärjestelmän keskeisiä ominaisuuksia ovat esimerkiksi
+      <em>hakutoiminto</em>
       ja mahdollisuus <em>sisällön kommentointiin</em> (annotointi)</li>
-    <li>Verkkopalvelun yleisiä toimintoja ovat esimerkiksi <em>rekisteröityminen</em>, 
-      <em>käyttäjän tunnistaminen</em> sekä <em>istunnon luominen ja hallinta</em></li>
-    <li>Mukautuvassa (adaptiivisessa) informaatiojärjestelmässä käyttäjästä luodaan malli, 
-      jonka perusteella sovelluksen sisältö ja navigaatio mukautetaan käyttäjälle sopivaksi</li>
-    <li>Käyttäjän on syytä tukea <em>opasteiden</em> ja <em>virheilmoitusten</em> avulla.
-      </li>
+    <li>Verkkopalvelun yleisiä toimintoja ovat esimerkiksi
+      <em>rekisteröityminen</em>, <em>käyttäjän tunnistaminen</em> sekä
+      <em>istunnon luominen ja hallinta</em></li>
+    <li>Mukautuvassa (adaptiivisessa) informaatiojärjestelmässä käyttäjästä
+      luodaan malli, jonka perusteella sovelluksen sisältö ja navigaatio
+      mukautetaan käyttäjälle sopivaksi</li>
+    <li>Käyttäjän on syytä tukea <em>opasteiden</em> ja
+      <em>virheilmoitusten</em> avulla.
+    </li>
    </ul>
 </div>
+
 <div class="slide">
   <h1>Hajautetut informaatiojärjestelmät</h1>
-  <p>Web 2.0 -ilmiöön usein liitetyt Web-rajapinnat (Web API) antavat kehittäjälle aidon mahdollisuuden
-      hajautettujen informaatiojärjestelmien toteuttamiseen.</p> 
-  <p>Muistatko vielä <a href="http://www.tilannehuone.fi/halytysmap.php">Hälytykset kartalla</a>? 
-      Edelleen kuuma mashup-skene tuottaa uusia toinen toistaan mehukkaampia esimerkkejä Webissä tarjolla 
-      olevan tiedon yhdistelemiseen perustuviin palveluihin. </p>
-  <p>Fieldingin (2000) väitöskirjasta <a href="http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm">Architectural Styles and
-      the Design of Network-based Software Architectures</a> liikkeelle lähtenyt Webin ja HTTP-protokollan uusi arvostus 
+  <p>Web 2.0 -ilmiöön usein liitetyt Web-rajapinnat (Web API) antavat
+    kehittäjälle aidon mahdollisuuden hajautettujen informaatiojärjestelmien
+    toteuttamiseen.</p>
+  <p>Muistatko vielä <a href="http://www.tilannehuone.fi/halytysmap.php">Hälytykset
+    kartalla</a>? Edelleen kuuma mashup-skene tuottaa uusia toinen toistaan
+    mehukkaampia esimerkkejä Webissä tarjolla olevan tiedon yhdistelemiseen
+    perustuviin palveluihin. </p>
+  <p>Roy Fieldingin (2000) väitöskirjasta
+    <a href="http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm">Architectural
+      Styles and the Design of Network-based Software Architectures</a>
+      liikkeelle lähtenyt Webin ja HTTP-protokollan uusi arvostus
       antaa lisää tukea työlle.</p>
-  <p>Perehdymme opintojakson lopulla REST/<a href="http://en.wikipedia.org/wiki/Representational_State_Transfer#RESTful_Web_services">RESTful-ajattelun</a> perusteisiin ja käytännön soveltamiseen.</p>
+  <p>Perehdymme opintojakson lopulla
+    REST/<a href="http://en.wikipedia.org/wiki/Representational_State_Transfer#RESTful_Web_services">RESTful-ajattelun</a>
+    perusteisiin ja käytännön soveltamiseen.</p>
 </div>
+
 <div class="slide">
   <h1>Visuaalinen analytiikka</h1>
   <p>
-    Informaation visualisointi on onnistunut Web-teknologioilla jo muutamia vuosia (esimerkiksi Highcharts ja D3.js) 
+    Informaation visualisointi on onnistunut Web-teknologioilla jo vuosia
+    (esimerkiksi Highcharts ja D3.js)
   </p>
   <p>
-    Visuaalinen analytiikka (<a href="http://dl.acm.org/citation.cfm?id=2133821">Heer ja Shneiderman, 2012</a>) 
-    viittaa prosessiin, jossa dataa kerätään, jalostetaan, visualisoidaan ja analysoidaan yksin ja yhdessä
+    Visuaalinen analytiikka
+    (<a href="http://dl.acm.org/citation.cfm?id=2133821">Heer ja Shneiderman,
+      2012</a>) viittaa prosessiin, jossa dataa kerätään, jalostetaan,
+      visualisoidaan ja analysoidaan - yksin ja yhdessä
   </p>
   <p>
-    Kevään mittaan mietimme muun muassa 
-    <a href="https://en.wikipedia.org/wiki/Web_crawler">ryömijöitä</a>, 
-    <a href="https://en.wikipedia.org/wiki/Web_scraping">raapijoita</a>, 
-    datan <a href="http://vis.stanford.edu/wrangler/">siivoamista</a> ("tunkkaamista"?) 
-    (ehdotuksia paremmista käsitteistä otetaan vastaan!) ja visualisointia
+    Kevään mittaan mietimme muun muassa
+    <a href="https://en.wikipedia.org/wiki/Web_crawler">ryömijöitä</a>,
+    <a href="https://en.wikipedia.org/wiki/Web_scraping">raapijoita</a>,
+    datan <a href="http://vis.stanford.edu/wrangler/">siivoamista</a>
+    ("tunkkaamista"?) (ehdotuksia paremmista käsitteistä otetaan vastaan!)
+    ja visualisointia
   </p>
 
 </div>
 
 <div class="slide">
    <h1>Ohjelmointi: asiakas vai palvelin?</h1>
-   <p>Asiakas-palvelin –mallin mukaan toimivassa sovelluksessa ohjelmointiin perustuvia ratkaisuja voidaan yleensä toteuttaa sekä
-         selaimessa että palvelimella:</p>
+   <p>Asiakas-palvelin –mallin mukaan toimivassa sovelluksessa ohjelmointiin
+     perustuvia ratkaisuja voidaan yleensä toteuttaa sekä selaimessa että palvelimella:</p>
    <ul>
-    <li><strong>Älykäs asiakas</strong> (Thick/Smart/Fat client): 
+    <li><strong>Älykäs asiakas</strong> (Thick/Smart/Fat client):
         suuri osa sovelluksen toiminnoista on toteutettu osana asiakassovelluksen toiminnallisuutta.</li>
-    <li><strong>Kevyt asiakas</strong> (Thin client): sovelluksen toiminnallisuus on toteutettu 
+    <li><strong>Kevyt asiakas</strong> (Thin client): sovelluksen toiminnallisuus on toteutettu
         osana palvelinsovellusta, asiakkaalle välitetään ainoastaan näkymiä sovelluksesta.</li>
    </ul>
   <p>Web mahdollistaa sekä älykkään että yksinkertaisen asiakkaan toteuttamisen. Viimeisten vuosien aikana kehitystyö on siirtynyt asikaspainoitteiseksi.</p>
 </div>
-<div class="slide">        
+<div class="slide">
   <h1>&quot;Palvelin on ystävä&quot;?</h1>
-  <p>Selaimeen tai muuhun asiakassovellukseen toteutettujen ratkaisuiden toimintavarmuus on Webissä 
+  <p>Selaimeen tai muuhun asiakassovellukseen toteutettujen ratkaisuiden toimintavarmuus on Webissä
     edelleen vaihteleva ja erilaiset toteutustekniikat (AJAX, JavaScript/ECMAScript,
     Java-sovelmat, Flash, MS Silverlight, ...) ovat vahvasti sidoksissa käyttöympäristöön:
   </p>
       <ul>
-        <li>Parhaassa mahdollisessa tapauksessa kaikilla on käytössään toimiva perustoteutus tietystä palvelusta ja  
-          teknologian salliessa käytössä on rikas käyttöliittymä kaikilla herkuilla, ks. 
+        <li>Parhaassa mahdollisessa tapauksessa kaikilla on käytössään toimiva perustoteutus tietystä palvelusta ja
+          teknologian salliessa käytössä on rikas käyttöliittymä kaikilla herkuilla, ks.
           <a href="http://en.wikipedia.org/wiki/Responsive_web_design">Responsive Web Design</a>
-          <a href="http://en.wikipedia.org/wiki/Progressive_enhancement">Progressive enhancement</a> ja 
+          <a href="http://en.wikipedia.org/wiki/Progressive_enhancement">Progressive enhancement</a> ja
           <a href="http://en.wikipedia.org/wiki/Unobtrusive_JavaScript">Unobtrusive JavaScript.</a></li>
-        <li>Ohjelmallisessa sisällönhallinnassa keskitytään palvelimella toimiviin ratkaisuihin, mutta myös 
-          selainohjelmointia käydään läpi esimerkiksi visualisointien toteuttamisen yhteydessä.</li> 
-        <li>Harjoitustyössä voit vapaasti kokeilla myös selaimeen painottuvaa toteutusta. Esim. 
-          <a href="https://facebook.github.io/react/">React</a> tai  
-          <a href="http://blite.iki.fi/presentations/html5-single-page-applications-intro/">muilla JS-kehyksillä</a> on hyvä haaste varsinkin kokeneemmille 
+        <li>Ohjelmallisessa sisällönhallinnassa keskitytään palvelimella toimiviin ratkaisuihin, mutta myös
+          selainohjelmointia käydään läpi esimerkiksi visualisointien toteuttamisen yhteydessä.</li>
+        <li>Harjoitustyössä voit vapaasti kokeilla myös selaimeen painottuvaa toteutusta. Esim.
+          <a href="https://facebook.github.io/react/">React</a> tai
+          <a href="http://blite.iki.fi/presentations/html5-single-page-applications-intro/">muilla JS-kehyksillä</a> on hyvä haaste varsinkin kokeneemmille
           kehittäjille.</li>
       </ul>
 </div>
-<!--
-<div class="slide">
-   <h1>Lopuksi (1/2)</h1>
-   <p>Hypermedia kehitettiin tieteenä viime vuosituhannen loppupuolella pidemmälle kuin ehkä uskoisikaan.</p>
-   <ul>
-      <li><dfn>Mukautuvan hypermedian</dfn> tutkimuksessa esimerkiksi tuotettiin joukko tekoälytieteeseen
-          perustuvia malleja ja ratkaisuja, joiden vieminen tuotantokäyttöön <em>ei sen aikaisilla välineillä 
-          ollut mahdollista</em> eikä edes tarpeellista: vasta Webin räjähdysmäinen kehitys on tuonut hypermediasovellukset suuren yleisön ulottuville. 
-      </li>
-      <li>Lieneekö syynä NIH-ilmiö vai mikä, mutta (myös) Web-maailmassa on nähtävissä 
-        <em>valitettava suuntaus keksiä pyörä uudestaan</em>: olemassa olevien ideoiden soveltamisen 
-        sijaan sovelluksien toimintoja ja ominaisuuksia suunnitellaan alusta asti kerta toisensa jälkeen.
-      </li>
-      <li>Toki esim. sosiaalisen median suosio ja Web-toteutusteknologioiden huikea kehitys ovat esitelleet 
-        kokonaan uusia mahdollisuuksia -- ja samalla haastavat sovelluskehittäjät uusilla ongelmilla. 
-      </li>
-  </ul>
-</div>
--->
+
 <div class="slide">
   <h1>Lopuksi</h1>
   <p>Näe metsä puilta:</p>
   <ul>
     <li>
-        Web-soveltajien käytössä olevat <span>ilmaisuvoimaiset ohjelmointikielet</span>, 
-        erilaiset <dfn>koostepalveluiden</dfn> eli "Web-survosten" (mashup) kehittämiseen 
-        tarkoitetut kirjastot ja rajapinnat, 
-        sovellusten toteuttamista merkittävästi suoraviivaistavat <dfn>sovelluskehykset</dfn> 
-        ja <a href="http://www.w3c.tut.fi/">W3-konsortion</a> <dfn>Semanttinen Web</dfn> 
+        Web-soveltajien käytössä olevat <span>ilmaisuvoimaiset ohjelmointikielet</span>,
+        erilaiset <dfn>koostepalveluiden</dfn> eli "Web-survosten" (mashup) kehittämiseen
+        tarkoitetut kirjastot ja rajapinnat,
+        sovellusten toteuttamista merkittävästi suoraviivaistavat <dfn>sovelluskehykset</dfn>
+        ja <a href="http://www.w3c.tut.fi/">W3-konsortion</a> <dfn>Semanttinen Web</dfn>
         työvälineineen antavat todellisen mahdollisuuden uusien mielikuvituksellisten (ja
         vanhojen, jo unohdettujen) ideoiden toteuttamiseen.
     </li>
-    <li>Sosiaalinen media, Web-palveluiden APIt ja esimerkiksi avoin data ruokkivat 
-      kiihtyvään tahtiin kehittyvää Web-kehittäjien ekosysteemiä. Kehittäjien luovuus on se keskeisin rajoite. 
+    <li>Sosiaalinen media, Web-palveluiden APIt ja esimerkiksi avoin data ruokkivat
+      kiihtyvään tahtiin kehittyvää Web-kehittäjien ekosysteemiä. Kehittäjien luovuus on se keskeisin rajoite.
     </li>
-    <li>Opintojakson keskeisenä tavoitteena on tutustua <span>joukkoon hypermedian ja informaatiojärjestelmien tutkimuksessa 
-      kehitettyjä ja/tai nykyaikaisista käytännöistä kumpuavia ideoita</span> ja oppia miten ideat voidaan 
+    <li>Opintojakson keskeisenä tavoitteena on tutustua <span>joukkoon hypermedian ja informaatiojärjestelmien tutkimuksessa
+      kehitettyjä ja/tai nykyaikaisista käytännöistä kumpuavia ideoita</span> ja oppia miten ideat voidaan
       käytännössä toteuttaa käytössä olevien ilmaisuvoimaisten teknologioiden tuella.
     </li>
    </ul>
@@ -577,4 +604,4 @@
   })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
   ga('create', 'UA-90754243-1', 'auto');
   ga('send', 'pageview');
-</script></body></html>      
+</script></body></html>
