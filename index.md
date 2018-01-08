@@ -14,12 +14,13 @@ Alan kehitys etenee huimaa tahtia, joten sisältöjä päivitetään vuosittain.
 Myös opintojakson toteutustapaa kehitetään jatkuvasti.
 
 * [Luentopäiväkirja](luentopaivakirja) kokoaa yhteen toteutuskerran keskeiset tiedot ja resurssit
+* [Suorittaminen](suorittaminen) kertoo pisteytyksen ja suorittamisen yksityiskohdat
 
 Seuraavat sivut julkaistaan pian:
 
 * Teknologiademot tukevat harjoitustyön käynnistämistä
 * Harjoitustyöohje esittelee harjoitustyön tekemisen käytännöt
-* Suorittaminen kertoo pisteytyksen ja suorittamisen yksityiskohdat
+
 
 <!--
 * [Teknologiademot](teknologiademo) tukevat harjoitustyön käynnistämistä.
