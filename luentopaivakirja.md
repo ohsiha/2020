@@ -16,7 +16,7 @@ Alan dynaamisuudesta johtuen sisältöjä ja toteutustapaa kuitenkin kehitetää
 
 Toteutuskerran avausluento järjestetään tiistaina 9. tammikuuta 2018 kello 10.15 salissa SJ204.
 
-Esitys [hypertekstinä](http://ohsiha.github.io/2018/luento/01/esitys.html) (*päivityksessä*).
+Esitys [hypertekstinä](http://ohsiha.github.io/2018/luento/01/esitys.html).
 
 Aiheet: Opintojakson ja kevään toteutuskerran esittely ja suorittamisen käytännöt.
 <!-- Koodiklinikalla katselmoidaan  [ohjelmallisen sisällönhallinnan tilaa vuonna 2017](01/25/OHSIHA-vuonna-2017). -->
