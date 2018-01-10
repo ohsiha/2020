@@ -10,7 +10,7 @@ Karkea suunnitelma luentojen etenemisestä:
 1. Web-informaatiojärjestelmien (sisällönhallintajärjestelmien) ydinoiminnallisuus
 1. Vierailuluento: Datajournalismi/DevOps/Lean Startup/Datalähtöinen ongelmanratkaisu
 1. Erityiskysymyksiä: tiedolla johdettu kehittäminen
-1.Erityiskysymyksiä: mukautuvuus & suosittelu
+1. Erityiskysymyksiä: mukautuvuus & suosittelu
 
 Nämäkin ovat kiinnostavia - käsitellään osin opintojaksoilla Johdanto datatieteeseen ja Data- ja informaatioanalytiikka:
 
