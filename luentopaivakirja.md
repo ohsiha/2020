@@ -14,6 +14,8 @@ Alan dynaamisuudesta johtuen sisältöjä ja toteutustapaa kuitenkin kehitetää
 
 ## Luentoviikko 3.2 (viikko 3): Resurssista representaatioksi
 
+Ennakkotehtävä: perehdy [Web-sovellusten arkkitehtuurivaihtoehtoihin](https://blog.octo.com/en/new-web-application-architectures-and-impacts-for-enterprises-1/).
+
 Web-toteutusten perusteet. URI-tunniste, resurssi, representaatio.
 Demo: twiitti resurssina (ks. [simple_read.py](https://github.com/jukkahuhtamaki/pcm-demo/blob/master/twitter-api/simple_read.py)).
 HTML, CSS ja Javascript: sisältö, esitystapa, toiminnallisuus.
