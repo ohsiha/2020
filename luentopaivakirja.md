@@ -12,6 +12,15 @@ Alan dynaamisuudesta johtuen sisältöjä ja toteutustapaa kuitenkin kehitetää
 
 <!-- Tulossa: -->
 
+## Luentoviikko 3.2 (viikko 3): Resurssista representaatioksi
+
+Web-toteutusten perusteet. URI-tunniste, resurssi, representaatio.
+Demo: twiitti resurssina (ks. [simple_read.py](https://github.com/jukkahuhtamaki/pcm-demo/blob/master/twitter-api/simple_read.py)).
+HTML, CSS ja Javascript: sisältö, esitystapa, toiminnallisuus.
+Taustaa tarkemmin: Learn [HTML &amp; CSS](https://www.codecademy.com/learn/web), [Javascript](https://www.codecademy.com/learn/javascript).
+Edistyneille: [Bootstrap](http://getbootstrap.com/).
+Koodiklinikalla tunnistetaan [jekyll-now](https://github.com/barryclark/jekyll-now) -kirjastosta esimerkkejä Web-toteutusten perusteista.
+
 ## Luentoviikko 3.1 (viikko 2): Käytännöt ja katsaus ohjelmallisen sisällönhallinnan nykytilaan
 
 Toteutuskerran avausluento järjestetään tiistaina 9. tammikuuta 2018 kello 10.15 salissa SJ204.
