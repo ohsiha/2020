@@ -16,8 +16,13 @@ Alan dynaamisuudesta johtuen sisältöjä ja toteutustapaa kuitenkin kehitetää
 
 Ennakkotehtävä: perehdy [Web-sovellusten arkkitehtuurivaihtoehtoihin](https://blog.octo.com/en/new-web-application-architectures-and-impacts-for-enterprises-1/).
 
-Web-toteutusten perusteet. URI-tunniste, resurssi, representaatio.
+Web-toteutusten perusteet. 
+URI-tunniste, resurssi, representaatio (ks. 
+[Architecture of the World Wide Web](https://www.w3.org/TR/webarch/#p20)). 
+[Viileät URI-tunnisteet eivät muutu](https://www.w3.org/Provider/Style/URI). 
+Elegantit URI-tunnisteet (ks. [Use RESTful URLs and actions](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api#restful)).
 Demo: twiitti resurssina (ks. [simple_read.py](https://github.com/jukkahuhtamaki/pcm-demo/blob/master/twitter-api/simple_read.py)).
+Demo: jQueryllä resurssi representaatioksi.
 HTML, CSS ja Javascript: sisältö, esitystapa, toiminnallisuus.
 Taustaa tarkemmin: Learn [HTML &amp; CSS](https://www.codecademy.com/learn/web), [Javascript](https://www.codecademy.com/learn/javascript).
 Edistyneille: [Bootstrap](http://getbootstrap.com/).
