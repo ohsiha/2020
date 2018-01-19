@@ -16,6 +16,8 @@ Myös opintojakson toteutustapaa kehitetään jatkuvasti.
 * [Luentopäiväkirja](luentopaivakirja) kokoaa yhteen toteutuskerran keskeiset tiedot ja resurssit
 * [Suorittaminen](suorittaminen) kertoo pisteytyksen ja suorittamisen yksityiskohdat
 
+Ensimmäiseen demoon pääsee [tästä](https://ohsiha.github.io/2018/01/19/html-css-django-perusteet.html)
+
 Seuraavat sivut julkaistaan pian:
 
 * Teknologiademot tukevat harjoitustyön käynnistämistä
