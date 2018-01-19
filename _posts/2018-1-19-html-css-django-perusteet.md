@@ -36,6 +36,24 @@ Django on melko yleinen web-sovelluskehityksessä. Mm. Instagram ja Pinterest on
 
 Python on melko uusi ja tulkattava ohjelmointikieli. Pythonin vahvuudet ovat sen monikäyttöisyys muun muassa web-sovelluskehityksessä ja datatieteessä. Python on myös "helppo" ohjelmointikieli, jonka syntaksi on melko yksiselitteinen.
 
+### Djangon asennus ###
+
+Hyvä ohjeistus myös [täältä](https://www.codingforentrepreneurs.com/blog/install-python-django-on-windows/). Harkkatyötä ajatellen: Djangon [dokumentaatio](https://docs.djangoproject.com/en/1.11/) on todella hyödyllinen!
+
+Ladattavat komponentit:
+- Python 3.x
+- pip
+- virtualenv
+- Django
+
 Django toimii Pythonin päällä. Ensin ladattava Python: https://www.python.org/downloads/. Kannattaa ladata uusin versio, yhteensopivuudet Djangon kanssa näkee [täältä](https://docs.djangoproject.com/en/1.11/faq/install/#faq-python-version-support).
 
-Djangon [dokumentaatio](https://docs.djangoproject.com/en/1.11/) on todella hyödyllinen!
+**HUOM Windows-käyttäjät! Varmistakaa, että checkbox on merkattuna kohdassa "Add Python 3.6.4 to PATH"**
+
+Pythonin version näkee Windowsilla C:\Windows\py.exe, Macilla komentoriviltä "python -V".
+
+[Pip](https://en.wikipedia.org/wiki/Pip_(package_manager)) on paketinhallintajärjestelmä Pythonille. Lataaminen Windowsille onnistuu seuraamalla [tätä](https://github.com/BurntSushi/nfldb/wiki/Python-&-pip-Windows-installation#pip-install) linkkiä (huom. Pythonin 3.6.x versiossa Windowsin komentorivillä Pythonin kutsuminen tapahtuu "python" sijaan "py").
+
+Virtualenvin lataaminen onnistuu komennolla *pip install virtualenv*. Tämä on todella hyödyllinen harkkatyötä ajatellen.
+
+Pip-paketinhallintajärjestelmän avulla onnistuu myös Djangon asentaminen komennolla *pip install django*. Varmistus siitä, että Django on ladattu, onnistuu komennoilla *py*, jonka jälkeen *import django* sekä *print(django.get_version())*.
