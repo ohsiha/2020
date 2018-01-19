@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Ensimmäinen tehtävä</title>
+  </head>
+  <body>
+    <h1>Tehtävä:</h1>
+    <h2>hello_world.html</h2>
+    <ul>
+      <li>Tutustukaa sivuilla olleisiin dokumentaatioihin ja kehiteltää oma Hello World -sivunne</li>
+      <li>Samalla tutustukaa tekstieditoriin ja sen käyttöön</li>
+      <li>F12 avaa selaimessa konsolin</li>
+      <li>Jos aikaa, tutkikaa &lt;script&gt;-komentoa</li>
+      <li>Muistakaa aina tallentaa tekstieditorissa ennen kuin päivitätte sivun!</li>
+    </ul>
+
+    <h2>Kysymyksiä:</h2>
+
+    <ul>
+      <li>Resurssi vai representaatio?</li>
+      <ul>
+      <li id="ykkonen"><button onclick="vastaus1()">Vastaus</button></li>
+      </ul>
+      <li>Onko tämä web-sovellus? Jos ei, mitä puuttuu?</li>
+      <ul>
+      <li id="kakkonen"><button onclick="vastaus2()">Vastaus</button></li>
+      </ul>
+      <li>Muuta kysyttävää/kommentoitavaa?</li>
+    </ul>
+
+  <script>
+  function vastaus1() {document.getElementById("ykkonen").innerHTML = "Representaatio, HTML-dokumentit ovat aina representaatioita";}
+  </script>
+
+  <script>
+  function vastaus2() {document.getElementById("kakkonen").innerHTML = "Ei kytköksissä internettiin, staattinen";}
+  </script>
+
+  </body>
+</html>
