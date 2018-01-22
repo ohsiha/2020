@@ -1,0 +1,26 @@
+h1{
+  color: red;
+}
+
+body{
+  font-family: monospace;
+}
+
+ul{
+  border-color: red;
+  border-width: thick;
+  border-style: dotted;
+  margin-right: 200px;
+}
+
+span{
+  color: red;
+}
+
+.test{
+  background-color: grey;
+}
+
+#asd{
+  font-style: italic;
+}

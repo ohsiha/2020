@@ -2,7 +2,7 @@
 
 ## Editorit ja selaimet ##
 
-Web-sovellusten kehitykseen tarvitaan tekstieditori (tai [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment) kuten [Pycharm](https://en.wikipedia.org/wiki/Integrated_development_environment)) sekä selain, jolla voidaan seurata muutoksia.
+Web-sovellusten kehitykseen tarvitaan tekstieditori (tai [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment) kuten [Pycharm](https://www.jetbrains.com/pycharm/)) sekä selain, jolla voidaan seurata muutoksia.
 
 Päteviä tekstieditoreita ovat
 - [Atom](https://atom.io/)
@@ -42,8 +42,8 @@ Hyvä ohjeistus myös [täältä](https://www.codingforentrepreneurs.com/blog/in
 
 Ladattavat komponentit:
 - Python 3.x
-- pip
-- virtualenv
+- pip (tai muu, esim. anaconda)
+- (virtualenv)
 - Django
 
 Django toimii Pythonin päällä. Ensin ladattava Python: https://www.python.org/downloads/. Kannattaa ladata uusin versio, yhteensopivuudet Djangon kanssa näkee [täältä](https://docs.djangoproject.com/en/1.11/faq/install/#faq-python-version-support).
@@ -57,3 +57,15 @@ Pythonin version näkee Windowsilla C:\Windows\py.exe, Macilla komentoriviltä "
 Virtualenvin lataaminen onnistuu komennolla *pip install virtualenv*. Tämä on todella hyödyllinen harkkatyötä ajatellen.
 
 Pip-paketinhallintajärjestelmän avulla onnistuu myös Djangon asentaminen komennolla *pip install django*. Varmistus siitä, että Django on ladattu, onnistuu komennoilla *py*, jonka jälkeen *import django* sekä *print(django.get_version())*.
+
+### Ensimmäinen Django-projekti ###
+
+Mikäli aiemmat vaiheet ovat onnistuneet, pitäisi Django olla asennettuna tietokoneelle. Seuraava vaihe on perustaa ensimmäinen django-projekti. Tämä onnistuu seuraavasti:
+
+- *django-admin startproject hello_world*
+- *cd hello_world*
+- *py manage.py runserver*
+
+Projekti pitäisi tämän jälkeen olla käynnissä lokaalisti, oletuksena http://127.0.0.1:8000/.
+
+Kaikki nämä, ja tarkemmat ohjeet ovat Djangon [tutoriaali-sivulla](https://docs.djangoproject.com/en/2.0/intro/tutorial01/).
