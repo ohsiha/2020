@@ -8,6 +8,8 @@ Tämä on Ohjelmallisen sisällönhallinnan kevään 2018 toteutuskerran luentop
 Toteutus noudattelee [vuoden 2017 toteutuskertaa](https://ohsiha.github.io/2017/luentopaivakirja).
 Alan dynaamisuudesta johtuen sisältöjä ja toteutustapaa kuitenkin kehitetään jatkuvasti.
 
+Osa luennoista tallennetaan [Echo360-järjestelmällä](https://echo360.org.uk/section/8b218f60-14ef-4b65-9d88-1d910ce34f49/public).
+
 # Luentopäiväkirja
 
 <!-- Tulossa: -->
