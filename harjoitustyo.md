@@ -145,11 +145,7 @@ Opiskelija saa valita harjoitustyönsä aiheen vapaasti, luonnollisesti hyvän m
   Ota yhteyttä Jukkaan jos olet kiinnostunut mahdollisuudesta.
 </p>
 
-
-Edellä kuvatut neljä kokonaisuutta voit toteuttaa omalla koneellasi pyörivässä paikallisessa kehitysympäristössä. Mikäli haluat kerätä lisää pisteitä seuraavia kokonaisuuksia toteuttamalla, sinun on ensin julkaistava palvelusi Webiin. 
-
-
-<p>Lisäksi pisteitä voi kerätä seuraavista toteutuksista - palautus <strong>perjantaihin 5. toukokuuta kello 17</strong> mennessä:</p>
+Edellä kuvatut neljä kokonaisuutta voit toteuttaa omalla koneellasi pyörivässä paikallisessa kehitysympäristössä. Mikäli haluat kerätä **lisää pisteitä seuraavia kokonaisuuksia toteuttamalla**, sinun on ensin julkaistava palvelusi Webiin. Palautus <strong>perjantaihin 5. toukokuuta kello 17</strong> mennessä:
 
 **SPA-toteutus** (3 pistettä):
 Palvelusi toimii Single Page Application -periaatteella. Toteutus perustuu esimerkiksi 
@@ -195,8 +191,7 @@ AJAX-teknologian soveltaminen verkkopalvelun käyttöliittymän toteutuksessa (s
 </p>
 
 
-<strong>Kertakirjautuminen</strong> (1 pistettä):  
-Yksittäiset palveluntarjoajat tarjoavat usein <a href="http://oauth.net/" target="_blank">OAuth-protokollaan</a> perustuvia keinoja kertakirjautumisen toteuttamiseen,
+<strong>Kertakirjautuminen</strong> (1 pistettä): Yksittäiset palveluntarjoajat tarjoavat usein <a href="http://oauth.net/" target="_blank">OAuth-protokollaan</a> perustuvia keinoja kertakirjautumisen toteuttamiseen,
 ks. esimerkiksi <a href="http://developers.facebook.com/connect.php" target="_blank">Facebook</a><a href="http://developers.facebook.com/docs/guides/web/#login" target="_blank"> for Websites: Authentication</a>,
 <a href="http://code.google.com/apis/accounts/docs/GettingStarted.html" target="_blank">Authentication and Authorization for Google APIs</a> ja
 <a href="https://dev.twitter.com/docs/auth" target="_blank">Twitter: </a><a href="https://dev.twitter.com/docs/auth" target="_blank">Authentication &amp; Authorization</a>.
@@ -213,7 +208,7 @@ Mahdollista sovelluksesi keräämän tietosisällön hyödyntäminen ja/tai muok
 
 <p>Erityisen hyödyllisiksi osoittautuvat opiskelijoiden toteuttamat ohjeet palkitaan porkkanapistein. Tarjolla on yhteensä 6 pistettä, jotka lisätään kaikkien muiden kerättyjen pisteiden päälle.</p>
 
-<h3 id="raportointi">Harjoitustyön raportointi</h3>
+<h2 id="raportointi">Harjoitustyön raportointi</h3>
 
 <p>Harjoitustyöpisteet kerätään julkaisemalla toteutuskerran Slackissä tiivis kuvaus toteuttamastasi toiminnosta. </p>
 
@@ -246,7 +241,8 @@ Kuvauksen mukainen viesti on toimitettava Slackiin viimeistään perjantaina kel
   #dotnet.
 <!--   ja osoita viesti Ohjelmallinen sisällönhallinta -ryhmälle (Valitse Ryhmät &gt; Näkyvyys &gt; Ohjelmallinen sisällönhallinta 2016).
  --></p>
-<h3 id="loppuraportti">Loppuraportti</h3>
+
+<h2 id="loppuraportti">Loppuraportti</h3>
 <p>
   Harjoitustyön palautus tapahtuu lähettämällä oheisen mallin mukainen tiedote osoitteeseen <a href="mailto:jukka.huhtamaki@tut.fi">jukka.huhtamaki@tut.fi</a>.
   Lähetä viesti otsikolla #OHSIHA: työ valmis <em>perjantaihin 11. toukokuuta kello 17 mennessä</em>.
