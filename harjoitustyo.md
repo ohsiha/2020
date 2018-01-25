@@ -111,9 +111,7 @@ Opiskelija saa valita harjoitustyönsä aiheen vapaasti, luonnollisesti hyvän m
   Harjoitustyöstä voi kerätä pisteitä yhteensä 18 kappaletta.
   Harjoitustyöstä kerättävät pisteet vaikuttavat arvosanaan 
   [suorittamisohjeen](https://ohsiha.github.io/2018/suorittaminen) mukaisesti
-  
- 
-</p>
+   
 <p>Neljä vaihetta:</p>
 <ol>
 <li>
