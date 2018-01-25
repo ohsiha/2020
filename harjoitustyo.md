@@ -208,7 +208,7 @@ Mahdollista sovelluksesi keräämän tietosisällön hyödyntäminen ja/tai muok
 
 <p>Erityisen hyödyllisiksi osoittautuvat opiskelijoiden toteuttamat ohjeet palkitaan porkkanapistein. Tarjolla on yhteensä 6 pistettä, jotka lisätään kaikkien muiden kerättyjen pisteiden päälle.</p>
 
-<h2 id="raportointi">Harjoitustyön raportointi</h3>
+<h2 id="raportointi">Harjoitustyön raportointi</h2>
 
 <p>Harjoitustyöpisteet kerätään julkaisemalla toteutuskerran Slackissä tiivis kuvaus toteuttamastasi toiminnosta. </p>
 
