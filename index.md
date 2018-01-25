@@ -20,11 +20,7 @@ Myös opintojakson toteutustapaa kehitetään jatkuvasti.
 
 <!-- Ensimmäiseen demoon pääsee [tästä](https://ohsiha.github.io/2018/01/19/html-css-django-perusteet.html) -->
 
-Seuraavat sivut julkaistaan pian:
-
-<!-- * Teknologiademot tukevat harjoitustyön käynnistämistä -->
-* Harjoitustyöohje esittelee harjoitustyön tekemisen käytännöt
-
+<!-- Seuraavat sivut julkaistaan pian: -->
 
 <!--
 * [Teknologiademot](teknologiademo) tukevat harjoitustyön käynnistämistä.

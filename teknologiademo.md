@@ -7,3 +7,5 @@ Laadi ja vedä demo esimerkiksi seuraavista teemoista ja kerää kuusi (6) harjo
 * [jQuery](https://jquery.com/) ja sen käyttö osana harjoitustyötä.
 * Rajapintaohjelmointi. Ota käyttöön jokin kiinnostava API ja näytä, miten APIsta luettavia resursseja muunnetaan representaatioiksi käyttäjän ohjaamana.
 * [REACT](https://reactjs.org/)in perusteet, ja miten niitä voidaan hyödyntää harjoitustyössä.
+
+Voit myös ehdottaa Slackissä jotain muuta teknologiaa, jota haluaisit demota.
