@@ -15,12 +15,14 @@ Myös opintojakson toteutustapaa kehitetään jatkuvasti.
 
 * [Luentopäiväkirja](luentopaivakirja) kokoaa yhteen toteutuskerran keskeiset tiedot ja resurssit
 * [Suorittaminen](suorittaminen) kertoo pisteytyksen ja suorittamisen yksityiskohdat
+* [Teknologiademot](teknologiademo) tukevat harjoitustyön eri osa-alueita.
+* [Harjoitustyöohje](harjoitustyo) esittelee harjoitustyön tekemisen käytännöt.
 
-Ensimmäiseen demoon pääsee [tästä](https://ohsiha.github.io/2018/01/19/html-css-django-perusteet.html)
+<!-- Ensimmäiseen demoon pääsee [tästä](https://ohsiha.github.io/2018/01/19/html-css-django-perusteet.html) -->
 
 Seuraavat sivut julkaistaan pian:
 
-* Teknologiademot tukevat harjoitustyön käynnistämistä
+<!-- * Teknologiademot tukevat harjoitustyön käynnistämistä -->
 * Harjoitustyöohje esittelee harjoitustyön tekemisen käytännöt
 
 

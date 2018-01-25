@@ -12,14 +12,20 @@ Alan dynaamisuudesta johtuen sisältöjä ja toteutustapaa kuitenkin kehitetää
 
 <!-- Tulossa: -->
 
+## Luentoviikko 3.3 (viikko 4): Web-sovelluskehityksen perusteita ja harjoitustyöohje
+
+Ensimmäinen [teknologiademo harjoitustyöhön liittyen](https://ohsiha.github.io/2018/01/19/html-css-django-perusteet.html). HTML/CSS:n perusteet ([MDN Web Docs](https://developer.mozilla.org/fi/) ja [W3 Schools](https://www.w3schools.com/)) sekä Django-kehitysympäristön ja siihen vaadittavien komponenttien pystyttäminen sekä Djangon [dokumentaatioon](https://docs.djangoproject.com/en/2.0/) tutustuminen.
+
+Koodiklinikalla käydään [harjoitustyöohje](https://ohsiha.github.io/2018/harjoitustyo).
+
 ## Luentoviikko 3.2 (viikko 3): Resurssista representaatioksi
 
 Ennakkotehtävä: perehdy [Web-sovellusten arkkitehtuurivaihtoehtoihin](https://blog.octo.com/en/new-web-application-architectures-and-impacts-for-enterprises-1/).
 
-Web-toteutusten perusteet. 
-URI-tunniste, resurssi, representaatio (ks. 
-[Architecture of the World Wide Web](https://www.w3.org/TR/webarch/#p20)). 
-[Viileät URI-tunnisteet eivät muutu](https://www.w3.org/Provider/Style/URI). 
+Web-toteutusten perusteet.
+URI-tunniste, resurssi, representaatio (ks.
+[Architecture of the World Wide Web](https://www.w3.org/TR/webarch/#p20)).
+[Viileät URI-tunnisteet eivät muutu](https://www.w3.org/Provider/Style/URI).
 Demo: twiitti resurssina (ks. [simple_read.py](https://github.com/jukkahuhtamaki/pcm-demo/blob/master/twitter-api/simple_read.py)).
 Elegantit URI-tunnisteet (ks. [Use RESTful URLs and actions](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api#restful)).
 Demo: jQueryllä resurssi representaatioksi.
