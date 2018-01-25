@@ -1,15 +1,21 @@
-<p><strong>Status:</strong> Päivitetty vuodelle 2017.</p>
+---
+layout: default
+title: Luentopäiväkirja / OHSIHA 2018
+year: 2018
+---
 
-<p><strong>Ilmoita epäjohdonmukaisuuksista <a href="http://hlab.ee.tut.fi/hmopetus/kayttajat/jukka-huhtamaki">Jukalle</a>.</strong></p>
+<p><strong>Status:</strong> Ohjetta päivitetään vuodelle 2018.</p>
 
-<p>
-Harjoitustyö on pakollinen osa Ohjelmallisen sisällönhallinnan
+<p><strong>Ilmoita epäjohdonmukaisuuksista
+  <a href="http://hlab.ee.tut.fi/hmopetus/kayttajat/jukka-huhtamaki">Jukalle</a>.</strong></p>
+
+<p>Harjoitustyö on pakollinen osa Ohjelmallisen sisällönhallinnan
 <a href="suorittaminen">suorittamista</a>.
 Näin siksi, että sisällön käsittelyn automatisoinnin ja verkkopalveluiden toiminnallisuuksien kehittäminen edellyttää välttämättä käytännön harjoittelua.</p>
 <p>Harjoitustyön lopputuloksena syntyy koodiportfolio, joka kokoaa yhteen harjoitustyöhön toteutetut toiminnot ja niiden tiiviin dokumentaation.
 <!--   (ks. <a href="http://matriisi.ee.tut.fi/hmopetus/ohsiha/2016/htyo/koodiportfolio.html" target="_blank">koodiportfolion sivupohja</a> (käytä selaimen Tallenna nimellä -toimintoa, jotta tiedoston merkistökoodaus säilyy ja näet ääkköset oikein)).  -->
 </p>
-<p>Keväällä 2017 voit käyttää harjoitustyön tekemiseen seuraavia vaihtoehtoisia teknologioita:</p>
+<p>Keväällä 2018 voit käyttää harjoitustyön tekemiseen seuraavia vaihtoehtoisia teknologioita:</p>
 <ul>
 <li><a href="http://www.djangoproject.com/" target="_blank">Django</a>, <a href="http://flask.pocoo.org/" target="_blank">Flask</a>, <a href="http://www.pylonsproject.org/" target="_blank">Pylons</a> (<a href="http://turbogears.org/" target="_blank">TurboGears</a>, <a href="http://bfg.repoze.org/" target="_blank">BFG</a>) tai muu valitsemasi Python-kehys </li>
 <li><a href="http://rubyonrails.org/" target="_blank">Ruby on Rails</a></li>
@@ -18,13 +24,17 @@ Näin siksi, että sisällön käsittelyn automatisoinnin ja verkkopalveluiden t
 <li>.Net</li>
 </ul>
 <p>
+	Mikäli olet aloitteleva Web-kehittäjä, suosittelemme Django-kehystä. 
+	Jos taas olet suorittanut Web-ohjelmoinnin tai olet muuten jo ehtinyt kerryttämään devausosaamistasi, kannustamme valitsemaan itsellesi uuden teknologian. 
+</p>
+<p>
   Käyttötarkoitukseen soveltuvan toteutusteknologian valinta on keskeinen osa onnistunutta Web-kehitysprojektia.
   Tästä syystä on hyödyllistä tutustua eri teknologioihin - vahvuuksineen ja heikkouksineen.
 </p>
-<p>
+<!--<p>
   Halutessasi voit tehdä harjoitustyön myös räätälöitävällä sisällönhallintajärjestelmällä, esimerkiksi tiettyyn käyttötarkoitukseen muokatulla <a href="https://fi.wordpress.org/">WordPressillä</a>.
 </p>
-<p>
+--><p>
   Ohjelmallisen sisällönhallinnan harjoitustyössä keskitytään järjestelmien toiminnallisuuksiin ja automatisoinnissa tarvittaviin prosesseihin.
   Tämä tarkoittaa käytännössä esimerkiksi yhteisöllisten toimintojen kehittämistä, sovelluksen keräämän datan esittämistä visualisoiden tai muuta (palvelun käyttäjän näkökulmasta) "luovaa" toimintaa.
   Teknisen arkkitehtuurin laadukas toteutus on siis nyt toissijainen tavoite.
