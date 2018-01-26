@@ -12,7 +12,15 @@ Osa luennoista tallennetaan [Echo360-järjestelmällä](https://echo360.org.uk/s
 
 # Luentopäiväkirja
 
-<!-- Tulossa: -->
+<!-- Tulossa: 
+* Resurssikeskeinen arkkitehtuuri, API-talous, koostepalvelut
+* Web-informaatiojärjestelmien (sisällönhallintajärjestelmien) arkkitehtuuri
+* Vierailuluento: Datajournalismi/DevOps/Lean Startup/Datalähtöinen ongelmanratkaisu
+* Erityiskysymyksiä: tiedolla johdettu kehittäminen
+* Erityiskysymyksiä: mukautuvuus & suosittelu
+-->
+
+Tulossa luentoviikolla 3.4: Resurssikeskeinen arkkitehtuuri ja API-talous. Lue taustaksi API-talous 101 -kirjan [ensimmäinen luku](https://www.apitalous101.fi/luku-varoitus).
 
 ## Luentoviikko 3.3 (viikko 4): Web-sovelluskehityksen perusteita ja harjoitustyöohje
 
