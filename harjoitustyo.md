@@ -117,7 +117,7 @@ Opiskelija saa valita harjoitustyönsä aiheen vapaasti, luonnollisesti hyvän m
 <li>
   Kehitysympäristön perustaminen: Django käyntiin omalle koneelle
   tai esimerkiksi Herokun käyttöönotto.
-  Katso <a href="https://ohsiha.github.io/2017/02/15/Htyo-vaihe-1.html">tarkempi ohje</a>.
+  Katso <a href="https://ohsiha.github.io/2018/01/26/htyo-vaihe-1">tarkempi ohje</a>.
   Palautus <strong>perjantaihin 23. helmikuuta kello 17</strong> mennessä. (3 pistettä)
 </li>
 <li>
