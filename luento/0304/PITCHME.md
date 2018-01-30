@@ -3,12 +3,10 @@
 ---
 ## Lomakkeet ja HTTP    
 <p>Lomaketoteutukset kommunikoivat Web-palvelimien kanssa HTTP-protokollalla.</p>
-</div>
 
 ---
 
-<div class="slide">
-   <h1>Verkkopalvelu ja toimintojen luonne</h1>
+## Verkkopalvelu ja toimintojen luonne
    <p>Nykyaikainen Web-arkkitehtuuri (<a href="http://www.w3.org/TR/webarch/"><span>http://www.w3.org/TR/webarch/</span></a>) jakaa verkkopalveluiden toiminnot kahteen luokkaan, <dfn>turvallisiin</dfn> ja <dfn>ei-turvallisiin</dfn>:
    </p>
    <ul>
@@ -28,12 +26,11 @@
          </ul>
       </li>
    </ul>
-</div>
 
 ---
 
-<div class="slide">
-   <h1>Toiminnon luonne &amp; välitystavan valinta</h1>
+## Toiminnon luonne &amp; välitystavan valinta
+
    <p>Selain välittää käyttäjän syötteen palvelimelle HTTP-pyyntönä. Lomakesoveltajan valittavana ovat seuraavat HTTP-metodit:
    </p>
    <ul>
@@ -52,12 +49,11 @@
       </li>
    </ul>
    <p>Myös Web-selaimessa näkyviä eroja! Mitä?</p>
-</div>
 
 ---
 
-<div class="slide">
-   <h1>Kertaus: Pysyvät URI-tunnisteet</h1>
+## Kertaus: Pysyvät URI-tunnisteet
+
    <p>Huomioi myös URI-tunnisteiden <span>pysyvyys</span> (stability) ja <span>ennustettavuus</span> (predictability):</p>
       <ul>
           <li>Resurssia edustava representaatio URI-tunnisteen on tarjolla ajanhetkestä riippumatta </li>
@@ -68,13 +64,11 @@
          kirjanmerkit, linkit ja välimuistin toiminta.</li>
       <li>Esimerkki: <a href="http://aikataulut.tampere.fi/?key=3525&amp;stop=3525">pysäkin numero 3525 aikataulu</a>. Myös ongelmia! Mitä?</li>
    </ul>
-</div>
 
 ---
 
-<div class="slide">
-   <h1>Istunnon hallinta
-   </h1>
+## Istunnon hallinta
+
    <ul>
       <li>
          HTTP-protokollan
@@ -112,6 +106,11 @@
          </ul>
       </li>
    </ul>
+
+   ---
+
+   ## Istunnoista
+
    <ul>
       <li>
          Huomaa, että
@@ -130,9 +129,11 @@
 
       </li>
    </ul>
-</div>
-<div class="slide">
-   <h1>Istunnot käytännössä</h1>
+
+---
+
+## Istunnot käytännössä
+
    <ul>
       <li>
          Istunnon
@@ -173,33 +174,41 @@
          toiminnallisuus toteutetaan istuntojen avulla.
       </li>
    </ul>
-</div>
 
 ---
 
-# Mieti: SPA ja istunnot
+## Pohdinta: SPA ja istunnot
 
 ---
 
-<div class="slide">
-<h1>Kohti AJAXia</h1>
+## Kohti AJAXia
+
 <p>Kolmikerrosmalli esittelee Web-hypermediajärjestelmän teknisen perustan. </p>
 <p>AJAX (Asynchronous JavaScript And XML) mahdollistaa entistä vuorovaikutteisempien sovellusten kehittämisen ja esittelee lisää kerroksia arkkitehtuuriin.</p>
 <p>
   Ks. havainnollinen [kaaviokuva AJAX-periaatteesta](http://www.webstepbook.com/supplements-2ed/slides/chapter12-ajax-xml-json.shtml#slide7).
 </p>
-</div>
+
 
 ---
 
-<div class="slide">
-  <h1>Kohti RESTiä</h1>
+Kohti RESTiä</h1>
   <p>Kolmikerrosmalli esittelee Web-hypermediajärjestelmän teknisen perustan. </p>
   <p>REST (Representational State Transfer) -malli (Fielding 2000) laajentaa ja yleistää mallia kohti hajautettua Web-hypermediaa, vrt.
       </p>
   <p><img src="http://www.ibm.com/developerworks/websphere/library/techarticles/0708_colonnese/images/figure1.jpg" alt="Fielding (2000): REST-mallin prosessinäkymä"/></p>
   <p>Kuva: (Fielding, 2000)</p>
 </div>
+
+---
+
+## HATEOS
+
+<blockquote><p>Hypermedia As The Engine Of Application State (HATEOAS) is a constraint of the REST application architecture that distinguishes it from other network application architectures.</p>
+
+<p>With HATEOAS, a client interacts with a network application that application servers provide dynamically entirely through hypermedia. A REST client needs no prior knowledge about how to interact with an application or server beyond a generic understanding of hypermedia.</p>
+
+([Wikipedia: HATEOS](https://en.wikipedia.org/w/index.php?title=HATEOAS&oldid=812361783))
 
 ---
 
