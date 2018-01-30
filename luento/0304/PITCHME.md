@@ -135,18 +135,18 @@ tuella:
 
 Istunnon tunnisteen välittämiseen on useita tapoja:
 
-         <ul>
-            <li><span>Evästeet</span> (Cookie)</li>
-            <li>
-               <span>HTTP GET:</span> Istunnon tunniste sijoitetaan muiden pyynnön
-               parametrien tapaan osaksi URI-tunnistetta (<code>example.php?sessionid=xyz123</code>) =&gt;
-               ongelmia!
-            </li>
-            <li>
-               <span>HTTP POST:</span> Istunnon tunniste sijoitetaan HTML-lomakkeen
-               piilokenttään.
-            </li>
-         </ul>
+<ul>
+    <li><span>Evästeet</span> (Cookie)</li>
+    <li>
+       <span>HTTP GET:</span> Istunnon tunniste sijoitetaan muiden pyynnön
+       parametrien tapaan osaksi URI-tunnistetta (<code>example.php?sessionid=xyz123</code>) =&gt;
+       ongelmia!
+    </li>
+    <li>
+       <span>HTTP POST:</span> Istunnon tunniste sijoitetaan HTML-lomakkeen
+       piilokenttään.
+    </li>
+</ul>
 
 ---
 
