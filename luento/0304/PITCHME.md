@@ -1,4 +1,4 @@
-# Resurssikeskeinen arkkitehtuuri
+<h1 style="font-size: smaller;">Resurssikeskeinen arkkitehtuuri</h1>
 
 ---
 
