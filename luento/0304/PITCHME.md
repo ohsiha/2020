@@ -138,15 +138,7 @@ tuella:
          Istunnon
          tunnisteen välittämiseen on useita tapoja:
          <ul>
-            <li>
-               <span>Evästeet</span> (Cookie): Eväste on (lyhyt) merkkijono, jonka
-               verkkopalvelu välittää asiakkaalle HTTP-vastauksen mukana. Eväste
-               tallennetaan käyttäjän koneelle joko istunnon ajaksi tai pysyvästi
-               kovalevylle. Asiakas lähettää evästeen palvelulle jokaisen
-               palvelupyynnön mukana. Evästeitä nimitetään usein kekseiksi,
-               pipareiksi tai jopa taikapipareiksi
-
-            </li>
+            <li><span>Evästeet</span> (Cookie)</li>
             <li>
                <span>HTTP GET:</span> Istunnon tunniste sijoitetaan muiden pyynnön
                parametrien tapaan osaksi URI-tunnistetta (<code>example.php?sessionid=xyz123</code>) =&gt;
@@ -159,6 +151,22 @@ tuella:
          </ul>
       </li>
    </ul>
+
+---
+
+## Evästeet
+
+Eväste on (lyhyt) merkkijono, jonka
+verkkopalvelu välittää asiakkaalle HTTP-vastauksen mukana. Eväste
+tallennetaan käyttäjän koneelle joko istunnon ajaksi tai pysyvästi
+kovalevylle. Asiakas lähettää evästeen palvelulle jokaisen
+palvelupyynnön mukana. Evästeitä nimitetään usein kekseiksi,
+pipareiksi tai jopa taikapipareiksi
+
+---
+
+## Evästeet ja istunnot
+
    <ul>
       <li>
          Evästeen voimassaoloaika voidaan määritellä evästä asetettaessa. Eväste
