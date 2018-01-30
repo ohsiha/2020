@@ -1,10 +1,8 @@
 <h1 style="font-size: smaller;">Resurssikeskeinen arkkitehtuuri</h1>
 
 ---
-
-<div class="slide intermission">
-    <h1>Lomakkeet ja HTTP</h1>
-    <p>Lomaketoteutukset kommunikoivat Web-palvelimien kanssa HTTP-protokollalla.</p>
+## Lomakkeet ja HTTP    
+<p>Lomaketoteutukset kommunikoivat Web-palvelimien kanssa HTTP-protokollalla.</p>
 </div>
 
 ---
