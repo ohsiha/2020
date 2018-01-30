@@ -80,10 +80,8 @@ tilattomuus on jo tuttua, mutta kerrataanpa vielä:
 HTTP-protokollassa ei ole sisäänrakennettua keinoa sovelluksen
 tilan ylläpitämiseen.
 
-<ul>      <li>
-         Sovelluksen
-         tilan ylläpitäminen toteutetaan <dfn>istuntojen</dfn> (session)
-         tuella:
+Sovelluksen tila ylläpidetään <dfn>istuntojen</dfn> (session)
+tuella:
          <ul>
             <li>
                Sisäänkirjautuminen
