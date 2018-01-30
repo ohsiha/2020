@@ -197,8 +197,7 @@ pipareiksi tai jopa taikapipareiksi
 
 ## Kohti RESTiä
 
-<p>Kolmikerrosmalli esittelee Web-hypermediajärjestelmän teknisen perustan. </p>
-<p>REST (Representational State Transfer) -malli (Fielding 2000) laajentaa ja yleistää mallia kohti hajautettua Web-hypermediaa, vrt.
+<p>REST (Representational State Transfer) -malli (Fielding 2000) laajentaa ja yleistää kolmikerrosmallia kohti hajautettua Web-hypermediaa, vrt.
     </p>
 <p><img src="https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_process_view.gif" alt="Fielding (2000): REST-mallin prosessinäkymä"/></p>
 
