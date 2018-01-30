@@ -75,10 +75,10 @@
 
 ## Istunnon hallinta
 
-         HTTP-protokollan
-         tilattomuus on jo tuttua, mutta kerrataanpa vielä:
-         HTTP-protokollassa ei ole sisäänrakennettua keinoa sovelluksen
-         tilan ylläpitämiseen.
+HTTP-protokollan
+tilattomuus on jo tuttua, mutta kerrataanpa vielä:
+HTTP-protokollassa ei ole sisäänrakennettua keinoa sovelluksen
+tilan ylläpitämiseen.
 
 <ul>      <li>
          Sovelluksen
