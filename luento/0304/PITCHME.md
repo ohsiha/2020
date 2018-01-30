@@ -207,7 +207,7 @@ Kuva: ([Fielding, 2000](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest
 
 ## HATEOS
 
-<blockquote><p>Hypermedia As The Engine Of Application State (HATEOAS) is a constraint of the REST application architecture that distinguishes it from other network application architectures.</p>
+<blockquote style="font-size: smaller;"><p>Hypermedia As The Engine Of Application State (HATEOAS) is a constraint of the REST application architecture that distinguishes it from other network application architectures.</p>
 
 <p>With HATEOAS, a client interacts with a network application that application servers provide dynamically entirely through hypermedia. A REST client needs no prior knowledge about how to interact with an application or server beyond a generic understanding of hypermedia.</p>
 
