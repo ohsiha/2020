@@ -133,10 +133,8 @@ tuella:
 
 ## Istunnot käytännössä
 
-   <ul>
-      <li>
-         Istunnon
-         tunnisteen välittämiseen on useita tapoja:
+Istunnon tunnisteen välittämiseen on useita tapoja:
+
          <ul>
             <li><span>Evästeet</span> (Cookie)</li>
             <li>
@@ -149,8 +147,6 @@ tuella:
                piilokenttään.
             </li>
          </ul>
-      </li>
-   </ul>
 
 ---
 
@@ -190,7 +186,7 @@ pipareiksi tai jopa taikapipareiksi
 
 ## Kohti AJAXia
 
-<p>Kolmikerrosmalli esittelee Web-hypermediajärjestelmän teknisen perustan. </p>
+<p>Kolmikerrosmalli esittelee Web-hypermediajärjestelmän teknisen perustan.</p>
 <p>AJAX (Asynchronous JavaScript And XML) mahdollistaa entistä vuorovaikutteisempien sovellusten kehittämisen ja esittelee lisää kerroksia arkkitehtuuriin.</p>
 <p>
   Ks. havainnollinen [kaaviokuva AJAX-periaatteesta](http://www.webstepbook.com/supplements-2ed/slides/chapter12-ajax-xml-json.shtml#slide7).
@@ -199,7 +195,8 @@ pipareiksi tai jopa taikapipareiksi
 
 ---
 
-Kohti RESTiä</h1>
+## Kohti RESTiä
+
   <p>Kolmikerrosmalli esittelee Web-hypermediajärjestelmän teknisen perustan. </p>
   <p>REST (Representational State Transfer) -malli (Fielding 2000) laajentaa ja yleistää mallia kohti hajautettua Web-hypermediaa, vrt.
       </p>
