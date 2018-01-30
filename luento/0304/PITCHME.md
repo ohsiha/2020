@@ -75,15 +75,12 @@
 
 ## Istunnon hallinta
 
-   <ul>
-      <li>
          HTTP-protokollan
          tilattomuus on jo tuttua, mutta kerrataanpa vielä:
          HTTP-protokollassa ei ole sisäänrakennettua keinoa sovelluksen
          tilan ylläpitämiseen.
 
-      </li>
-      <li>
+<ul>      <li>
          Sovelluksen
          tilan ylläpitäminen toteutetaan <dfn>istuntojen</dfn> (session)
          tuella:
@@ -110,8 +107,6 @@
                <span>Ostoskorin</span> toteuttaminen
             </li>
          </ul>
-      </li>
-   </ul>
 
    ---
 
