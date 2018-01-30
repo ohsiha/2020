@@ -7,8 +7,14 @@
 ---
 
 ## Verkkopalvelu ja toimintojen luonne
-   <p>Nykyaikainen Web-arkkitehtuuri (<a href="http://www.w3.org/TR/webarch/"><span>http://www.w3.org/TR/webarch/</span></a>) jakaa verkkopalveluiden toiminnot kahteen luokkaan, <dfn>turvallisiin</dfn> ja <dfn>ei-turvallisiin</dfn>:
+   <p>Nykyaikainen Web-arkkitehtuuri (<a href="http://www.w3.org/TR/webarch/"><span>http://www.w3.org/TR/webarch/</span></a>) jakaa verkkopalveluiden toiminnot kahteen luokkaan, <dfn>turvallisiin</dfn> ja <dfn>ei-turvallisiin</dfn>.
    </p>
+
+---
+
+
+## Turvallinen ja ei-turvallinen
+
    <ul>
       <li><span>Turvallinen toiminto</span> (safe intercation):
          <ul>
