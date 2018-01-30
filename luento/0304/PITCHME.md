@@ -205,6 +205,10 @@ Kuva: ([Fielding, 2000](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest
 
 ---
 
+## Vrt. Django MVC/MTV
+
+![Django Flow (slash4.net)](http://slash4.de/learn-django/_images/day-3-django-flow.png)
+
 ## HATEOS
 
 <blockquote style="font-size: smaller;"><p>Hypermedia As The Engine Of Application State (HATEOAS) is a constraint of the REST application architecture that distinguishes it from other network application architectures.</p>
