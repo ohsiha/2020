@@ -20,20 +20,22 @@ Osa luennoista tallennetaan [Echo360-järjestelmällä](https://echo360.org.uk/s
 * Erityiskysymyksiä: mukautuvuus & suosittelu
 -->
 
+**Tulossa perjantaina 16. helmikuuta**: Vincitin Tuomas Kaittola esittelee React-ohjelmointia.
+
 Tulossa luentoviikolla 3.5: Koostepalvelut?
 
 ## Luentoviikko 3.4 (viikko 5): Resurssikeskeinen arkkitehtuuri ja API-talous
 
 Lue taustaksi API-talous 101 -kirjan [ensimmäinen luku](https://www.apitalous101.fi/luku-varoitus).
 
-Ensin [Johdanto API-talouteen](https://www.slideshare.net/jukkahuhtamaki/johdanto-apitalouteen) ja [kohti resurssikeskeistä arkkitehtuuria](https://gitpitch.com/ohsiha/2018/master?p=luento/0304#/).
-
-API-talous,
+Ensin [Johdanto API-talouteen](https://www.slideshare.net/jukkahuhtamaki/johdanto-apitalouteen) ja sitten [kohti resurssikeskeistä arkkitehtuuria](https://gitpitch.com/ohsiha/2018/master?p=luento/0304#/). API-talous,
 kolmikerrosmalli,
 HTTP GET ja POST,
 istunnot(tomuus) AJAX,
 REST, HTTP ja REST,
 [RESTful-periaate](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api), SPA ja REST.
+
+Koodiklinikalla jatketaan Django-esittelyä.
 
 ## Luentoviikko 3.3 (viikko 4): Web-sovelluskehityksen perusteita ja harjoitustyöohje
 
