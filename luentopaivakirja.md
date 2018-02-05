@@ -22,7 +22,19 @@ Osa luennoista tallennetaan [Echo360-järjestelmällä](https://echo360.org.uk/s
 
 **Tulossa perjantaina 16. helmikuuta**: Vincitin Tuomas Kaittola esittelee React-ohjelmointia.
 
-Tulossa luentoviikolla 3.5: Koostepalvelut?
+## Luentoviikko 3.5 (viikko 6): Koostepalvelut
+
+[Esitys](luento/0305/esitys.html) hypertekstinä.
+
+Kohti hajautettua Web-hypermediaa,
+yhdistetty (julkinen) data,
+johdanto koostepalveluihin,
+käsitteistä (mash-up, survos, muusaus, fuusaus),
+koostamisen tasot,
+informaation visualisointi ja koostepalvelut,
+eräs koostepalvelu ja sen toteutus.
+
+Koodiklinikalla Pandas (ks. [Datan käsittely Pythonilla](http://matriisi.ee.tut.fi/~huhtis/esitys/2014/03-edutech-python-data/#/)), Highcharts ja D3.js.
 
 ## Luentoviikko 3.4 (viikko 5): Resurssikeskeinen arkkitehtuuri ja API-talous
 
