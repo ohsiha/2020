@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Etusivu / OHSIHA 2017
+title: Etusivu / OHSIHA 2018
 year: 2018
 ---
 
