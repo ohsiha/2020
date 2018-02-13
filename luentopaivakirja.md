@@ -22,6 +22,21 @@ Osa luennoista tallennetaan [Echo360-järjestelmällä](https://echo360.org.uk/s
 
 **Tulossa perjantaina 16. helmikuuta**: Vincitin Tuomas Kaittola esittelee React-ohjelmointia.
 
+## Luentoviikko 3.6 (viikko 7): Datalla ohjattu kehitystyö
+
+[Esitys](https://www.slideshare.net/jukkahuhtamaki/lean-startup-ja-datalla-ohjattu-kehitysty) Slidesharessa.
+
+Lean startup ja datalla ohjattu kehitystyö. Käytön seurannan periaatteet ja toteuttaminen (ks. lyhyt esitys). Käyttödatan kerääminen. Kontekstin aistiminen.  Koodiklinikalla esimerkkejä kontekstin tunnistamisesta ja käytön seurannasta:
+<!-- <a href="http://matriisi.ee.tut.fi/hmopetus/ohsiha/2014/pruju/09/esitys.php#(9)">luentokalvot</a>,  -->
+[$_SERVER](http://matriisi.ee.tut.fi/hmopetus/hm-ohj/2007/demo/jakelukonteksti/http-request-details.php),
+[request.META.HTTP_REFERER](https://still-dawn-72781.herokuapp.com/headers),
+[HTTP_REFERER missing](http://stackoverflow.com/questions/12369615/serverhttp-referer-missing),
+[yksinkertainen sijainti](https://www.w3schools.com/html/html5_geolocation.asp),
+<!-- [sijainti ja kartta](http://matriisi.ee.tut.fi/hmopetus/hm-ohj/2013/demo/sijainti/esimerkki.html), -->
+[HTML5 ja uudet mahdollisuudet](http://blog.teamtreehouse.com/exploring-javascript-device-apis),
+Wordpress .
+
+
 ## Luentoviikko 3.5 (viikko 6): Koostepalvelut
 
 [Esitys](luento/0305/esitys.html) hypertekstinä.
@@ -29,12 +44,17 @@ Osa luennoista tallennetaan [Echo360-järjestelmällä](https://echo360.org.uk/s
 Kohti hajautettua Web-hypermediaa,
 yhdistetty (julkinen) data,
 johdanto koostepalveluihin,
-käsitteistä (mash-up, survos, muusaus, fuusaus),
+käsitteistä (mashup, survos, muusaus, fuusaus),
 koostamisen tasot,
 informaation visualisointi ja koostepalvelut,
 eräs koostepalvelu ja sen toteutus.
 
-Koodiklinikalla Pandas (ks. [Datan käsittely Pythonilla](http://matriisi.ee.tut.fi/~huhtis/esitys/2014/03-edutech-python-data/#/)), Highcharts ja D3.js.
+Koodiklinikalla Pandas (ks.
+[Datan käsittely Pythonilla](http://matriisi.ee.tut.fi/~huhtis/esitys/2014/03-edutech-python-data/#/)
+tai
+[Dashboard-demo](https://github.com/jukkahuhtamaki/dashboard-demo)),
+Highcharts ja
+D3.js.
 
 ## Luentoviikko 3.4 (viikko 5): Resurssikeskeinen arkkitehtuuri ja API-talous
 
