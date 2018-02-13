@@ -26,15 +26,20 @@ Osa luennoista tallennetaan [Echo360-järjestelmällä](https://echo360.org.uk/s
 
 [Esitys](https://www.slideshare.net/jukkahuhtamaki/lean-startup-ja-datalla-ohjattu-kehitysty) Slidesharessa.
 
-Lean startup ja datalla ohjattu kehitystyö. Käytön seurannan periaatteet ja toteuttaminen (ks. lyhyt esitys). Käyttödatan kerääminen. Kontekstin aistiminen.  Koodiklinikalla esimerkkejä kontekstin tunnistamisesta ja käytön seurannasta:
+Lean startup ja datalla ohjattu kehitystyö.
+Käytön seurannan periaatteet ja toteuttaminen (ks. lyhyt esitys). 
+Käyttödatan kerääminen.
+Kontekstin aistiminen.
+Esimerkkejä kontekstin tunnistamisesta ja käytön seurannasta:
 <!-- <a href="http://matriisi.ee.tut.fi/hmopetus/ohsiha/2014/pruju/09/esitys.php#(9)">luentokalvot</a>,  -->
 [$_SERVER](http://matriisi.ee.tut.fi/hmopetus/hm-ohj/2007/demo/jakelukonteksti/http-request-details.php),
 [request.META.HTTP_REFERER](https://still-dawn-72781.herokuapp.com/headers),
 [HTTP_REFERER missing](http://stackoverflow.com/questions/12369615/serverhttp-referer-missing),
 [yksinkertainen sijainti](https://www.w3schools.com/html/html5_geolocation.asp),
 <!-- [sijainti ja kartta](http://matriisi.ee.tut.fi/hmopetus/hm-ohj/2013/demo/sijainti/esimerkki.html), -->
-[HTML5 ja uudet mahdollisuudet](http://blog.teamtreehouse.com/exploring-javascript-device-apis),
-Wordpress .
+[HTML5 ja uudet mahdollisuudet](http://blog.teamtreehouse.com/exploring-javascript-device-apis).
+
+Koodiklinikalla Tuomas Kaittolan React-demo.
 
 
 ## Luentoviikko 3.5 (viikko 6): Koostepalvelut
