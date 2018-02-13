@@ -27,7 +27,8 @@ Osa luennoista tallennetaan [Echo360-järjestelmällä](https://echo360.org.uk/s
 [Esitys](https://www.slideshare.net/jukkahuhtamaki/lean-startup-ja-datalla-ohjattu-kehitysty) Slidesharessa.
 
 Lean startup ja datalla ohjattu kehitystyö.
-Käytön seurannan periaatteet ja toteuttaminen (ks. lyhyt esitys). 
+Käytön seurannan periaatteet ja toteuttaminen (ks.
+[https://ohsiha.github.io/2018/luento/0306/esitys.html](lyhyt esitys)). 
 Käyttödatan kerääminen.
 Kontekstin aistiminen.
 Esimerkkejä kontekstin tunnistamisesta ja käytön seurannasta:
