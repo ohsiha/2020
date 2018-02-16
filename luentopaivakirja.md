@@ -20,7 +20,7 @@ Osa luennoista tallennetaan [Echo360-järjestelmällä](https://echo360.org.uk/s
 * Erityiskysymyksiä: mukautuvuus & suosittelu
 -->
 
-**Tulossa perjantaina 16. helmikuuta**: Vincitin Tuomas Kaittola esittelee React-ohjelmointia.
+<!-- **Tulossa perjantaina 16. helmikuuta**: Vincitin Tuomas Kaittola esittelee React-ohjelmointia. -->
 
 ## Luentoviikko 3.6 (viikko 7): Datalla ohjattu kehitystyö
 
@@ -28,7 +28,7 @@ Osa luennoista tallennetaan [Echo360-järjestelmällä](https://echo360.org.uk/s
 
 Lean startup ja datalla ohjattu kehitystyö.
 Käytön seurannan periaatteet ja toteuttaminen (ks.
-[https://ohsiha.github.io/2018/luento/0306/esitys.html](lyhyt esitys)). 
+[https://ohsiha.github.io/2018/luento/0306/esitys.html](lyhyt esitys)).
 Käyttödatan kerääminen.
 Kontekstin aistiminen.
 Esimerkkejä kontekstin tunnistamisesta ja käytön seurannasta:
@@ -40,8 +40,7 @@ Esimerkkejä kontekstin tunnistamisesta ja käytön seurannasta:
 <!-- [sijainti ja kartta](http://matriisi.ee.tut.fi/hmopetus/hm-ohj/2013/demo/sijainti/esimerkki.html), -->
 [HTML5 ja uudet mahdollisuudet](http://blog.teamtreehouse.com/exploring-javascript-device-apis).
 
-Koodiklinikalla Tuomas Kaittolan React-demo.
-
+Koodiklinikalla Tuomas Kaittolan [React-demo](https://github.com/tuokai/ohsiha-demo).
 
 ## Luentoviikko 3.5 (viikko 6): Koostepalvelut
 
