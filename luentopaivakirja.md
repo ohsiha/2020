@@ -22,6 +22,19 @@ Osa luennoista tallennetaan [Echo360-järjestelmällä](https://echo360.org.uk/s
 
 <!-- **Tulossa perjantaina 16. helmikuuta**: Vincitin Tuomas Kaittola esittelee React-ohjelmointia. -->
 
+## Luentoviikko 3.8 (viikko 8): Mukautuvat järjestelmät
+
+[Esitys](http://ohsiha.github.io/2018/luento/0308/esitys.html) hypertekstinä.
+
+Kohti mukautuvia ominaisuuksia.
+Lähestymistapoja mukautuvuuteen (laiteriippumattomuus,
+saavutettavuus, kansainvälistäminen &amp; kotoistaminen, personointi, suosittelijajärjestelmät),
+mukautuva hypermedia,
+mitä mukautetaan?,
+käyttäjän mallintaminen,
+hajautetut käyttäjäprofiilit,
+suosittelujärjestelmät.
+
 ## Luentoviikko 3.6 (viikko 7): Datalla ohjattu kehitystyö
 
 [Esitys](https://www.slideshare.net/jukkahuhtamaki/lean-startup-ja-datalla-ohjattu-kehitysty) Slidesharessa.
