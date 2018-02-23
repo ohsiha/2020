@@ -22,6 +22,8 @@ Osa luennoista tallennetaan [Echo360-järjestelmällä](https://echo360.org.uk/s
 
 <!-- **Tulossa perjantaina 16. helmikuuta**: Vincitin Tuomas Kaittola esittelee React-ohjelmointia. -->
 
+Ohjelmallisen sisällönhallinnan luennot jäävät tauolle ja painopiste siirtyy harjoitustyön tekemiseen. [Johdanto datatieteeseen](jodatut.github.io/2018) jatkaa siitä mihin Ohjelmallinen sisällönhallinta jää.
+
 ## Luentoviikko 3.8 (viikko 8): Mukautuvat järjestelmät
 
 [Esitys](http://ohsiha.github.io/2018/luento/0308/esitys.html) hypertekstinä.
@@ -34,6 +36,8 @@ mitä mukautetaan?,
 käyttäjän mallintaminen,
 hajautetut käyttäjäprofiilit,
 suosittelujärjestelmät.
+
+Koodiklinikalla hahmotellaan askelia [kohti oppivia järjestelmiä](https://ohsiha.github.io/2018/02/23/oppivat-jarjestelmat.html).
 
 ## Luentoviikko 3.6 (viikko 7): Datalla ohjattu kehitystyö
 
