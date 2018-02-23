@@ -254,7 +254,7 @@ Kuvauksen mukainen viesti on toimitettava Slackiin viimeistään perjantaina kel
 <!--   ja osoita viesti Ohjelmallinen sisällönhallinta -ryhmälle (Valitse Ryhmät &gt; Näkyvyys &gt; Ohjelmallinen sisällönhallinta 2016).
  --></p>
 
-<h2 id="loppuraportti">Loppuraportti</h3>
+<h2 id="loppuraportti">Loppuraportti</h2>
 <p>
   Harjoitustyön palautus tapahtuu lähettämällä oheisen mallin mukainen tiedote osoitteeseen <a href="mailto:jukka.huhtamaki@tut.fi">jukka.huhtamaki@tut.fi</a>.
   Lähetä viesti otsikolla #OHSIHA: työ valmis <em>perjantaihin 11. toukokuuta kello 17 mennessä</em>.
