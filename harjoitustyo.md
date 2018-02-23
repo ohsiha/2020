@@ -4,7 +4,7 @@ title: Luentopäiväkirja / OHSIHA 2018
 year: 2018
 ---
 
-<p><strong>Status:</strong> Ohjetta päivitetään vuodelle 2018.</p>
+<!-- <p><strong>Status:</strong> Ohjetta päivitetään vuodelle 2018.</p> -->
 
 <p><strong>Ilmoita epäjohdonmukaisuuksista
   <a href="http://hlab.ee.tut.fi/hmopetus/kayttajat/jukka-huhtamaki">Jukalle</a>.</strong></p>
@@ -24,8 +24,8 @@ Näin siksi, että sisällön käsittelyn automatisoinnin ja verkkopalveluiden t
 <li>.Net</li>
 </ul>
 <p>
-	Mikäli olet aloitteleva Web-kehittäjä, suosittelemme Django-kehystä. 
-	Jos taas olet suorittanut Web-ohjelmoinnin tai olet muuten jo ehtinyt kerryttämään devausosaamistasi, kannustamme valitsemaan itsellesi uuden teknologian. 
+	Mikäli olet aloitteleva Web-kehittäjä, suosittelemme Django-kehystä.
+	Jos taas olet suorittanut Web-ohjelmoinnin tai olet muuten jo ehtinyt kerryttämään devausosaamistasi, kannustamme valitsemaan itsellesi uuden teknologian.
 </p>
 <p>
   Käyttötarkoitukseen soveltuvan toteutusteknologian valinta on keskeinen osa onnistunutta Web-kehitysprojektia.
@@ -35,24 +35,24 @@ Näin siksi, että sisällön käsittelyn automatisoinnin ja verkkopalveluiden t
   Halutessasi voit tehdä harjoitustyön myös räätälöitävällä sisällönhallintajärjestelmällä, esimerkiksi tiettyyn käyttötarkoitukseen muokatulla <a href="https://fi.wordpress.org/">WordPressillä</a>.
 </p>
 --><p>
-  Ohjelmallisen sisällönhallinnan harjoitustyössä keskitytään 
-  järjestelmien toiminnallisuuksiin ja automatisoinnissa 
+  Ohjelmallisen sisällönhallinnan harjoitustyössä keskitytään
+  järjestelmien toiminnallisuuksiin ja automatisoinnissa
   tarvittaviin prosesseihin.
-  Tämä tarkoittaa käytännössä esimerkiksi yhteisöllisten toimintojen 
-  kehittämistä, sovelluksen keräämän datan esittämistä visualisoiden 
+  Tämä tarkoittaa käytännössä esimerkiksi yhteisöllisten toimintojen
+  kehittämistä, sovelluksen keräämän datan esittämistä visualisoiden
   tai muuta (palvelun käyttäjän näkökulmasta) "luovaa" toimintaa.
   Teknisen arkkitehtuurin laadukas toteutus on siis nyt toissijainen tavoite.
 </p>
 
 ## Minimivaatimukset
 
-Keväällä 2018 harjoitustöissä painotetaan datakeskeisten palvelujen kehittämistä. Ota lähtökohdaksi jokin olemassa oleva data, ota se käyttöön omassa palvelussasi ja rakenna dataa edelleen jalostava toiminnallisuus. Esimerkkejä datan lähteistä ovat avoimen datan kokoelmat 
-[Tampereella](https://www.tampere.fi/tampereen-kaupunki/tietoa-tampereesta/avoin-data.html) ja 
-[Helsingissä](http://www.hri.fi/fi/), 
-[Spotify](https://developer.spotify.com/web-api/), 
-[Twitter](https://developer.twitter.com/en/docs/tweets/search/overview/standard.html) - ja 
-[Tampere3](https://api.tampere3.fi/apis)! 
-Kattavia datalähdelistauksia löydät muun muassa  ProgrammableWeb- ja 
+Keväällä 2018 harjoitustöissä painotetaan datakeskeisten palvelujen kehittämistä. Ota lähtökohdaksi jokin olemassa oleva data, ota se käyttöön omassa palvelussasi ja rakenna dataa edelleen jalostava toiminnallisuus. Esimerkkejä datan lähteistä ovat avoimen datan kokoelmat
+[Tampereella](https://www.tampere.fi/tampereen-kaupunki/tietoa-tampereesta/avoin-data.html) ja
+[Helsingissä](http://www.hri.fi/fi/),
+[Spotify](https://developer.spotify.com/web-api/),
+[Twitter](https://developer.twitter.com/en/docs/tweets/search/overview/standard.html) - ja
+[Tampere3](https://api.tampere3.fi/apis)!
+Kattavia datalähdelistauksia löydät muun muassa  ProgrammableWeb- ja
 [apinf.io-palveluista](https://apinf.io/).  
 
 Harjoitustyön minimivaatimuksena on toteuttaa verkkopalvelu, joka näyttää dataa käyttäjälle vuorovaikutteisella tavalla. Lisäksi käyttäjällä on mahdollisuus rekisteröityä ja kirjautua palveluun.
@@ -101,17 +101,17 @@ Opiskelija saa valita harjoitustyönsä aiheen vapaasti, luonnollisesti hyvän m
 <p>
   Edellä mainittuja aiheita voi vapaasti muokata siten, että ne sopivat paremmin tekijän omiin tarpeisiin.
   Erityisen suositeltavaa on keksiä jokin ehdotettuja parempi aihe.
-  Inspiraatiota voit kerätä vaikkapa tutustumalla Demolassa tarjolla oleviin 
-  <a href="https://tampere.demola.net/projects" target="_blank">projektiaiheisiin</a>, 
+  Inspiraatiota voit kerätä vaikkapa tutustumalla Demolassa tarjolla oleviin
+  <a href="https://tampere.demola.net/projects" target="_blank">projektiaiheisiin</a>,
   <a href="http://apps4finland.fi/kilpailutyot/" target="_blank">Apps4Finland-kilpailutöihin</a> tai programmableweb.com-sivuston <a href="http://www.programmableweb.com/mashups" target="_blank">koostepalveluesimerkkeihin</a>.
 </p>
 
 ## Harjoitustyöpisteet ja arvosana
 
   Harjoitustyöstä voi kerätä pisteitä yhteensä 18 kappaletta.
-  Harjoitustyöstä kerättävät pisteet vaikuttavat arvosanaan 
+  Harjoitustyöstä kerättävät pisteet vaikuttavat arvosanaan
   [suorittamisohjeen](https://ohsiha.github.io/2018/suorittaminen) mukaisesti
-   
+
 <p>Neljä vaihetta:</p>
 <ol>
 <li>
@@ -122,20 +122,20 @@ Opiskelija saa valita harjoitustyönsä aiheen vapaasti, luonnollisesti hyvän m
 </li>
 <li>
   Esimerkkipalvelu valitsemallasi teknologialla:
-  Tuki kirjautumiseen ja rekisteröitymiseen tai jokin vaihtoehtoinen tapa käyttäjäkohtaisen tilan ylläpitämiseen sekä esimerkkidatan näyttäminen tai lisää-näytä-päivitä-poista (CRUD) -toiminnot. 
+  Tuki kirjautumiseen ja rekisteröitymiseen tai jokin vaihtoehtoinen tapa käyttäjäkohtaisen tilan ylläpitämiseen sekä esimerkkidatan näyttäminen tai lisää-näytä-päivitä-poista (CRUD) -toiminnot.
   Palautus <strong>perjantaihin 16. maaliskuuta kello 17</strong> mennessä. (3 pistettä)
 </li>
 <li>
-  Datarajapinnan käyttö: Lue dataa oman sovelluksesi käyttöön tarkoituksenmukaisen lähteestä. 
+  Datarajapinnan käyttö: Lue dataa oman sovelluksesi käyttöön tarkoituksenmukaisen lähteestä.
   Integroi data elimelliseksi osaksi palvelusi tietosisältöä.
-  Voit joko ottaa käyttöön soveltuvan API:n (ks. vaikkapa <a href="http://apisuomi.fi/">API:Suomi</a>) tai vaihtoehtoisesti 
+  Voit joko ottaa käyttöön soveltuvan API:n (ks. vaikkapa <a href="http://apisuomi.fi/">API:Suomi</a>) tai vaihtoehtoisesti
   lukea palvelun käyttöön staattisen datan (esimerkiksi <a href="http://data.tampere.fi">data.tampere.fi</a>).
   Palautus <strong>perjantaihin 6. huhtikuuta kello 17</strong> mennessä. (3 pistettä)
 </li>
 <li>
   Visualisointi: sovelluksen keräämän tai datarajapinnasta luetun datan ei-triviaali visualisointi (siis jotain muuta kuin yksittäinen toimistografiikkaelementti tai joukko kartalle heitettyjä tietoja).
   Käytännössä esimerkiksi suurin osa D3.js-kirjastolla toteuteista visualisoinneista voidaan luokitella ei-triviaaliksi.
-  Toteutukseksi käy myös yksinkertaisista, esimerkiksi Highchartsilla toteutetuista visualisoinneista muodostettu kojelauta (dashboard). 
+  Toteutukseksi käy myös yksinkertaisista, esimerkiksi Highchartsilla toteutetuista visualisoinneista muodostettu kojelauta (dashboard).
   Palautus <strong>perjantaihin 20. huhtikuuta kello 17</strong> mennessä. (3 pistettä)
 </li>
 </ol>
@@ -148,12 +148,12 @@ Opiskelija saa valita harjoitustyönsä aiheen vapaasti, luonnollisesti hyvän m
 Edellä kuvatut neljä kokonaisuutta voit toteuttaa omalla koneellasi pyörivässä paikallisessa kehitysympäristössä. Mikäli haluat kerätä **lisää pisteitä seuraavia kokonaisuuksia toteuttamalla**, sinun on ensin julkaistava palvelusi Webiin. Palautus <strong>perjantaihin 5. toukokuuta kello 17</strong> mennessä:
 
 **SPA-toteutus** (3 pistettä):
-Palvelusi toimii Single Page Application -periaatteella. Toteutus perustuu esimerkiksi 
-  [Vue.js](https://vuejs.org/), 
+Palvelusi toimii Single Page Application -periaatteella. Toteutus perustuu esimerkiksi
+  [Vue.js](https://vuejs.org/),
   [React](https://reactjs.org/) tai
   [AngularJS](https://angularjs.org/)-kirjastoon.
-  
-<p><strong>Käytön analytiikka</strong> (3 pistettä): 
+
+<p><strong>Käytön analytiikka</strong> (3 pistettä):
 Ota käyttöön analytiikkaratkaisu, joka mahdollistaa käyttäjien toiminnan seuraamisen suppiloanalyysiperiaatteen mukaisesti, vrt. <a href="https://mixpanel.com/blog/2009/06/10/introduction-to-analytics-funnel-analysis/">Funnel Analysis</a>.  </p>
 <p id="botti">
 
@@ -164,8 +164,8 @@ Katso myös <a href="https://twitter.com/jnkka/status/841269123111895040">Develo
 
 <p id="reaaliaika">
   <strong>Reaaliaikainen käyttöliittymä</strong> (3 pistettä):
-  Näytä järjestelmän tietosisällössä tapahtuvat muutokset käyttäjälle reaaliajassa. 
-  Esimerksi toteuttamasi kojelauta tai kotonasi tietoa tarjoileva näyttötaulu päivittyvät automaattisesti. 
+  Näytä järjestelmän tietosisällössä tapahtuvat muutokset käyttäjälle reaaliajassa.
+  Esimerksi toteuttamasi kojelauta tai kotonasi tietoa tarjoileva näyttötaulu päivittyvät automaattisesti.
 </p>
 
 <strong>Folksonomioihin perustuva taggaaminen</strong> (2 pistettä):
@@ -190,8 +190,8 @@ AJAX-teknologian soveltaminen verkkopalvelun käyttöliittymän toteutuksessa (s
   Ideoita ominaisuuksista voit poimia esimerkiksi <a href="http://slides.html5rocks.com/#landing-slide" target="_blank">HTML5-esityksestä</a>.
 </p>
 
-
-<strong>Kertakirjautuminen</strong> (1 pistettä): Yksittäiset palveluntarjoajat tarjoavat usein <a href="http://oauth.net/" target="_blank">OAuth-protokollaan</a> perustuvia keinoja kertakirjautumisen toteuttamiseen,
+<strong>Kertakirjautuminen</strong> (1 pistettä):
+Yksittäiset palveluntarjoajat tarjoavat usein <a href="http://oauth.net/" target="_blank">OAuth-protokollaan</a> perustuvia keinoja kertakirjautumisen toteuttamiseen,
 ks. esimerkiksi <a href="http://developers.facebook.com/connect.php" target="_blank">Facebook</a><a href="http://developers.facebook.com/docs/guides/web/#login" target="_blank"> for Websites: Authentication</a>,
 <a href="http://code.google.com/apis/accounts/docs/GettingStarted.html" target="_blank">Authentication and Authorization for Google APIs</a> ja
 <a href="https://dev.twitter.com/docs/auth" target="_blank">Twitter: </a><a href="https://dev.twitter.com/docs/auth" target="_blank">Authentication &amp; Authorization</a>.
@@ -201,10 +201,22 @@ Kerää piste toteuttamalla tuki vähintään yhdelle mainituista kirjautumismen
 Mahdollista sovelluksesi keräämän tietosisällön hyödyntäminen ja/tai muokkaaminen muille kehittäjille toteuttamalla sovellukseesi <a href="http://en.wikipedia.org/wiki/Application_programming_interface#Web_APIs">Web API</a> eli sovelluskehittäjärajapinta.
 
 <!--<p><strong>Älypuhelinnäkymä sovellukseen</strong> (3 pistettä): Toteuta yksinkertainen älypuhelinsovellus sovelluksesi keräämien tietojen näyttämiseen/käyttämiseen tai muokkaamiseen.</p>
-
 -->
-<p><strong>Koodit ja dokumentaatio GitHubiin</strong> (2 pistettä): Käytä GitHub-palvelua koodin versionhallintaan. Lisäpiste: jaa koodi avoimella lisenssillä. Toinen lisäpiste: kontribuoi olemassa olevaan projektiin. </p>
 
+<p>
+  <strong>Koodit ja dokumentaatio GitHubiin</strong> (2 pistettä):
+  Käytä GitHub-palvelua koodin versionhallintaan.
+  Lisäpiste: jaa koodi avoimella lisenssillä.
+  Toinen lisäpiste: kontribuoi olemassa olevaan projektiin.
+</p>
+
+<p>
+  <strong>WebGL ja 3D</strong> (2 pistettä):
+  Toteuta sovellukseesi WebGL-rajapintaa hyödyntävä ominaisuus,
+  esimerkiksi
+  [Three.js-kirjastoa](https://threejs.org/examples/)
+  hyödyntävä 3D-toiminnallisuus.
+</p>
 
 <p>Erityisen hyödyllisiksi osoittautuvat opiskelijoiden toteuttamat ohjeet palkitaan porkkanapistein. Tarjolla on yhteensä 6 pistettä, jotka lisätään kaikkien muiden kerättyjen pisteiden päälle.</p>
 
