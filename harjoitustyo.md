@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Luentopäiväkirja / OHSIHA 2018
+title: Harjoitustyöohje / OHSIHA 2018
 year: 2018
 ---
 
 <!-- <p><strong>Status:</strong> Ohjetta päivitetään vuodelle 2018.</p> -->
 
 <p><strong>Ilmoita epäjohdonmukaisuuksista
-  <a href="http://hlab.ee.tut.fi/hmopetus/kayttajat/jukka-huhtamaki">Jukalle</a>.</strong></p>
+  <a href="http://www.tut.fi/fi/henkilokortti/index.htm?id=8883">Jukalle</a>.</strong></p>
 
 <p>Harjoitustyö on pakollinen osa Ohjelmallisen sisällönhallinnan
 <a href="suorittaminen">suorittamista</a>.
