@@ -106,9 +106,9 @@ tuella:
             </li>
          </ul>
 
-   ---
+---
 
-   ## Istunnoista
+## Istunnoista
 
    <ul>
       <li>
@@ -192,7 +192,6 @@ pipareiksi tai jopa taikapipareiksi
   Ks. havainnollinen [kaaviokuva AJAX-periaatteesta](http://www.webstepbook.com/supplements-2ed/slides/chapter12-ajax-xml-json.shtml#slide7).
 </p>
 
-
 ---
 
 ## Kohti RESTiä
@@ -208,6 +207,8 @@ Kuva: ([Fielding, 2000](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest
 ## Vrt. Django MVC/MTV
 
 ![Django Flow (slash4.net)](http://slash4.de/learn-django/_images/day-3-django-flow.png)
+
+---
 
 ## HATEOS
 
