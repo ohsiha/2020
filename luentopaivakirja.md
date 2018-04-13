@@ -45,7 +45,7 @@ Koodiklinikalla hahmotellaan askelia [kohti oppivia järjestelmiä](https://ohsi
 
 Lean startup ja datalla ohjattu kehitystyö.
 Käytön seurannan periaatteet ja toteuttaminen (ks.
-[https://ohsiha.github.io/2018/luento/0306/esitys.html](lyhyt esitys)).
+[lyhyt esitys](https://ohsiha.github.io/2018/luento/0306/esitys.html)).
 Käyttödatan kerääminen.
 Kontekstin aistiminen.
 Esimerkkejä kontekstin tunnistamisesta ja käytön seurannasta:
