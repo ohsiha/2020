@@ -22,7 +22,10 @@ Osa luennoista tallennetaan [Echo360-järjestelmällä](https://echo360.org.uk/s
 
 <!-- **Tulossa perjantaina 16. helmikuuta**: Vincitin Tuomas Kaittola esittelee React-ohjelmointia. -->
 
-Ohjelmallisen sisällönhallinnan luennot jäävät tauolle ja painopiste siirtyy harjoitustyön tekemiseen. [Johdanto datatieteeseen](jodatut.github.io/2018) jatkaa siitä mihin Ohjelmallinen sisällönhallinta jää.
+<!-- Ohjelmallisen sisällönhallinnan luennot jäävät tauolle ja painopiste siirtyy harjoitustyön tekemiseen.  -->
+
+Ohjelmallisen sisällönhallinnan kevään toteutuskerta on päättynyt.
+[Johdanto datatieteeseen](jodatut.github.io/2018) jatkaa siitä mihin Ohjelmallinen sisällönhallinta jäi.
 
 ## Luentoviikko 3.8 (viikko 8): Mukautuvat järjestelmät
 
