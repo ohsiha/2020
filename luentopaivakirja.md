@@ -25,6 +25,8 @@ Luennot tallennetaan Echo360-järjestelmällä.
 * Viikko 3.2: Resurssista (re)presentaatioksi
 * Viikko 3.1: Käytännöt ja katsaus ohjelmallisen sisällönhallinnan nykytilaan
 
+*Tarkempi suunnitelma tämän dokumentin kommenteissa*
+
 </div>
 </div>
 
