@@ -16,6 +16,11 @@ Luennot tallennetaan Echo360-järjestelmällä.
   <h3>Tulossa</h3>
   <!-- Can anyone figure out how to insert Markdown inside HTML in Github-based Jekyll?-->
   <div markdown="1">
+
+* One
+* Two
+
+
     <ul>
       <li>Viikko 3.7: Mukautuvat järjestelmät - kohti JODAa</li>
       <li>Viikko 3.6: Datalla ohjattu kehitystyö</li>
