@@ -12,6 +12,24 @@ Osa luennoista tallennetaan [Echo360-järjestelmällä](https://echo360.org.uk/s
 
 # Luentopäiväkirja
 
+{% capture text-capture %}
+
+```html
+
+<div class="demo-thats-all-container">  
+    <div class="demo-thats-all-folks">
+      That's All Folks
+    </div>
+</div>
+
+``` <!-- remove escape '\' in your code -->
+
+{% endcapture %}
+
+{% include widgets/toggle-field.html toggle-name="toggle-thats"
+  button-text="Code for Thats All Folks" toggle-text=text-capture  
+  footer="cheers!" %}
+
 <!-- Tulossa:
 * Resurssikeskeinen arkkitehtuuri, API-talous, koostepalvelut
 * Web-informaatiojärjestelmien (sisällönhallintajärjestelmien) arkkitehtuuri
