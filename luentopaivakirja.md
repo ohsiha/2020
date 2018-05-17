@@ -16,6 +16,7 @@ Luennot tallennetaan Echo360-järjestelmällä.
   <h3>Tulossa</h3>
   <!-- Oh yes, using Markdown inside HTML in Github-based Jekyll!-->
   <div markdown="1">
+
 * Viikko 3.7: Mukautuvat järjestelmät - kohti JODAa
 * Viikko 3.6: Datalla ohjattu kehitystyö
 * Viikko 3.5: Koostepalvelut
@@ -23,7 +24,8 @@ Luennot tallennetaan Echo360-järjestelmällä.
 * Viikko 3.3: Web-sovelluskehityksen perusteita ja harjoitustyöohje
 * Viikko 3.2: Resurssista (re)presentaatioksi
 * Viikko 3.1: Käytännöt ja katsaus ohjelmallisen sisällönhallinnan nykytilaan
-  </div>
+
+</div>
 </div>
 
 <!-- Tulossa:
