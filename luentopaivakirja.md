@@ -14,22 +14,15 @@ Luennot tallennetaan Echo360-järjestelmällä.
 
 <div id="accordion">
   <h3>Tulossa</h3>
-  <!-- Can anyone figure out how to insert Markdown inside HTML in Github-based Jekyll?-->
+  <!-- Oh yes, using Markdown inside HTML in Github-based Jekyll!-->
   <div markdown="1">
-
-* One
-* Two
-
-
-    <ul>
-      <li>Viikko 3.7: Mukautuvat järjestelmät - kohti JODAa</li>
-      <li>Viikko 3.6: Datalla ohjattu kehitystyö</li>
-      <li>Viikko 3.5: Koostepalvelut</li>
-      <li>Viikko 3.4: Resurssikeskeinen arkkitehtuuri ja API-talous</li>
-      <li>Viikko 3.3: Web-sovelluskehityksen perusteita ja harjoitustyöohje</li>
-      <li>Viikko 3.2: Resurssista (re)presentaatioksi</li>
-      <li>Viikko 3.1: Käytännöt ja katsaus ohjelmallisen sisällönhallinnan nykytilaan</li>
-    </ul>
+* Viikko 3.7: Mukautuvat järjestelmät - kohti JODAa
+* Viikko 3.6: Datalla ohjattu kehitystyö
+* Viikko 3.5: Koostepalvelut
+* Viikko 3.4: Resurssikeskeinen arkkitehtuuri ja API-talous
+* Viikko 3.3: Web-sovelluskehityksen perusteita ja harjoitustyöohje
+* Viikko 3.2: Resurssista (re)presentaatioksi
+* Viikko 3.1: Käytännöt ja katsaus ohjelmallisen sisällönhallinnan nykytilaan
   </div>
 </div>
 
