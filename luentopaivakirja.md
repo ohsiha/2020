@@ -1,14 +1,14 @@
 ---
 layout: default
 title: Luentopäiväkirja / OHSIHA 2018
-year: 2018
+year: 2019
 ---
 
-Tämä on Ohjelmallisen sisällönhallinnan kevään 2018 toteutuskerran luentopäiväkirja.
-Toteutus noudattelee [vuoden 2017 toteutuskertaa](https://ohsiha.github.io/2017/luentopaivakirja).
+Tämä on Ohjelmallisen sisällönhallinnan kevään 2019 toteutuskerran luentopäiväkirja.
+Toteutus noudattelee [vuoden 2018 toteutuskertaa](https://ohsiha.github.io/2018/luentopaivakirja).
 Alan dynaamisuudesta johtuen sisältöjä ja toteutustapaa kuitenkin kehitetään jatkuvasti.
 
-Osa luennoista tallennetaan [Echo360-järjestelmällä](https://echo360.org.uk/section/8b218f60-14ef-4b65-9d88-1d910ce34f49/public).
+Luennot tallennetaan Echo360-järjestelmällä.
 
 # Luentopäiväkirja
 
@@ -22,7 +22,7 @@ Osa luennoista tallennetaan [Echo360-järjestelmällä](https://echo360.org.uk/s
     </div>
 </div>
 
-``` <!-- remove escape '\' in your code -->
+```<!-- remove escape '\' in your code -->
 
 {% endcapture %}
 
@@ -31,16 +31,6 @@ Osa luennoista tallennetaan [Echo360-järjestelmällä](https://echo360.org.uk/s
   footer="cheers!" %}
 
 <!-- Tulossa:
-* Resurssikeskeinen arkkitehtuuri, API-talous, koostepalvelut
-* Web-informaatiojärjestelmien (sisällönhallintajärjestelmien) arkkitehtuuri
-* Vierailuluento: Datajournalismi/DevOps/Lean Startup/Datalähtöinen ongelmanratkaisu
-* Erityiskysymyksiä: tiedolla johdettu kehittäminen
-* Erityiskysymyksiä: mukautuvuus & suosittelu
--->
-
-<!-- **Tulossa perjantaina 16. helmikuuta**: Vincitin Tuomas Kaittola esittelee React-ohjelmointia. -->
-
-<!-- Ohjelmallisen sisällönhallinnan luennot jäävät tauolle ja painopiste siirtyy harjoitustyön tekemiseen.  -->
 
 Ohjelmallisen sisällönhallinnan kevään toteutuskerta on päättynyt.
 [Johdanto datatieteeseen](http://jodatut.github.io/2018) jatkaa siitä mihin Ohjelmallinen sisällönhallinta jäi.
@@ -70,12 +60,10 @@ Käytön seurannan periaatteet ja toteuttaminen (ks.
 Käyttödatan kerääminen.
 Kontekstin aistiminen.
 Esimerkkejä kontekstin tunnistamisesta ja käytön seurannasta:
-<!-- <a href="http://matriisi.ee.tut.fi/hmopetus/ohsiha/2014/pruju/09/esitys.php#(9)">luentokalvot</a>,  -->
 [$_SERVER](http://matriisi.ee.tut.fi/hmopetus/hm-ohj/2007/demo/jakelukonteksti/http-request-details.php),
 [request.META.HTTP_REFERER](https://still-dawn-72781.herokuapp.com/headers),
 [HTTP_REFERER missing](http://stackoverflow.com/questions/12369615/serverhttp-referer-missing),
 [yksinkertainen sijainti](https://www.w3schools.com/html/html5_geolocation.asp),
-<!-- [sijainti ja kartta](http://matriisi.ee.tut.fi/hmopetus/hm-ohj/2013/demo/sijainti/esimerkki.html), -->
 [HTML5 ja uudet mahdollisuudet](http://blog.teamtreehouse.com/exploring-javascript-device-apis).
 
 Koodiklinikalla Tuomas Kaittolan [React-demo](https://github.com/tuokai/ohsiha-demo).
@@ -133,12 +121,13 @@ HTML, CSS ja Javascript: sisältö, esitystapa, toiminnallisuus.
 Taustaa tarkemmin: Learn [HTML &amp; CSS](https://www.codecademy.com/learn/web), [Javascript](https://www.codecademy.com/learn/javascript).
 Edistyneille: [Bootstrap](http://getbootstrap.com/).
 Koodiklinikalla tunnistetaan [jekyll-now](https://github.com/barryclark/jekyll-now) -kirjastosta esimerkkejä Web-toteutusten perusteista.
+-->
 
 ## Luentoviikko 3.1 (viikko 2): Käytännöt ja katsaus ohjelmallisen sisällönhallinnan nykytilaan
 
-Toteutuskerran avausluento järjestetään tiistaina 9. tammikuuta 2018 kello 10.15 salissa SJ204.
+*Toteutuskerran avausluento järjestetään tiistaina 9. tammikuuta 2018 kello 10.15 salissa SJ204.*
 
-Esitys [hypertekstinä](http://ohsiha.github.io/2018/luento/01/esitys.html).
+*Esitys [hypertekstinä](http://ohsiha.github.io/2018/luento/01/esitys.html).*
 
 Aiheet: Opintojakson ja kevään toteutuskerran esittely ja suorittamisen käytännöt.
 Koodiklinikalla tutustutaan  [ohjelmallisen sisällönhallinnan tilaan vuonna 2018](http://ohsiha.github.io/2018/01/10/ohsiha-vuonna-2018).
