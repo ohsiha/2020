@@ -12,31 +12,19 @@ Luennot tallennetaan Echo360-järjestelmällä.
 
 # Luentopäiväkirja
 
-{% capture text-capture %}
-
-```html
-
-<div class="demo-thats-all-container">  
-    <div class="demo-thats-all-folks">
-      That's All Folks
-    </div>
-</div>
-
-```<!-- remove escape '\' in your code -->
-
-{% endcapture %}
-
-{% include widgets/toggle-field.html toggle-name="toggle-thats"
-  button-text="Code for Thats All Folks" toggle-text=text-capture  
-  footer="cheers!" %}
-
 <div id="accordion">
   <h3>Tulossa</h3>
+  <!-- Can anyone figure out how to insert Markdown inside HTML in Github-based Jekyll?-->
   <div markdown="1">
-    * One
-    * Two
-    * One
-    * Two
+    <ul>
+      <li>Viikko 3.7: Mukautuvat järjestelmät - kohti JODAa</li>
+      <li>Viikko 3.6: Datalla ohjattu kehitystyö</li>
+      <li>Viikko 3.5: Koostepalvelut</li>
+      <li>Viikko 3.4: Resurssikeskeinen arkkitehtuuri ja API-talous</li>
+      <li>Viikko 3.3: Web-sovelluskehityksen perusteita ja harjoitustyöohje</li>
+      <li>Viikko 3.2: Resurssista (re)presentaatioksi</li>
+      <li>Viikko 3.1: Käytännöt ja katsaus ohjelmallisen sisällönhallinnan nykytilaan</li>
+    </ul>
   </div>
 </div>
 
