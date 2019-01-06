@@ -1,13 +1,13 @@
----
+﻿---
 layout: default
-title: Harjoitustyöohje / OHSIHA 2018
-year: 2018
+title: Harjoitustyöohje / OHSIHA 2019
+year: 2019
 ---
 
-<!-- <p><strong>Status:</strong> Ohjetta päivitetään vuodelle 2018.</p> -->
+<p><strong>Status:</strong> Ohjeen päivittäminen vuodelle 2019 on vielä hieman kesken, mutta perusajatus ei tule muuttumaan.</p>
 
-<p><strong>Ilmoita epäjohdonmukaisuuksista
-  <a href="http://www.tut.fi/fi/henkilokortti/index.htm?id=8883">Jukalle</a>.</strong></p>
+<p><strong>Ilmoita epäjohdonmukaisuuksista <a href="mailto:katja.kujala@tuni.fi">Katjalle</a>.
+</strong></p>
 
 <p>Harjoitustyö on pakollinen osa Ohjelmallisen sisällönhallinnan
 <a href="suorittaminen">suorittamista</a>.
@@ -15,7 +15,7 @@ Näin siksi, että sisällön käsittelyn automatisoinnin ja verkkopalveluiden t
 <p>Harjoitustyön lopputuloksena syntyy koodiportfolio, joka kokoaa yhteen harjoitustyöhön toteutetut toiminnot ja niiden tiiviin dokumentaation.
 <!--   (ks. <a href="http://matriisi.ee.tut.fi/hmopetus/ohsiha/2016/htyo/koodiportfolio.html" target="_blank">koodiportfolion sivupohja</a> (käytä selaimen Tallenna nimellä -toimintoa, jotta tiedoston merkistökoodaus säilyy ja näet ääkköset oikein)).  -->
 </p>
-<p>Keväällä 2018 voit käyttää harjoitustyön tekemiseen seuraavia vaihtoehtoisia teknologioita:</p>
+<p>Keväällä 2019 voit käyttää harjoitustyön tekemiseen seuraavia vaihtoehtoisia teknologioita:</p>
 <ul>
 <li><a href="http://www.djangoproject.com/" target="_blank">Django</a>, <a href="http://flask.pocoo.org/" target="_blank">Flask</a>, <a href="http://www.pylonsproject.org/" target="_blank">Pylons</a> (<a href="http://turbogears.org/" target="_blank">TurboGears</a>, <a href="http://bfg.repoze.org/" target="_blank">BFG</a>) tai muu valitsemasi Python-kehys </li>
 <li><a href="http://rubyonrails.org/" target="_blank">Ruby on Rails</a></li>
@@ -46,7 +46,7 @@ Näin siksi, että sisällön käsittelyn automatisoinnin ja verkkopalveluiden t
 
 ## Minimivaatimukset
 
-Keväällä 2018 harjoitustöissä painotetaan datakeskeisten palvelujen kehittämistä. Ota lähtökohdaksi jokin olemassa oleva data, ota se käyttöön omassa palvelussasi ja rakenna dataa edelleen jalostava toiminnallisuus. Esimerkkejä datan lähteistä ovat avoimen datan kokoelmat
+Keväällä 2019 harjoitustöissä painotetaan datakeskeisten palvelujen kehittämistä. Ota lähtökohdaksi jokin olemassa oleva data, ota se käyttöön omassa palvelussasi ja rakenna dataa edelleen jalostava toiminnallisuus. Esimerkkejä datan lähteistä ovat avoimen datan kokoelmat
 [Tampereella](https://www.tampere.fi/tampereen-kaupunki/tietoa-tampereesta/avoin-data.html) ja
 [Helsingissä](http://www.hri.fi/fi/),
 [Spotify](https://developer.spotify.com/web-api/),
@@ -118,34 +118,34 @@ Opiskelija saa valita harjoitustyönsä aiheen vapaasti, luonnollisesti hyvän m
   Kehitysympäristön perustaminen: Django käyntiin omalle koneelle
   tai esimerkiksi Herokun käyttöönotto.
   Katso <a href="https://ohsiha.github.io/2018/01/26/htyo-vaihe-1">tarkempi ohje</a>.
-  Palautus <strong>perjantaihin 23. helmikuuta kello 17</strong> mennessä. (3 pistettä)
+  Palautus <strong>perjantaihin 22. helmikuuta kello 17</strong> mennessä. (3 pistettä)
 </li>
 <li>
   Esimerkkipalvelu valitsemallasi teknologialla:
   Tuki kirjautumiseen ja rekisteröitymiseen tai jokin vaihtoehtoinen tapa käyttäjäkohtaisen tilan ylläpitämiseen sekä esimerkkidatan näyttäminen tai lisää-näytä-päivitä-poista (CRUD) -toiminnot.
-  Palautus <strong>perjantaihin 16. maaliskuuta kello 17</strong> mennessä. (3 pistettä)
+  Palautus <strong>perjantaihin 15. maaliskuuta kello 17</strong> mennessä. (3 pistettä)
 </li>
 <li>
   Datarajapinnan käyttö: Lue dataa oman sovelluksesi käyttöön tarkoituksenmukaisen lähteestä.
   Integroi data elimelliseksi osaksi palvelusi tietosisältöä.
   Voit joko ottaa käyttöön soveltuvan API:n (ks. vaikkapa <a href="http://apisuomi.fi/">API:Suomi</a>) tai vaihtoehtoisesti
   lukea palvelun käyttöön staattisen datan (esimerkiksi <a href="http://data.tampere.fi">data.tampere.fi</a>).
-  Palautus <strong>perjantaihin 6. huhtikuuta kello 17</strong> mennessä. (3 pistettä)
+  Palautus <strong>perjantaihin 5. huhtikuuta kello 17</strong> mennessä. (3 pistettä)
 </li>
 <li>
   Visualisointi: sovelluksen keräämän tai datarajapinnasta luetun datan ei-triviaali visualisointi (siis jotain muuta kuin yksittäinen toimistografiikkaelementti tai joukko kartalle heitettyjä tietoja).
   Käytännössä esimerkiksi suurin osa D3.js-kirjastolla toteuteista visualisoinneista voidaan luokitella ei-triviaaliksi.
   Toteutukseksi käy myös yksinkertaisista, esimerkiksi Highchartsilla toteutetuista visualisoinneista muodostettu kojelauta (dashboard).
-  Palautus <strong>perjantaihin 20. huhtikuuta kello 17</strong> mennessä. (3 pistettä)
+  Palautus <strong>perjantaihin 19. huhtikuuta kello 17</strong> mennessä. (3 pistettä)
 </li>
 </ol>
 
 <p>
   Voit tuplata edelliset pisteet valmistelemalla Koodiklinikalle demon toteutuksestasi.
-  Ota yhteyttä Jukkaan jos olet kiinnostunut mahdollisuudesta.
+  Ota yhteyttä Katjaan jos olet kiinnostunut mahdollisuudesta.
 </p>
 
-Edellä kuvatut neljä kokonaisuutta voit toteuttaa omalla koneellasi pyörivässä paikallisessa kehitysympäristössä. Mikäli haluat kerätä **lisää pisteitä seuraavia kokonaisuuksia toteuttamalla**, sinun on ensin julkaistava palvelusi Webiin. Palautus <strong>perjantaihin 5. toukokuuta kello 17</strong> mennessä:
+Edellä kuvatut neljä kokonaisuutta voit toteuttaa omalla koneellasi pyörivässä paikallisessa kehitysympäristössä. Mikäli haluat kerätä **lisää pisteitä seuraavia kokonaisuuksia toteuttamalla**, sinun on ensin julkaistava palvelusi Webiin. Palautus <strong>perjantaihin 3. toukokuuta kello 17</strong> mennessä:
 
 **SPA-toteutus** (3 pistettä):
 Palvelusi toimii Single Page Application -periaatteella. Toteutus perustuu esimerkiksi
@@ -256,25 +256,27 @@ Kuvauksen mukainen viesti on toimitettava Slackiin viimeistään perjantaina kel
 
 <h2 id="loppuraportti">Loppuraportti</h2>
 <p>
-  Harjoitustyön palautus tapahtuu lähettämällä oheisen mallin mukainen tiedote osoitteeseen <a href="mailto:jukka.huhtamaki@tut.fi">jukka.huhtamaki@tut.fi</a>.
-  Lähetä viesti otsikolla #OHSIHA: työ valmis <em>perjantaihin 11. toukokuuta kello 17 mennessä</em>.
+  Harjoitustyön palautus tapahtuu lähettämällä oheisen mallin mukainen tiedote osoitteeseen <a href="mailto:katja.kujala@tuni.fi">katja.kujala@tuni.fi</a>.
+  Lähetä viesti otsikolla #OHSIHA: työ valmis <em>perjantaihin 5. toukokuuta kello 17 mennessä</em>.
 </p>
 <blockquote>
   <p>
     Nimi: James Station<br />
-    Opiskelijanumero: 213456<br />
+    Opiskelijanumero: 234567<br />
     Sähköposti: <a href="mailto:jstat@trolleywatch.org">jstat@trolleywatch.org</a>
   </p>
   <p>Harjoitustyöni aihe: Verkkopalvelu raitiovaunubongareille</p>
   <p>Harjoitustyö löytyy kokonaisuudessaan oheisesta zip-paketista (ohsiha2018-234567.zip).</p>
 
-<p>Korvaan tenttisuorituksen luentopäiväkirjalla. Osoite luentopäiväkirjaani: <a href="http://blog.fi/jamesstation/ohsiha2018">http://blog.fi/jamesstation/ohsiha2018</a></p>
+<p>Korvaan tenttisuorituksen luentopäiväkirjalla. Osoite luentopäiväkirjaani: <a href="http://blog.fi/jamesstation/ohsiha2019">http://blog.fi/jamesstation/ohsiha2019</a></p>
 </blockquote>
 <p>
 Palautettavan zip-paketin (ohsiha2018-opiskelijanumero.zip) tulee sisältää hakemisto nimeltä ohsiha2018-234567 (korvaa lukusarja 234567 omalla opiskelijanumerollasi), jonka sisältä löytyvät työhösi liittyvät koodi- ja asetustiedostot.
 Huomaa, että sovelluksen ei tarvitse toimia sellaisenaan. Riittää, että paketin sisältöön voi perehtyä suoraviivaisesti paketin purkamalla.
 </p>
 <p>
-Merkitse lisäksi harjoitustyön eri ominaisuuksien raportoiduista toteutuksista  ja vierailuluennoille osallistumisesta keräämäsi pisteet <a href="https://docs.google.com/spreadsheets/d/1z9Xt7bVxSnmarJ2XcVWOfJ9QYkMaJZNu80_SFqq7aUw/edit?usp=sharing">Google-laskentataulukkoon</a> (ei edellytä sisäänkirjautumista).
+Merkitse lisäksi harjoitustyön eri ominaisuuksien raportoiduista toteutuksista keräämäsi pisteet myöhemmin tässä julkaistavaan laskentataulukkoon.
+<!--
+<a href="https://docs.google.com/spreadsheets/d/1z9Xt7bVxSnmarJ2XcVWOfJ9QYkMaJZNu80_SFqq7aUw/edit?usp=sharing">Google-laskentataulukkoon</a> (ei edellytä sisäänkirjautumista).-->
 <strong>Merkitse pisteet ainoastaan siinä tapauksessa, että olet julkaissut kuvauksen määräaikaan mennessä.</strong>
 </p>

@@ -1,6 +1,6 @@
----
+﻿---
 layout: default
-title: Suorittaminen / OHSIHA 2018
+title: Suorittaminen / OHSIHA 2019
 ---
 
 # Suorittaminen
@@ -24,10 +24,9 @@ Avausluennolla esitetty ohjeistus pätee oppimispäiväkirjalla suorittamiseen:
 
 Oppimiskirja karttuu noin yhdellä A4-sivulla viikossa.
 
-Ilmoita Jukalle mikäli olet kiinnostunut luentopäiväkirjalla suorittamisesta (otsikoi sähköposti: #ohsiha Luentopäiväkirja). 
+Ilmoita Katjalle mikäli olet kiinnostunut luentopäiväkirjalla suorittamisesta (otsikoi sähköposti: #ohsiha Luentopäiväkirja). 
 Perusta luentopäiväkirjaa varten verkkoon dokumentti, jota päivität kevään mittaan luentojen edetessä. 
 Kerro dokumentin osoite sähköpostitse kun perustat luentopäiväkirjan. 
-Myös Google Docs -dokumentin käyttäminen on mahdollista - jaa dokumentti Jukalle (jukka.huhtamaki@gmail.com).
 
 Luentopäiväkirjat arvioidaan seuraavien kriteerien perusteella:
 

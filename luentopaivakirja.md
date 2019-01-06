@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: Luentopäiväkirja / OHSIHA 2018
 year: 2019
@@ -30,7 +30,7 @@ Luennot tallennetaan Echo360-järjestelmällä.
 </div>
 </div>
 
-<!-- Tulossa:
+<!-- Tulossa: (Päivittämättä)
 
 Ohjelmallisen sisällönhallinnan kevään toteutuskerta on päättynyt.
 [Johdanto datatieteeseen](http://jodatut.github.io/2018) jatkaa siitä mihin Ohjelmallinen sisällönhallinta jäi.
@@ -125,10 +125,12 @@ Koodiklinikalla tunnistetaan [jekyll-now](https://github.com/barryclark/jekyll-n
 
 ## Luentoviikko 3.1 (viikko 2): Käytännöt ja katsaus ohjelmallisen sisällönhallinnan nykytilaan
 
-*Toteutuskerran avausluento järjestetään viikonpäivänä p. tammikuuta 2019 kello tt.mm salissa S*.
-<!-- tiistaina 9. tammikuuta 2018 kello 10.15 salissa SJ204.* -->
+*Toteutuskerran avausluento järjestetään tiistaina 8. tammikuuta 2019 kello 10.15 salissa SJ204*.
 
-*Esitys [hypertekstinä](http://ohsiha.github.io/2018/luento/01/esitys.html).*
+*Esitys julkaistaan myöhemmin.* 
+<!--[hypertekstinä](http://ohsiha.github.io/2018/luento/01/esitys.html).*-->
 
 Aiheet: Opintojakson ja kevään toteutuskerran esittely ja suorittamisen käytännöt.
-Koodiklinikalla tutustutaan [ohjelmallisen sisällönhallinnan tilaan vuonna 2019](http://ohsiha.github.io/2018/01/10/ohsiha-vuonna-2018).
+Perjantaina koodiklinikalla tutustutaan harjoitustyöhön.
+<!--[ohjelmallisen sisällönhallinnan tilaan vuonna 2019](http://ohsiha.github.io/2018/01/10/ohsiha-vuonna-2018).-->
+s
