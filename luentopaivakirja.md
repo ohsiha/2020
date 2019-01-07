@@ -23,7 +23,6 @@ Luennot tallennetaan Echo360-järjestelmällä.
 * Viikko 3.4: Resurssikeskeinen arkkitehtuuri ja API-talous
 * Viikko 3.3: Web-sovelluskehityksen perusteita ja harjoitustyöohje
 * Viikko 3.2: Resurssista (re)presentaatioksi
-* Viikko 3.1: Käytännöt ja katsaus ohjelmallisen sisällönhallinnan nykytilaan
 
 *Tarkempi suunnitelma tämän dokumentin kommenteissa*
 
@@ -127,10 +126,8 @@ Koodiklinikalla tunnistetaan [jekyll-now](https://github.com/barryclark/jekyll-n
 
 *Toteutuskerran avausluento järjestetään tiistaina 8. tammikuuta 2019 kello 10.15 salissa SJ204*.
 
-*Esitys julkaistaan myöhemmin.* 
-<!--[hypertekstinä](http://ohsiha.github.io/2018/luento/01/esitys.html).*-->
+*Esitys [hypertekstinä](http://ohsiha.github.io/2018/luento/K1/esitys.html).*
 
 Aiheet: Opintojakson ja kevään toteutuskerran esittely ja suorittamisen käytännöt.
-Perjantaina koodiklinikalla tutustutaan harjoitustyöhön.
-<!--[ohjelmallisen sisällönhallinnan tilaan vuonna 2019](http://ohsiha.github.io/2018/01/10/ohsiha-vuonna-2018).-->
-s
+Perjantaina koodiklinikalla tutustutaan harjoitustyöhön. Huom! Aloitamme perjantaina klo 9.00. 
+[ohjelmallisen sisällönhallinnan tila vuonna 2018](http://ohsiha.github.io/2018/01/10/ohsiha-vuonna-2018).
