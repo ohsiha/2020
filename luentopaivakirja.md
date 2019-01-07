@@ -126,7 +126,7 @@ Koodiklinikalla tunnistetaan [jekyll-now](https://github.com/barryclark/jekyll-n
 
 *Toteutuskerran avausluento järjestetään tiistaina 8. tammikuuta 2019 kello 10.15 salissa SJ204*.
 
-*Esitys [hypertekstinä](http://ohsiha.github.io/2018/luento/K1/esitys.html).*
+*Esitys [hypertekstinä](http://ohsiha.github.io/2019/luento/K1/esitys.html).*
 
 Aiheet: Opintojakson ja kevään toteutuskerran esittely ja suorittamisen käytännöt.
 Perjantaina koodiklinikalla tutustutaan harjoitustyöhön. Huom! Aloitamme perjantaina klo 9.00. 
