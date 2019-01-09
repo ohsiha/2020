@@ -8,7 +8,7 @@ Tämä on Ohjelmallisen sisällönhallinnan kevään 2019 toteutuskerran luentop
 Toteutus noudattelee [vuoden 2018 toteutuskertaa](https://ohsiha.github.io/2018/luentopaivakirja).
 Alan dynaamisuudesta johtuen sisältöjä ja toteutustapaa kuitenkin kehitetään jatkuvasti.
 
-Luennot tallennetaan Echo360-järjestelmällä.
+Luennot tallennetaan [Echo360](https://echo360.org.uk/section/89ccd5ff-39ab-417f-a411-77591e21f565/public)-järjestelmällä.
 
 # Luentopäiväkirja
 
