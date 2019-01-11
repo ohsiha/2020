@@ -17,10 +17,10 @@ Näin siksi, että sisällön käsittelyn automatisoinnin ja verkkopalveluiden t
 </p>
 <p>Keväällä 2019 voit käyttää harjoitustyön tekemiseen seuraavia vaihtoehtoisia teknologioita:</p>
 <ul>
-<li><a href="http://www.djangoproject.com/" target="_blank">Django</a>, <a href="http://flask.pocoo.org/" target="_blank">Flask</a>, <a href="http://www.pylonsproject.org/" target="_blank">Pylons</a> (<a href="http://turbogears.org/" target="_blank">TurboGears</a>, <a href="http://bfg.repoze.org/" target="_blank">BFG</a>) tai muu valitsemasi Python-kehys </li>
+<li><a href="http://www.djangoproject.com/" target="_blank">Django</a>, <a href="http://flask.pocoo.org/" target="_blank">Flask</a>, <a href="http://www.pylonsproject.org/" target="_blank">Pylons</a> (<a href="http://turbogears.org/" target="_blank">TurboGears</a>, <a href="https://trypyramid.com/" target="_blank">Pyramid (vanha BFG)</a>) tai muu valitsemasi Python-kehys </li>
 <li><a href="http://rubyonrails.org/" target="_blank">Ruby on Rails</a></li>
 <li><a href="http://nodejs.org/" target="_blank">Node.js</a> (+ esim. <a href="http://backbonejs.org/" target="_blank">Backbone.js</a>)</li>
-<li>PHP (ja halutessasi <a href="http://codeigniter.com/" target="_blank">CodeIgniter</a>, <a href="http://laravel.com/" target="_blank">Lavarel</a> tai muu valitsemasi PHP-sovelluskehys)</li>
+<li>PHP (ja halutessasi <a href="http://codeigniter.com/" target="_blank">CodeIgniter</a>, <a href="http://laravel.com/" target="_blank">Lavarel</a> tai muu valitsemasi PHP-sovelluskehys)</li> 
 <li>.Net</li>
 </ul>
 <p>
@@ -47,11 +47,11 @@ Näin siksi, että sisällön käsittelyn automatisoinnin ja verkkopalveluiden t
 ## Minimivaatimukset
 
 Keväällä 2019 harjoitustöissä painotetaan datakeskeisten palvelujen kehittämistä. Ota lähtökohdaksi jokin olemassa oleva data, ota se käyttöön omassa palvelussasi ja rakenna dataa edelleen jalostava toiminnallisuus. Esimerkkejä datan lähteistä ovat avoimen datan kokoelmat
-[Tampereella](https://www.tampere.fi/tampereen-kaupunki/tietoa-tampereesta/avoin-data.html) ja
+[Tampereella](https://data.tampere.fi/fi/) ja
 [Helsingissä](http://www.hri.fi/fi/),
 [Spotify](https://developer.spotify.com/web-api/),
 [Twitter](https://developer.twitter.com/en/docs/tweets/search/overview/standard.html) - ja
-[Tampere3](https://api.tampere3.fi/apis)!
+[Tampere3](https://avoindata.tuni.fi/)!
 Kattavia datalähdelistauksia löydät muun muassa  ProgrammableWeb- ja
 [apinf.io-palveluista](https://apinf.io/).  
 
@@ -102,9 +102,11 @@ Opiskelija saa valita harjoitustyönsä aiheen vapaasti, luonnollisesti hyvän m
   Edellä mainittuja aiheita voi vapaasti muokata siten, että ne sopivat paremmin tekijän omiin tarpeisiin.
   Erityisen suositeltavaa on keksiä jokin ehdotettuja parempi aihe.
   Inspiraatiota voit kerätä vaikkapa tutustumalla Demolassa tarjolla oleviin
-  <a href="https://tampere.demola.net/projects" target="_blank">projektiaiheisiin</a>,
-  <a href="http://apps4finland.fi/kilpailutyot/" target="_blank">Apps4Finland-kilpailutöihin</a> tai programmableweb.com-sivuston <a href="http://www.programmableweb.com/mashups" target="_blank">koostepalveluesimerkkeihin</a>.
+  <a href="https://tampere.demola.net/projects" target="_blank">projektiaiheisiin</a> tai programmableweb.com-sivuston <a href="http://www.programmableweb.com/mashups" target="_blank">koostepalveluesimerkkeihin</a>.
 </p>
+<p> 
+  Kurssin harjoitustyö on myös mahdollista suorittaa myös SCIL-projektina. SCIL-projektissa ideoidaan ja kehitetään sovelluksia, jotka hyödyntävät   Tampereen korkeakouluyhteisön avoimen datan palvelua. Katso lisätietoja <a href="http://scil.tampere3.fi/projects/avoin-data/">tehtävänannosta</a>. 
+</p>.
 
 ## Harjoitustyöpisteet ja arvosana
 
@@ -128,7 +130,7 @@ Opiskelija saa valita harjoitustyönsä aiheen vapaasti, luonnollisesti hyvän m
 <li>
   Datarajapinnan käyttö: Lue dataa oman sovelluksesi käyttöön tarkoituksenmukaisen lähteestä.
   Integroi data elimelliseksi osaksi palvelusi tietosisältöä.
-  Voit joko ottaa käyttöön soveltuvan API:n (ks. vaikkapa <a href="http://apisuomi.fi/">API:Suomi</a>) tai vaihtoehtoisesti
+  Voit joko ottaa käyttöön soveltuvan API:n tai vaihtoehtoisesti
   lukea palvelun käyttöön staattisen datan (esimerkiksi <a href="http://data.tampere.fi">data.tampere.fi</a>).
   Palautus <strong>perjantaihin 5. huhtikuuta kello 17</strong> mennessä. (3 pistettä)
 </li>
@@ -159,7 +161,6 @@ Ota käyttöön analytiikkaratkaisu, joka mahdollistaa käyttäjien toiminnan se
 
 <strong>Botti</strong> (3 pistettä):
 Toteuta botti, joka esimerkiksi tervehtii sivulle saapuvaa käyttäjää ja kysyy miten häntä voisi palvella, tarjoaa palvelusi sisältöä Facebook-chatissa tai välittää hyödyllisiä päivityksiä Slack-kanavalle.
-Katso myös <a href="https://twitter.com/jnkka/status/841269123111895040">Develop an API Chatbot</a>.
 </p>
 
 <p id="reaaliaika">
@@ -187,10 +188,9 @@ AJAX-teknologian soveltaminen verkkopalvelun käyttöliittymän toteutuksessa (s
   <a href="http://www.w3.org/TR/workers/" target="_blank">Web Workers</a>,
   <a href="http://www.w3.org/TR/websockets/" target="_blank">Web Socket</a> ja
   <a href="http://www.w3.org/wiki/HTML5_form_additions" target="_blank">uudet lomakeominaisuudet</a>.
-  Ideoita ominaisuuksista voit poimia esimerkiksi <a href="http://slides.html5rocks.com/#landing-slide" target="_blank">HTML5-esityksestä</a>.
 </p>
 
-<strong>Kertakirjautuminen</strong> (1 pistettä):
+<strong>Kertakirjautuminen</strong> (1 pistettä): (Linkit päivittämättä!)
 Yksittäiset palveluntarjoajat tarjoavat usein <a href="http://oauth.net/" target="_blank">OAuth-protokollaan</a> perustuvia keinoja kertakirjautumisen toteuttamiseen,
 ks. esimerkiksi <a href="http://developers.facebook.com/connect.php" target="_blank">Facebook</a><a href="http://developers.facebook.com/docs/guides/web/#login" target="_blank"> for Websites: Authentication</a>,
 <a href="http://code.google.com/apis/accounts/docs/GettingStarted.html" target="_blank">Authentication and Authorization for Google APIs</a> ja
@@ -214,7 +214,7 @@ Mahdollista sovelluksesi keräämän tietosisällön hyödyntäminen ja/tai muok
   <strong>WebGL ja 3D</strong> (2 pistettä):
   Toteuta sovellukseesi WebGL-rajapintaa hyödyntävä ominaisuus,
   esimerkiksi
-  [Three.js-kirjastoa](https://threejs.org/examples/)
+  <a href="https://threejs.org/examples/">Three.js-kirjastoa</a>
   hyödyntävä 3D-toiminnallisuus.
 </p>
 
@@ -271,7 +271,7 @@ Kuvauksen mukainen viesti on toimitettava Slackiin viimeistään perjantaina kel
 <p>Korvaan tenttisuorituksen luentopäiväkirjalla. Osoite luentopäiväkirjaani: <a href="http://blog.fi/jamesstation/ohsiha2019">http://blog.fi/jamesstation/ohsiha2019</a></p>
 </blockquote>
 <p>
-Palautettavan zip-paketin (ohsiha2018-opiskelijanumero.zip) tulee sisältää hakemisto nimeltä ohsiha2018-234567 (korvaa lukusarja 234567 omalla opiskelijanumerollasi), jonka sisältä löytyvät työhösi liittyvät koodi- ja asetustiedostot.
+Palautettavan zip-paketin (ohsiha2019-opiskelijanumero.zip) tulee sisältää hakemisto nimeltä ohsiha2018-234567 (korvaa lukusarja 234567 omalla opiskelijanumerollasi), jonka sisältä löytyvät työhösi liittyvät koodi- ja asetustiedostot.
 Huomaa, että sovelluksen ei tarvitse toimia sellaisenaan. Riittää, että paketin sisältöön voi perehtyä suoraviivaisesti paketin purkamalla.
 </p>
 <p>
