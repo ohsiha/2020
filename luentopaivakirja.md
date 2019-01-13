@@ -114,8 +114,7 @@ Aiheena: Web-toteutusten perusteet.
 URI-tunniste, resurssi, representaatio 
 HTML, CSS ja Javascript: sisältö, esitystapa, toiminnallisuus.
 
-<!--(ks.
-[Architecture of the World Wide Web](https://www.w3.org/TR/webarch/#p20)).
+<!--(ks.[Architecture of the World Wide Web](https://www.w3.org/TR/webarch/#p20)).
 [Viileät URI-tunnisteet eivät muutu](https://www.w3.org/Provider/Style/URI).
 Demo: twiitti resurssina (ks. [simple_read.py](https://github.com/jukkahuhtamaki/pcm-demo/blob/master/twitter-api/simple_read.py)).
 Elegantit URI-tunnisteet (ks. [Use RESTful URLs and actions](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api#restful)).
