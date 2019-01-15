@@ -194,7 +194,7 @@ AJAX-teknologian soveltaminen verkkopalvelun käyttöliittymän toteutuksessa (s
 Yksittäiset palveluntarjoajat tarjoavat usein <a href="http://oauth.net/" target="_blank">OAuth-protokollaan</a> perustuvia keinoja kertakirjautumisen toteuttamiseen,
 ks. esimerkiksi <a href="http://developers.facebook.com/connect.php" target="_blank">Facebook</a><a href="http://developers.facebook.com/docs/guides/web/#login" target="_blank"> for Websites: Authentication</a>,
 <a href="http://code.google.com/apis/accounts/docs/GettingStarted.html" target="_blank">Authentication and Authorization for Google APIs</a> ja
-<a href="https://dev.twitter.com/docs/auth" target="_blank">Twitter: </a><a href="https://dev.twitter.com/docs/auth" target="_blank">Authentication &amp; Authorization</a>.
+<a href="https://developer.twitter.com/en/docs/basics/authentication/overview/authentication-and-authorization.html" target="_blank">Twitter: </a><a href="https://developer.twitter.com/en/docs/basics/authentication/overview/authentication-and-authorization.html" target="_blank">Authentication &amp; Authorization</a>.
 Kerää piste toteuttamalla tuki vähintään yhdelle mainituista kirjautumismenetelmistä.
 
 <strong>Sovelluskehittäjän rajapinta</strong> (3 pistettä):
@@ -257,7 +257,7 @@ Kuvauksen mukainen viesti on toimitettava Slackiin viimeistään perjantaina kel
 <h2 id="loppuraportti">Loppuraportti</h2>
 <p>
   Harjoitustyön palautus tapahtuu lähettämällä oheisen mallin mukainen tiedote osoitteeseen <a href="mailto:katja.kujala@tuni.fi">katja.kujala@tuni.fi</a>.
-  Lähetä viesti otsikolla #OHSIHA: työ valmis <em>perjantaihin 5. toukokuuta kello 17 mennessä</em>.
+  Lähetä viesti otsikolla #OHSIHA: työ valmis <em>perjantaihin 3. toukokuuta kello 17 mennessä</em>.
 </p>
 <blockquote>
   <p>
