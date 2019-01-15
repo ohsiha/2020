@@ -114,6 +114,13 @@ Aiheena: Web-toteutusten perusteet.
 URI-tunniste, resurssi, representaatio 
 HTML, CSS ja Javascript: sisältö, esitystapa, toiminnallisuus.
 
+*"Esitys" [hypertekstinä](http://ohsiha.github.io/2019/luento/K2/esitys.html).*
+
+Lisämateriaalia: Taustaa tarkemmin: Learn [HTML &amp; CSS](https://www.codecademy.com/learn/web), [Javascript](https://www.codecademy.com/learn/javascript).
+Edistyneille: [Bootstrap](http://getbootstrap.com/).
+
+Koodikliniikalla tutustutaan HTML + CSS. Kannattaa ottaa oma kone mukaan.
+ 
 <!--(ks.[Architecture of the World Wide Web](https://www.w3.org/TR/webarch/#p20)).
 [Viileät URI-tunnisteet eivät muutu](https://www.w3.org/Provider/Style/URI).
 Demo: twiitti resurssina (ks. [simple_read.py](https://github.com/jukkahuhtamaki/pcm-demo/blob/master/twitter-api/simple_read.py)).
