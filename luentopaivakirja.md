@@ -1,6 +1,6 @@
 ﻿---
 layout: default
-title: Luentopäiväkirja / OHSIHA 2018
+title: Luentopäiväkirja / OHSIHA 2019
 year: 2019
 ---
 
@@ -20,9 +20,7 @@ Luennot tallennetaan [Echo360](https://echo360.org.uk/section/89ccd5ff-39ab-417f
 * Viikko 3.7: Mukautuvat järjestelmät - kohti JODAa
 * Viikko 3.6: Datalla ohjattu kehitystyö
 * Viikko 3.5: Koostepalvelut
-* Viikko 3.4: Resurssikeskeinen arkkitehtuuri ja API-talous
-* Viikko 3.3: Web-sovelluskehityksen perusteita ja harjoitustyöohje
-
+* Viikko 3.4: API-talous
 
 *Tarkempi suunnitelma tämän dokumentin kommenteissa*
 
