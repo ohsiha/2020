@@ -13,7 +13,7 @@ year: 2019
 <a href="suorittaminen">suorittamista</a>.
 Näin siksi, että sisällön käsittelyn automatisoinnin ja verkkopalveluiden toiminnallisuuksien kehittäminen edellyttää välttämättä käytännön harjoittelua.</p>
 <p>Harjoitustyön lopputuloksena syntyy koodiportfolio, joka kokoaa yhteen harjoitustyöhön toteutetut toiminnot ja niiden tiiviin dokumentaation.
-<!--   (ks. <a href="http://matriisi.ee.tut.fi/hmopetus/ohsiha/2016/htyo/koodiportfolio.html" target="_blank">koodiportfolion sivupohja</a> (käytä selaimen Tallenna nimellä -toimintoa, jotta tiedoston merkistökoodaus säilyy ja näet ääkköset oikein)).  -->
+
 </p>
 <p>Keväällä 2019 voit käyttää harjoitustyön tekemiseen seuraavia vaihtoehtoisia teknologioita:</p>
 <ul>
@@ -190,7 +190,7 @@ AJAX-teknologian soveltaminen verkkopalvelun käyttöliittymän toteutuksessa (s
   <a href="http://www.w3.org/wiki/HTML5_form_additions" target="_blank">uudet lomakeominaisuudet</a>.
 </p>
 
-<strong>Kertakirjautuminen</strong> (1 pistettä): (Linkit päivittämättä!)
+<strong>Kertakirjautuminen</strong> (1 pistettä):
 Yksittäiset palveluntarjoajat tarjoavat usein <a href="http://oauth.net/" target="_blank">OAuth-protokollaan</a> perustuvia keinoja kertakirjautumisen toteuttamiseen,
 ks. esimerkiksi <a href="http://developers.facebook.com/connect.php" target="_blank">Facebook</a><a href="http://developers.facebook.com/docs/guides/web/#login" target="_blank"> for Websites: Authentication</a>,
 <a href="http://code.google.com/apis/accounts/docs/GettingStarted.html" target="_blank">Authentication and Authorization for Google APIs</a> ja
@@ -275,8 +275,7 @@ Palautettavan zip-paketin (ohsiha2019-opiskelijanumero.zip) tulee sisältää ha
 Huomaa, että sovelluksen ei tarvitse toimia sellaisenaan. Riittää, että paketin sisältöön voi perehtyä suoraviivaisesti paketin purkamalla.
 </p>
 <p>
-Merkitse lisäksi harjoitustyön eri ominaisuuksien raportoiduista toteutuksista keräämäsi pisteet myöhemmin tässä julkaistavaan laskentataulukkoon.
+Merkitse lisäksi harjoitustyön eri ominaisuuksien raportoiduista toteutuksista keräämäsi pisteet <a href="https://tuni-my.sharepoint.com/:x:/g/personal/katja_kujala_tuni_fi/EckNaAYrqEdIspI3TjSRWy8BMMZCDmLi9su81-YFV1mP-A?e=79pCf3">laskentataulukkoon.</a><strong>Merkitse pisteet ainoastaan siinä tapauksessa, että olet julkaissut kuvauksen määräaikaan mennessä.</strong>
+</p>
 <!--
 <a href="https://docs.google.com/spreadsheets/d/1z9Xt7bVxSnmarJ2XcVWOfJ9QYkMaJZNu80_SFqq7aUw/edit?usp=sharing">Google-laskentataulukkoon</a> (ei edellytä sisäänkirjautumista).-->
-<strong>Merkitse pisteet ainoastaan siinä tapauksessa, että olet julkaissut kuvauksen määräaikaan mennessä.</strong>
-</p>
