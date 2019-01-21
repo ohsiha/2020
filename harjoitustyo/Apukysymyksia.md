@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Harjoitustyön ensimmäinen vaihe
+title: HarjoitustyÃ¶n ensimmÃ¤inen vaihe
 ---
 
-#Apukysymyksiä harjoitustyön ensimmäisen vaiheen dokumentointiin.
+#ApukysymyksiÃ¤ harjoitustyÃ¶n ensimmÃ¤isen vaiheen dokumentointiin.
 
-*Minkä ympäristön (asennuspaketti, Web-palvelin, tietokanta jne.) valitsit?
+*MinkÃ¤ ympÃ¤ristÃ¶n (asennuspaketti, Web-palvelin, tietokanta jne.) valitsit?
 *Miten asentaminen tapahtui? Kuvaa keskeiset vaiheet ja mahdollliset ongelmat.
-*Käytätkö Web-sovelluskehystä? Mitä?
+*KÃ¤ytÃ¤tkÃ¶ Web-sovelluskehystÃ¤? MitÃ¤?
 
-Näiden lisäksi muista ottaa käyttöön valitsemasi tietokanta ja toteuta yksinkertaiset luku- ja kirjoitusoperaatiot niin, että sovelluksesi osaa tallentaa käyttäjän syötettä tietokantaan ja lukea sitä sieltä. Palautettavassa dokumentissa tulis olla myös otteita keskeisistä konfiguraatio- ja kooditiedostoista, listaus tehtävän suorittamisen kannalta erityisen hyödyllisistä materiaaleista (linkkeinä) ja kolme erityisen helpoksi tai vaikeaksi osoittautunutta asiaa.
+NÃ¤iden lisÃ¤ksi muista ottaa kÃ¤yttÃ¶Ã¶n valitsemasi tietokanta ja toteuta yksinkertaiset luku- ja kirjoitusoperaatiot niin, ettÃ¤ sovelluksesi osaa tallentaa kÃ¤yttÃ¤jÃ¤n syÃ¶tettÃ¤ tietokantaan ja lukea sitÃ¤ sieltÃ¤. Palautettavassa dokumentissa tulis olla myÃ¶s otteita keskeisistÃ¤ konfiguraatio- ja kooditiedostoista, listaus tehtÃ¤vÃ¤n suorittamisen kannalta erityisen hyÃ¶dyllisistÃ¤ materiaaleista (linkkeinÃ¤) ja kolme erityisen helpoksi tai vaikeaksi osoittautunutta asiaa.
