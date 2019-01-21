@@ -86,7 +86,7 @@ tai
 Highcharts ja
 D3.js.
 
-## Luentoviikko 3.4 (viikko 5): Resurssikeskeinen arkkitehtuuri ja API-talous
+## Luentoviikko 3.4 (viikko 5): API-talous
 
 Lue taustaksi API-talous 101 -kirjan [ensimmäinen luku](https://www.apitalous101.fi/luku-varoitus).
 
@@ -98,10 +98,22 @@ REST, HTTP ja REST,
 [RESTful-periaate](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api), SPA ja REST.
 
 Koodiklinikalla jatketaan Django-esittelyä. Toiseen teknologiademoon pääsee [tästä](https://ohsiha.github.io/2018/01/31/django-jatkoa.html).
+-->
 
-## Luentoviikko 3.3 (viikko 4): Web-sovelluskehityksen perusteita ja harjoitustyöohje
+## Luentoviikko 3.3 (viikko 4): Resurssikeskeinen arkkitehtuuri
+Ei ennakkotehtävää.
 
-Ensimmäinen [teknologiademo harjoitustyöhön liittyen](https://ohsiha.github.io/2018/01/19/html-css-django-perusteet.html). HTML/CSS:n perusteet ([MDN Web Docs](https://developer.mozilla.org/fi/) ja [W3 Schools](https://www.w3schools.com/)) sekä Django-kehitysympäristön ja siihen vaadittavien komponenttien pystyttäminen sekä Djangon [dokumentaatioon](https://docs.djangoproject.com/en/2.0/) tutustuminen.
+Aiheena: kolmikerrosmalli,
+HTTP GET ja POST,
+istunnot(tomuus) AJAX,
+REST, HTTP ja REST,
+[RESTful-periaate](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api), SPA ja REST.
+
+Koodikliniikalla asennetaan Django-ympäristö ja tutustutaan Djangoon. Kannataa ottaa oma kone mukaan. 
+
+Kurssin Slack-alusta on nyt julkaistu. Kutsulinkki on lähetetty sähköpostitse kaikille kurssin osallistujille. 
+
+<!--Ensimmäinen [teknologiademo harjoitustyöhön liittyen](https://ohsiha.github.io/2018/01/19/html-css-django-perusteet.html). HTML/CSS:n perusteet ([MDN Web Docs](https://developer.mozilla.org/fi/) ja [W3 Schools](https://www.w3schools.com/)) sekä Django-kehitysympäristön ja siihen vaadittavien komponenttien pystyttäminen sekä Djangon [dokumentaatioon](https://docs.djangoproject.com/en/2.0/) tutustuminen.
 
 Koodiklinikalla käydään [harjoitustyöohje](https://ohsiha.github.io/2018/harjoitustyo).
 -->
@@ -119,18 +131,8 @@ HTML, CSS ja Javascript: sisältö, esitystapa, toiminnallisuus.
 Lisämateriaalia: Taustaa tarkemmin: Learn [HTML &amp; CSS](https://www.codecademy.com/learn/web), [Javascript](https://www.codecademy.com/learn/javascript).
 Edistyneille: [Bootstrap](http://getbootstrap.com/).
 
-Koodikliniikalla tutustutaan HTML + CSS. Kannattaa ottaa oma kone mukaan.
+Koodikliniikalla tutustutaan HTML + CSS. Kannattaa ottaa oma kone mukaan. Koodikliniikan esimerkit: [html](http://ohsiha.github.io/2019/koodikliniikka/html+css+js/index.html) [css](http://ohsiha.github.io/2019/koodikliniikka/html+css+js/index.css)
  
-<!--(ks.[Architecture of the World Wide Web](https://www.w3.org/TR/webarch/#p20)).
-[Viileät URI-tunnisteet eivät muutu](https://www.w3.org/Provider/Style/URI).
-Demo: twiitti resurssina (ks. [simple_read.py](https://github.com/jukkahuhtamaki/pcm-demo/blob/master/twitter-api/simple_read.py)).
-Elegantit URI-tunnisteet (ks. [Use RESTful URLs and actions](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api#restful)).
-Demo: jQueryllä resurssi representaatioksi.
-HTML, CSS ja Javascript: sisältö, esitystapa, toiminnallisuus.
-Taustaa tarkemmin: Learn [HTML &amp; CSS](https://www.codecademy.com/learn/web), [Javascript](https://www.codecademy.com/learn/javascript).
-Edistyneille: [Bootstrap](http://getbootstrap.com/).
-Koodiklinikalla tunnistetaan [jekyll-now](https://github.com/barryclark/jekyll-now) -kirjastosta esimerkkejä Web-toteutusten perusteista.
--->
 
 ## Luentoviikko 3.1 (viikko 2): Käytännöt ja katsaus ohjelmallisen sisällönhallinnan nykytilaan
 
