@@ -107,6 +107,8 @@ istunnot(tomuus) AJAX,
 REST, HTTP ja REST,
 [RESTful-periaate](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api), SPA ja REST.
 
+*Esitys [hypertekstinä](http://ohsiha.github.io/2019/luento/K3/esitys.html).*
+
 Koodikliniikalla asennetaan Django-ympäristö ja tutustutaan Djangoon. Kannataa ottaa oma kone mukaan. 
 
 Kurssin Slack-alusta on nyt julkaistu. Kutsulinkki on lähetetty sähköpostitse kaikille kurssin osallistujille. 
