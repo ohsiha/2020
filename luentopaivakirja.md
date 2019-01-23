@@ -109,7 +109,8 @@ REST, HTTP ja REST,
 
 *Esitys [hypertekstinä](http://ohsiha.github.io/2019/luento/K3/esitys.html).*
 
-Koodikliniikalla asennetaan Django-ympäristö ja tutustutaan Djangoon. Kannataa ottaa oma kone mukaan. 
+Koodikliniikalla asennetaan Django-ympäristö ja tutustutaan Djangoon, mikäli ehditään. Kannataa ottaa oma kone mukaan. 
+Lähdemme koodikliniikalla liikkeelle oletuksesta, että kaikilta löytyy koneeltaan selain ja editori. Mallisuorituksessa käytetään [Visual Studio Codea](https://code.visualstudio.com/)), mutta harjoitustyön on mahdollista suorittaa myös muilla editoreilla. Lisäksi windowsin käyttäjien kannattaa ladata [python](https://www.python.org/downloads/). Sen asentamisen käymme läpi koodikliniikalla. 
 
 Kurssin Slack-alusta on nyt julkaistu. Kutsulinkki on lähetetty sähköpostitse kaikille kurssin osallistujille. 
 
