@@ -100,14 +100,11 @@ REST, HTTP ja REST,
 
 *Esitys [hypertekstinä](http://ohsiha.github.io/2019/luento/K3/esitys.html).*
 
-Koodikliniikalla asennettiin Django-ympäristö windowsille ja macOs:lle. Pahoittelut ongelmista Windowsin kanssa! Mikäli koneellasi on jo python asennettuna (esimerkiksi Ohjelmointi 1: Johdanto -kurssin jäljiltä), voit siirtyä suoraan virtualenv:n asentamiseen. 
+
+Koodikliniikalla asennetaan Django-ympäristö ja tutustutaan Djangoon, mikäli ehditään. Kannataa ottaa oma kone mukaan. 
+Lähdemme koodikliniikalla liikkeelle oletuksesta, että kaikilta löytyy koneeltaan selain ja editori. Mallisuorituksessa käytetään [Visual Studio Codea](https://code.visualstudio.com/)), mutta harjoitustyön on mahdollista suorittaa myös muilla editoreilla. Lisäksi windowsin käyttäjien kannattaa ladata [python](https://www.python.org/downloads/). Sen asentamisen käymme läpi koodikliniikalla. 
 
 Kurssin Slack-alusta on nyt julkaistu. Kutsulinkki on lähetetty sähköpostitse kaikille kurssin osallistujille. 
-
-<!--Ensimmäinen [teknologiademo harjoitustyöhön liittyen](https://ohsiha.github.io/2018/01/19/html-css-django-perusteet.html). HTML/CSS:n perusteet ([MDN Web Docs](https://developer.mozilla.org/fi/) ja [W3 Schools](https://www.w3schools.com/)) sekä Django-kehitysympäristön ja siihen vaadittavien komponenttien pystyttäminen sekä Djangon [dokumentaatioon](https://docs.djangoproject.com/en/2.0/) tutustuminen.
-
-Koodiklinikalla käydään [harjoitustyöohje](https://ohsiha.github.io/2018/harjoitustyo).
--->
 
 ## Luentoviikko 3.2 (viikko 3): Resurssista representaatioksi
 

@@ -1,9 +1,4 @@
----
-layout: default
-title: Harjoitustyön ensimmäinen vaihe
----
-
-#Apukysymyksiä harjoitustyön ensimmäisen vaiheen dokumentointiin.
+﻿#Apukysymyksiä harjoitustyön ensimmäisen vaiheen dokumentointiin.
 
 *Minkä ympäristön (asennuspaketti, Web-palvelin, tietokanta jne.) valitsit?
 *Miten asentaminen tapahtui? Kuvaa keskeiset vaiheet ja mahdollliset ongelmat.
