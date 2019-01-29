@@ -87,6 +87,10 @@ D3.js.
 
 Esitehtävä: Lue taustaksi API-talous 101 -kirjan [ensimmäinen luku](https://www.apitalous101.fi/luku-varoitus).
 
+Aiheena: Alustatalous, API-talous, arvonluonti API-taloudessa 
+
+*Esitys [hypertekstinä](http://ohsiha.github.io/2019/luento/K4/esitys.html).*
+
 Koodiklinikalla Jukka Huhtamäki demoamassa API-taloutta käytännössä.
 
 ## Luentoviikko 3.3 (viikko 4): Resurssikeskeinen arkkitehtuuri
