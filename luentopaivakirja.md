@@ -20,7 +20,6 @@ Luennot tallennetaan [Echo360](https://echo360.org.uk/section/89ccd5ff-39ab-417f
 * Viikko 3.7: Mukautuvat järjestelmät - kohti JODAa
 * Viikko 3.6: Datalla ohjattu kehitystyö
 * Viikko 3.5: Koostepalvelut
-* Viikko 3.4: API-talous
 
 *Tarkempi suunnitelma tämän dokumentin kommenteissa*
 
@@ -83,20 +82,12 @@ tai
 [Dashboard-demo](https://github.com/jukkahuhtamaki/dashboard-demo)),
 Highcharts ja
 D3.js.
-
+-->
 ## Luentoviikko 3.4 (viikko 5): API-talous
 
-Lue taustaksi API-talous 101 -kirjan [ensimmäinen luku](https://www.apitalous101.fi/luku-varoitus).
+Esitehtävä: Lue taustaksi API-talous 101 -kirjan [ensimmäinen luku](https://www.apitalous101.fi/luku-varoitus).
 
-Ensin [Johdanto API-talouteen](https://www.slideshare.net/jukkahuhtamaki/johdanto-apitalouteen) ja sitten [kohti resurssikeskeistä arkkitehtuuria](https://gitpitch.com/ohsiha/2018/master?p=luento/0304#/). API-talous,
-kolmikerrosmalli,
-HTTP GET ja POST,
-istunnot(tomuus) AJAX,
-REST, HTTP ja REST,
-[RESTful-periaate](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api), SPA ja REST.
-
-Koodiklinikalla jatketaan Django-esittelyä. Toiseen teknologiademoon pääsee [tästä](https://ohsiha.github.io/2018/01/31/django-jatkoa.html).
--->
+Koodiklinikalla Jukka Huhtamäki demoamassa API-taloutta käytännössä.
 
 ## Luentoviikko 3.3 (viikko 4): Resurssikeskeinen arkkitehtuuri
 Ei ennakkotehtävää.
@@ -109,15 +100,11 @@ REST, HTTP ja REST,
 
 *Esitys [hypertekstinä](http://ohsiha.github.io/2019/luento/K3/esitys.html).*
 
+
 Koodikliniikalla asennetaan Django-ympäristö ja tutustutaan Djangoon, mikäli ehditään. Kannataa ottaa oma kone mukaan. 
 Lähdemme koodikliniikalla liikkeelle oletuksesta, että kaikilta löytyy koneeltaan selain ja editori. Mallisuorituksessa käytetään [Visual Studio Codea](https://code.visualstudio.com/)), mutta harjoitustyön on mahdollista suorittaa myös muilla editoreilla. Lisäksi windowsin käyttäjien kannattaa ladata [python](https://www.python.org/downloads/). Sen asentamisen käymme läpi koodikliniikalla. 
 
 Kurssin Slack-alusta on nyt julkaistu. Kutsulinkki on lähetetty sähköpostitse kaikille kurssin osallistujille. 
-
-<!--Ensimmäinen [teknologiademo harjoitustyöhön liittyen](https://ohsiha.github.io/2018/01/19/html-css-django-perusteet.html). HTML/CSS:n perusteet ([MDN Web Docs](https://developer.mozilla.org/fi/) ja [W3 Schools](https://www.w3schools.com/)) sekä Django-kehitysympäristön ja siihen vaadittavien komponenttien pystyttäminen sekä Djangon [dokumentaatioon](https://docs.djangoproject.com/en/2.0/) tutustuminen.
-
-Koodiklinikalla käydään [harjoitustyöohje](https://ohsiha.github.io/2018/harjoitustyo).
--->
 
 ## Luentoviikko 3.2 (viikko 3): Resurssista representaatioksi
 
