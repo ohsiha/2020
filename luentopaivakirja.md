@@ -87,11 +87,14 @@ D3.js.
 
 Esitehtävä: Lue taustaksi API-talous 101 -kirjan [ensimmäinen luku](https://www.apitalous101.fi/luku-varoitus).
 
-Aiheena: Alustatalous, API-talous, arvonluonti API-taloudessa 
+Aiheena: Alustatalous, API-talous, arvonluonti API-taloudessa
 
 *Esitys [hypertekstinä](http://ohsiha.github.io/2019/luento/K4/esitys.html).*
 
 Koodiklinikalla Jukka Huhtamäki demoamassa API-taloutta käytännössä.
+Esimerkit:
+[visittampere-API](https://github.com/ohsiha/2019-01-visittampere-API) ja
+[twitter-collector](https://github.com/ohsiha/2019-01-twitter-collector)
 
 ## Luentoviikko 3.3 (viikko 4): Resurssikeskeinen arkkitehtuuri
 Ei ennakkotehtävää.
@@ -105,17 +108,17 @@ REST, HTTP ja REST,
 *Esitys [hypertekstinä](http://ohsiha.github.io/2019/luento/K3/esitys.html).*
 
 
-Koodikliniikalla asennetaan Django-ympäristö ja tutustutaan Djangoon, mikäli ehditään. Kannataa ottaa oma kone mukaan. 
-Lähdemme koodikliniikalla liikkeelle oletuksesta, että kaikilta löytyy koneeltaan selain ja editori. Mallisuorituksessa käytetään [Visual Studio Codea](https://code.visualstudio.com/)), mutta harjoitustyön on mahdollista suorittaa myös muilla editoreilla. Lisäksi windowsin käyttäjien kannattaa ladata [python](https://www.python.org/downloads/). Sen asentamisen käymme läpi koodikliniikalla. 
+Koodikliniikalla asennetaan Django-ympäristö ja tutustutaan Djangoon, mikäli ehditään. Kannattaa ottaa oma kone mukaan.
+Lähdemme koodikliniikalla liikkeelle oletuksesta, että kaikilta löytyy koneeltaan selain ja editori. Mallisuorituksessa käytetään [Visual Studio Codea](https://code.visualstudio.com/)), mutta harjoitustyön on mahdollista suorittaa myös muilla editoreilla. Lisäksi windowsin käyttäjien kannattaa ladata [python](https://www.python.org/downloads/). Sen asentamisen käymme läpi koodikliniikalla.
 
-Kurssin Slack-alusta on nyt julkaistu. Kutsulinkki on lähetetty sähköpostitse kaikille kurssin osallistujille. 
+Kurssin Slack-alusta on nyt julkaistu. Kutsulinkki on lähetetty sähköpostitse kaikille kurssin osallistujille.
 
 ## Luentoviikko 3.2 (viikko 3): Resurssista representaatioksi
 
 Ennakkotehtävä: perehdy [Web-sovellusten arkkitehtuurivaihtoehtoihin](https://blog.octo.com/en/new-web-application-architectures-and-impacts-for-enterprises-1/).
 
 Aiheena: Web-toteutusten perusteet.
-URI-tunniste, resurssi, representaatio 
+URI-tunniste, resurssi, representaatio
 HTML, CSS ja Javascript: sisältö, esitystapa, toiminnallisuus.
 
 *"Esitys" [hypertekstinä](http://ohsiha.github.io/2019/luento/K2/esitys.html).*
@@ -124,7 +127,7 @@ Lisämateriaalia: Taustaa tarkemmin: Learn [HTML &amp; CSS](https://www.codecade
 Edistyneille: [Bootstrap](http://getbootstrap.com/).
 
 Koodikliniikalla tutustutaan HTML + CSS. Kannattaa ottaa oma kone mukaan. Koodikliniikan esimerkit: [html](http://ohsiha.github.io/2019/koodikliniikka/html+css+js/index.html) [css](http://ohsiha.github.io/2019/koodikliniikka/html+css+js/index.css)
- 
+
 
 ## Luentoviikko 3.1 (viikko 2): Käytännöt ja katsaus ohjelmallisen sisällönhallinnan nykytilaan
 
@@ -133,5 +136,5 @@ Koodikliniikalla tutustutaan HTML + CSS. Kannattaa ottaa oma kone mukaan. Koodik
 *Esitys [hypertekstinä](http://ohsiha.github.io/2019/luento/K1/esitys.html).*
 
 Aiheet: Opintojakson ja kevään toteutuskerran esittely ja suorittamisen käytännöt.
-Perjantaina koodiklinikalla tutustuttiin harjoitustyöhön. Huom! Aloitamme perjantaina klo 9.00. 
+Perjantaina koodiklinikalla tutustuttiin harjoitustyöhön. Huom! Aloitamme perjantaina klo 9.00.
 [ohjelmallisen sisällönhallinnan tila vuonna 2018](http://ohsiha.github.io/2018/01/10/ohsiha-vuonna-2018).
