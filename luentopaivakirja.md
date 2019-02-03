@@ -65,8 +65,9 @@ Koodiklinikalla Tuomas Kaittolan [React-demo](https://github.com/tuokai/ohsiha-d
 -->
 
 ## Luentoviikko 3.5 (viikko 6): Koostepalvelut ja visuaalinen analytiikka
+Ei ennakkotehtävää
 
-<--![Esitys](luento/0305/esitys.html) hypertekstinä
+<!--[Esitys](luento/0305/esitys.html) hypertekstinä
 
 Kohti hajautettua Web-hypermediaa,
 yhdistetty (julkinen) data,
