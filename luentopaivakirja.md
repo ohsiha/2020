@@ -87,7 +87,7 @@ tai
 [Dashboard-demo](https://github.com/jukkahuhtamaki/dashboard-demo)),
 Highcharts ja
 D3.js.
-->
+-->
 
 ## Luentoviikko 3.4 (viikko 5): API-talous
 
