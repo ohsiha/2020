@@ -1,4 +1,4 @@
-﻿---
+﻿---
 layout: default
 title: Luentopäiväkirja / OHSIHA 2019
 year: 2019
@@ -10,7 +10,7 @@ Alan dynaamisuudesta johtuen sisältöjä ja toteutustapaa kuitenkin kehitetää
 
 Luennot tallennetaan [Echo360](https://echo360.org.uk/section/89ccd5ff-39ab-417f-a411-77591e21f565/public)-järjestelmällä.
 
-# Luentopäiväkirja
+# Luentopäiväkirja
 
 <div id="accordion">
   <h3>Tulossa</h3>
@@ -19,7 +19,6 @@ Luennot tallennetaan [Echo360](https://echo360.org.uk/section/89ccd5ff-39ab-417f
 
 * Viikko 3.7: Mukautuvat järjestelmät - kohti JODAa
 * Viikko 3.6: Datalla ohjattu kehitystyö
-* Viikko 3.5: Koostepalvelut
 
 *Tarkempi suunnitelma tämän dokumentin kommenteissa*
 
@@ -63,26 +62,32 @@ Esimerkkejä kontekstin tunnistamisesta ja käytön seurannasta:
 [HTML5 ja uudet mahdollisuudet](http://blog.teamtreehouse.com/exploring-javascript-device-apis).
 
 Koodiklinikalla Tuomas Kaittolan [React-demo](https://github.com/tuokai/ohsiha-demo).
+-->
 
-## Luentoviikko 3.5 (viikko 6): Koostepalvelut
+## Luentoviikko 3.5 (viikko 6): Koostepalvelut ja visuaalinen analytiikka
 
-[Esitys](luento/0305/esitys.html) hypertekstinä.
+<--![Esitys](luento/0305/esitys.html) hypertekstinä
 
 Kohti hajautettua Web-hypermediaa,
 yhdistetty (julkinen) data,
-johdanto koostepalveluihin,
 käsitteistä (mashup, survos, muusaus, fuusaus),
-koostamisen tasot,
-informaation visualisointi ja koostepalvelut,
 eräs koostepalvelu ja sen toteutus.
 
-Koodiklinikalla Pandas (ks.
+-->
+
+Aiheena: johdanto koostepalveluihin, koostamisen tasot,informaation visualisointi
+
+
+Koodiklinikalla perehdytään Djangoon. 
+<!--
+Pandas (ks.
 [Datan käsittely Pythonilla](http://matriisi.ee.tut.fi/~huhtis/esitys/2014/03-edutech-python-data/#/)
 tai
 [Dashboard-demo](https://github.com/jukkahuhtamaki/dashboard-demo)),
 Highcharts ja
 D3.js.
--->
+->
+
 ## Luentoviikko 3.4 (viikko 5): API-talous
 
 Esitehtävä: Lue taustaksi API-talous 101 -kirjan [ensimmäinen luku](https://www.apitalous101.fi/luku-varoitus).
