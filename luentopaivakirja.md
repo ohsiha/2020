@@ -1,4 +1,4 @@
-﻿---
+﻿---
 layout: default
 title: Luentopäiväkirja / OHSIHA 2019
 year: 2019
@@ -10,7 +10,7 @@ Alan dynaamisuudesta johtuen sisältöjä ja toteutustapaa kuitenkin kehitetää
 
 Luennot tallennetaan [Echo360](https://echo360.org.uk/section/89ccd5ff-39ab-417f-a411-77591e21f565/public)-järjestelmällä.
 
-# Luentopäiväkirja
+# Luentopäiväkirja
 
 <div id="accordion">
   <h3>Tulossa</h3>
@@ -78,6 +78,7 @@ eräs koostepalvelu ja sen toteutus.
 
 Aiheena: johdanto koostepalveluihin, koostamisen tasot,informaation visualisointi
 
+*Esitys [hypertekstinä](http://ohsiha.github.io/2019/luento/K5/esitys.html).*
 
 Koodiklinikalla perehdytään Djangoon. 
 <!--
