@@ -274,6 +274,9 @@ Kuvauksen mukainen viesti on toimitettava Slackiin viimeistään perjantaina kel
 Palautettavan zip-paketin (ohsiha2019-opiskelijanumero.zip) tulee sisältää hakemisto nimeltä ohsiha2018-234567 (korvaa lukusarja 234567 omalla opiskelijanumerollasi), jonka sisältä löytyvät työhösi liittyvät koodi- ja asetustiedostot.
 Huomaa, että sovelluksen ei tarvitse toimia sellaisenaan. Riittää, että paketin sisältöön voi perehtyä suoraviivaisesti paketin purkamalla.
 </p>
+<p>Kurssin alussa annetuista ohjeista poiketen pisteitä ei tarvitse merkitä itse mihinkään.
+</p>
+<!--
 <p>
 Merkitse lisäksi harjoitustyön eri ominaisuuksien raportoiduista toteutuksista keräämäsi pisteet <a href="https://tuni-my.sharepoint.com/:x:/g/personal/katja_kujala_tuni_fi/EckNaAYrqEdIspI3TjSRWy8BMMZCDmLi9su81-YFV1mP-A?e=79pCf3">laskentataulukkoon.</a><strong>Merkitse pisteet ainoastaan siinä tapauksessa, että olet julkaissut kuvauksen määräaikaan mennessä.</strong>
 </p>
