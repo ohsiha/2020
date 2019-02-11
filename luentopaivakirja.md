@@ -18,7 +18,6 @@ Luennot tallennetaan [Echo360](https://echo360.org.uk/section/89ccd5ff-39ab-417f
   <div markdown="1">
 
 * Viikko 3.7: Mukautuvat järjestelmät - kohti JODAa
-* Viikko 3.6: Datalla ohjattu kehitystyö
 
 *Tarkempi suunnitelma tämän dokumentin kommenteissa*
 
@@ -44,25 +43,25 @@ hajautetut käyttäjäprofiilit,
 suosittelujärjestelmät.
 
 Koodiklinikalla hahmotellaan askelia [kohti oppivia järjestelmiä](https://ohsiha.github.io/2018/02/23/oppivat-jarjestelmat.html).
-
+-->
 ## Luentoviikko 3.6 (viikko 7): Datalla ohjattu kehitystyö
-
+<!--
 [Esitys](https://www.slideshare.net/jukkahuhtamaki/lean-startup-ja-datalla-ohjattu-kehitysty) Slidesharessa.
-
+-->
 Lean startup ja datalla ohjattu kehitystyö.
-Käytön seurannan periaatteet ja toteuttaminen (ks.
-[lyhyt esitys](https://ohsiha.github.io/2018/luento/0306/esitys.html)).
+Käytön seurannan periaatteet ja toteuttaminen <!--(ks. [lyhyt esitys](https://ohsiha.github.io/2018/luento/0306/esitys.html)).-->
 Käyttödatan kerääminen.
 Kontekstin aistiminen.
+<!--
 Esimerkkejä kontekstin tunnistamisesta ja käytön seurannasta:
 [$_SERVER](http://matriisi.ee.tut.fi/hmopetus/hm-ohj/2007/demo/jakelukonteksti/http-request-details.php),
 [request.META.HTTP_REFERER](https://still-dawn-72781.herokuapp.com/headers),
 [HTTP_REFERER missing](http://stackoverflow.com/questions/12369615/serverhttp-referer-missing),
 [yksinkertainen sijainti](https://www.w3schools.com/html/html5_geolocation.asp),
 [HTML5 ja uudet mahdollisuudet](http://blog.teamtreehouse.com/exploring-javascript-device-apis).
-
-Koodiklinikalla Tuomas Kaittolan [React-demo](https://github.com/tuokai/ohsiha-demo).
 -->
+
+Koodiklinikalla jatketaan visuaalista analytiikkaa.
 
 ## Luentoviikko 3.5 (viikko 6): Koostepalvelut ja visuaalinen analytiikka
 Ei ennakkotehtävää
