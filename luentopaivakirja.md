@@ -48,46 +48,22 @@ Koodiklinikalla hahmotellaan askelia [kohti oppivia järjestelmiä](https://ohsi
 <!--
 [Esitys](https://www.slideshare.net/jukkahuhtamaki/lean-startup-ja-datalla-ohjattu-kehitysty) Slidesharessa.
 -->
-Lean startup ja datalla ohjattu kehitystyö.
-Käytön seurannan periaatteet ja toteuttaminen <!--(ks. [lyhyt esitys](https://ohsiha.github.io/2018/luento/0306/esitys.html)).-->
-Käyttödatan kerääminen.
-Kontekstin aistiminen.
-<!--
-Esimerkkejä kontekstin tunnistamisesta ja käytön seurannasta:
-[$_SERVER](http://matriisi.ee.tut.fi/hmopetus/hm-ohj/2007/demo/jakelukonteksti/http-request-details.php),
-[request.META.HTTP_REFERER](https://still-dawn-72781.herokuapp.com/headers),
-[HTTP_REFERER missing](http://stackoverflow.com/questions/12369615/serverhttp-referer-missing),
-[yksinkertainen sijainti](https://www.w3schools.com/html/html5_geolocation.asp),
-[HTML5 ja uudet mahdollisuudet](http://blog.teamtreehouse.com/exploring-javascript-device-apis).
--->
+Ei ennakkotehtävää
+
+Aiheena: Lean startup ja datalla ohjattu kehitystyö, käytön seurannan periaatteet ja toteuttaminen, käyttödatan kerääminen.
+
+*Esitys [hypertekstinä](http://ohsiha.github.io/2019/luento/K6/esitys.html).*
 
 Koodiklinikalla jatketaan visuaalista analytiikkaa.
 
 ## Luentoviikko 3.5 (viikko 6): Koostepalvelut ja visuaalinen analytiikka
 Ei ennakkotehtävää
 
-<!--[Esitys](luento/0305/esitys.html) hypertekstinä
-
-Kohti hajautettua Web-hypermediaa,
-yhdistetty (julkinen) data,
-käsitteistä (mashup, survos, muusaus, fuusaus),
-eräs koostepalvelu ja sen toteutus.
-
--->
-
 Aiheena: johdanto koostepalveluihin, koostamisen tasot,informaation visualisointi
 
 *Esitys [hypertekstinä](http://ohsiha.github.io/2019/luento/K5/esitys.html).*
 
 Koodiklinikalla perehdytään Djangoon. 
-<!--
-Pandas (ks.
-[Datan käsittely Pythonilla](http://matriisi.ee.tut.fi/~huhtis/esitys/2014/03-edutech-python-data/#/)
-tai
-[Dashboard-demo](https://github.com/jukkahuhtamaki/dashboard-demo)),
-Highcharts ja
-D3.js.
--->
 
 ## Luentoviikko 3.4 (viikko 5): API-talous
 
