@@ -11,7 +11,7 @@ Alan dynaamisuudesta johtuen sisältöjä ja toteutustapaa kuitenkin kehitetää
 Luennot tallennetaan [Echo360](https://echo360.org.uk/section/89ccd5ff-39ab-417f-a411-77591e21f565/public)-järjestelmällä.
 
 # Luentopäiväkirja
-
+<!--
 <div id="accordion">
   <h3>Tulossa</h3>
   <!-- Oh yes, using Markdown inside HTML in Github-based Jekyll!-->
@@ -23,14 +23,16 @@ Luennot tallennetaan [Echo360](https://echo360.org.uk/section/89ccd5ff-39ab-417f
 
 </div>
 </div>
-
+-->
 <!-- Tulossa: (Päivittämättä)
 
 Ohjelmallisen sisällönhallinnan kevään toteutuskerta on päättynyt.
 [Johdanto datatieteeseen](http://jodatut.github.io/2018) jatkaa siitä mihin Ohjelmallinen sisällönhallinta jäi.
-
+-->
 ## Luentoviikko 3.8 (viikko 8): Mukautuvat järjestelmät
 
+Ei ennakkotehtävää. 
+<!--
 [Esitys](http://ohsiha.github.io/2018/luento/0308/esitys.html) hypertekstinä.
 
 Kohti mukautuvia ominaisuuksia.
@@ -45,16 +47,13 @@ suosittelujärjestelmät.
 Koodiklinikalla hahmotellaan askelia [kohti oppivia järjestelmiä](https://ohsiha.github.io/2018/02/23/oppivat-jarjestelmat.html).
 -->
 ## Luentoviikko 3.6 (viikko 7): Datalla ohjattu kehitystyö
-<!--
-[Esitys](https://www.slideshare.net/jukkahuhtamaki/lean-startup-ja-datalla-ohjattu-kehitysty) Slidesharessa.
--->
 Ei ennakkotehtävää
 
 Aiheena: Lean startup ja datalla ohjattu kehitystyö, käytön seurannan periaatteet ja toteuttaminen, käyttödatan kerääminen.
 
 *Esitys [hypertekstinä](http://ohsiha.github.io/2019/luento/K6/esitys.html).*
 
-Koodiklinikalla jatketaan visuaalista analytiikkaa.
+Koodiklinikalla puhuttiin visualisoinnista.[Toimiva demo .zip pakettina](https://ohsiha.github.io/2019/koodikliniikka/Dashboard/dashboard.zip)
 
 ## Luentoviikko 3.5 (viikko 6): Koostepalvelut ja visuaalinen analytiikka
 Ei ennakkotehtävää
@@ -63,7 +62,7 @@ Aiheena: johdanto koostepalveluihin, koostamisen tasot,informaation visualisoint
 
 *Esitys [hypertekstinä](http://ohsiha.github.io/2019/luento/K5/esitys.html).*
 
-Koodiklinikalla perehdytään Djangoon. 
+Koodiklinikalla perehdyttiin Djangoon. 
 
 ## Luentoviikko 3.4 (viikko 5): API-talous
 
@@ -73,7 +72,7 @@ Aiheena: Alustatalous, API-talous, arvonluonti API-taloudessa
 
 *Esitys [hypertekstinä](http://ohsiha.github.io/2019/luento/K4/esitys.html).*
 
-Koodiklinikalla Jukka Huhtamäki demoamassa API-taloutta käytännössä.
+Koodiklinikalla Jukka Huhtamäki demosi API-taloutta käytännössä.
 Esimerkit:
 [visittampere-API](https://github.com/ohsiha/2019-01-visittampere-API) ja
 [twitter-collector](https://github.com/ohsiha/2019-01-twitter-collector)
@@ -90,7 +89,7 @@ REST, HTTP ja REST,
 *Esitys [hypertekstinä](http://ohsiha.github.io/2019/luento/K3/esitys.html).*
 
 
-Koodikliniikalla asennetaan Django-ympäristö ja tutustutaan Djangoon, mikäli ehditään. Kannattaa ottaa oma kone mukaan.
+Koodikliniikalla asennettiin Django-ympäristö. Kannattaa ottaa oma kone mukaan.
 Lähdemme koodikliniikalla liikkeelle oletuksesta, että kaikilta löytyy koneeltaan selain ja editori. Mallisuorituksessa käytetään [Visual Studio Codea](https://code.visualstudio.com/)), mutta harjoitustyön on mahdollista suorittaa myös muilla editoreilla. Lisäksi windowsin käyttäjien kannattaa ladata [python](https://www.python.org/downloads/). Sen asentamisen käymme läpi koodikliniikalla.
 
 Kurssin Slack-alusta on nyt julkaistu. Kutsulinkki on lähetetty sähköpostitse kaikille kurssin osallistujille.
