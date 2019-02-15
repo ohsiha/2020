@@ -16,11 +16,11 @@ Luennot tallennetaan [Echo360](https://echo360.org.uk/section/89ccd5ff-39ab-417f
   <h3>Tulossa</h3>
   <!-- Oh yes, using Markdown inside HTML in Github-based Jekyll!-->
   <div markdown="1">
-
+--><!--
 * Viikko 3.7: Mukautuvat järjestelmät - kohti JODAa
 
 *Tarkempi suunnitelma tämän dokumentin kommenteissa*
-
+--><!--
 </div>
 </div>
 -->
