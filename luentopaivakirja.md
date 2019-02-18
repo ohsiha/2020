@@ -27,23 +27,21 @@ Luennot tallennetaan [Echo360](https://echo360.org.uk/section/89ccd5ff-39ab-417f
 Ohjelmallisen sisällönhallinnan kevään toteutuskerta on päättynyt.
 [Johdanto datatieteeseen](http://jodatut.github.io/2018) jatkaa siitä mihin Ohjelmallinen sisällönhallinta jäi.
 -->
-## Luentoviikko 3.8 (viikko 8): Mukautuvat järjestelmät
+## Luentoviikko 3.7 (viikko 8): Mukautuvat järjestelmät
 
 Ei ennakkotehtävää. 
-<!--
-[Esitys](http://ohsiha.github.io/2018/luento/0308/esitys.html) hypertekstinä.
+
+*Esitys [hypertekstinä](http://ohsiha.github.io/2019/luento/K7/esitys.html).*
 
 Kohti mukautuvia ominaisuuksia.
 Lähestymistapoja mukautuvuuteen (laiteriippumattomuus,
 saavutettavuus, kansainvälistäminen &amp; kotoistaminen, personointi, suosittelijajärjestelmät),
 mukautuva hypermedia,
-mitä mukautetaan?,
 käyttäjän mallintaminen,
 hajautetut käyttäjäprofiilit,
 suosittelujärjestelmät.
 
-Koodiklinikalla hahmotellaan askelia [kohti oppivia järjestelmiä](https://ohsiha.github.io/2018/02/23/oppivat-jarjestelmat.html).
--->
+Koodiklinikalla hahmotellaan askelia kohti oppivia järjestelmiä.<!--[kohti oppivia järjestelmiä](https://ohsiha.github.io/2018/02/23/oppivat-jarjestelmat.html).-->
 ## Luentoviikko 3.6 (viikko 7): Datalla ohjattu kehitystyö
 Ei ennakkotehtävää
 
