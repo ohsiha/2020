@@ -41,7 +41,8 @@ käyttäjän mallintaminen,
 hajautetut käyttäjäprofiilit,
 suosittelujärjestelmät.
 
-Koodiklinikalla hahmotellaan askelia [kohti oppivia järjestelmiä](https://ohsiha.github.io/2019/02/22/oppivat-jarjestelmat.html).
+Koodiklinikalla hahmotellaan askelia [kohti oppivia järjestelmiä](https://ohsiha.github.io/2019/02/22/oppivat-jarjestelmat.html). Echon kanssa törmättiin teknisiin ongelmiin kesken tallennuksen, joten tallennetta ei valitettavasti julkaista.
+
 ## Luentoviikko 3.6 (viikko 7): Datalla ohjattu kehitystyö
 Ei ennakkotehtävää
 
