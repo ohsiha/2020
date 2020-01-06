@@ -1,35 +1,42 @@
 ﻿---
 layout: default
-title: Luentopäiväkirja / OHSIHA 2019
-year: 2019
+title: Luentopäiväkirja / OHSIHA 2020
+year: 2020
 ---
 
-Tämä on Ohjelmallisen sisällönhallinnan kevään 2019 toteutuskerran luentopäiväkirja.
-Toteutus noudattelee [vuoden 2018 toteutuskertaa](https://ohsiha.github.io/2018/luentopaivakirja).
+Tämä on Ohjelmallisen sisällönhallinnan kevään 2020 toteutuskerran luentopäiväkirja.
+Toteutus noudattelee [vuoden 2019 toteutuskertaa](https://ohsiha.github.io/2019/luentopaivakirja).
 Alan dynaamisuudesta johtuen sisältöjä ja toteutustapaa kuitenkin kehitetään jatkuvasti.
 
-Luennot tallennetaan [Echo360](https://echo360.org.uk/section/89ccd5ff-39ab-417f-a411-77591e21f565/public)-järjestelmällä.
+Hyödynnämme [Echo360-järjestelmään tallennettuja luentoja](https://echo360.org.uk/section/89ccd5ff-39ab-417f-a411-77591e21f565/public) keväältä 2019. Mahdolliset uudet luentotallenteet julkaistaan Tampereen yliopiston Pantoptossa.
+
 
 # Luentopäiväkirja
-<!--
 <div id="accordion">
   <h3>Tulossa</h3>
-  <!-- Oh yes, using Markdown inside HTML in Github-based Jekyll!
+  <!-- Oh yes, using Markdown inside HTML in Github-based Jekyll! -->
   <div markdown="1">
-* Viikko 3.7: Mukautuvat järjestelmät - kohti JODAa
+* Luentoviikko 7 (viikko 8): Mukautuvat järjestelmät - kohti JODAa
+* Luentoviikko 6 (viikko 7): Datalla ohjattu kehitystyö
+* Luentoviikko 5 (viikko 6): Koostepalvelut ja visuaalinen analytiikka
+* Luentoviikko 4 (viikko 5): API-talous
+* Luentoviikko 3 (viikko 4): Resurssikeskeinen arkkitehtuuri
+* Luentoviikko 2 (viikko 3): Resurssista representaatioksi
 
 *Tarkempi suunnitelma tämän dokumentin kommenteissa*
 </div>
 </div>
+<!--
 -->
 <!-- Tulossa: (Päivittämättä)
 
 Ohjelmallisen sisällönhallinnan kevään toteutuskerta on päättynyt.
 [Johdanto datatieteeseen](http://jodatut.github.io/2018) jatkaa siitä mihin Ohjelmallinen sisällönhallinta jäi.
 -->
+<!--
 ## Luentoviikko 3.7 (viikko 8): Mukautuvat järjestelmät
 
-Ei ennakkotehtävää. 
+Ei ennakkotehtävää.
 
 *Esitys [hypertekstinä](http://ohsiha.github.io/2019/luento/K7/esitys.html).*
 
@@ -59,7 +66,7 @@ Aiheena: johdanto koostepalveluihin, koostamisen tasot,informaation visualisoint
 
 *Esitys [hypertekstinä](http://ohsiha.github.io/2019/luento/K5/esitys.html).*
 
-Koodiklinikalla perehdyttiin Djangoon. 
+Koodiklinikalla perehdyttiin Djangoon.
 
 ## Luentoviikko 3.4 (viikko 5): API-talous
 
@@ -106,13 +113,15 @@ Edistyneille: [Bootstrap](http://getbootstrap.com/).
 
 Koodikliniikalla tutustutaan HTML + CSS. Kannattaa ottaa oma kone mukaan. Koodikliniikan esimerkit: [html](http://ohsiha.github.io/2019/koodikliniikka/html+css+js/index.html) [css](http://ohsiha.github.io/2019/koodikliniikka/html+css+js/index.css)
 
+-->
 
 ## Luentoviikko 3.1 (viikko 2): Käytännöt ja katsaus ohjelmallisen sisällönhallinnan nykytilaan
 
-*Toteutuskerran avausluento järjestettiin tiistaina 8. tammikuuta 2019 kello 10.15 salissa SJ204*.
+*Toteutuskerran avausluento toteutetaan verkkoluentona.
 
-*Esitys [hypertekstinä](http://ohsiha.github.io/2019/luento/K1/esitys.html).*
+*Esitys [hypertekstinä](http://ohsiha.github.io/2020/luento/K1/esitys.html).*
 
 Aiheet: Opintojakson ja kevään toteutuskerran esittely ja suorittamisen käytännöt.
-Perjantaina koodiklinikalla tutustuttiin harjoitustyöhön. Huom! Aloitamme perjantaina klo 9.00.
-[ohjelmallisen sisällönhallinnan tila vuonna 2018](http://ohsiha.github.io/2018/01/10/ohsiha-vuonna-2018).
+Perjantaina koodiklinikalla tutustutaan harjoitustyöhön.
+<!-- Huom! Aloitamme perjantaina klo 9.00.-->
+<!-- [ohjelmallisen sisällönhallinnan tila vuonna 2018](http://ohsiha.github.io/2018/01/10/ohsiha-vuonna-2018).
