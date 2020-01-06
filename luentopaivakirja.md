@@ -115,13 +115,14 @@ Koodikliniikalla tutustutaan HTML + CSS. Kannattaa ottaa oma kone mukaan. Koodik
 
 -->
 
-## Luentoviikko 3.1 (viikko 2): Käytännöt ja katsaus ohjelmallisen sisällönhallinnan nykytilaan
+## Luentoviikko 1 (viikko 2): Käytännöt ja katsaus ohjelmallisen sisällönhallinnan nykytilaan
 
-*Toteutuskerran avausluento toteutetaan verkkoluentona.
+*Toteutuskerran avausluento toteutetaan verkkoluentona.*
 
 *Esitys [hypertekstinä](http://ohsiha.github.io/2020/luento/K1/esitys.html).*
 
 Aiheet: Opintojakson ja kevään toteutuskerran esittely ja suorittamisen käytännöt.
 Perjantaina koodiklinikalla tutustutaan harjoitustyöhön.
 <!-- Huom! Aloitamme perjantaina klo 9.00.-->
-<!-- [ohjelmallisen sisällönhallinnan tila vuonna 2018](http://ohsiha.github.io/2018/01/10/ohsiha-vuonna-2018).
+
+<!-- [ohjelmallisen sisällönhallinnan tila vuonna 2018](http://ohsiha.github.io/2018/01/10/ohsiha-vuonna-2018). -->
