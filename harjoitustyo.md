@@ -1,12 +1,13 @@
 ﻿---
 layout: default
-title: Harjoitustyöohje / OHSIHA 2019
-year: 2019
+title: Harjoitustyöohje / OHSIHA 2020
+year: 2020
 ---
 
-<p><strong>Status:</strong> Ohjeen päivittäminen vuodelle 2019 on vielä hieman kesken, mutta perusajatus ei tule muuttumaan.</p>
+<p><strong>Status:</strong> Ohjeen päivittäminen vuodelle 2020 on vielä hieman kesken, mutta perusajatus ei tule muuttumaan.</p>
 
-<p><strong>Ilmoita epäjohdonmukaisuuksista <a href="mailto:katja.kujala@tuni.fi">Katjalle</a>.
+<p><strong>Ilmoita epäjohdonmukaisuuksista
+  <a href="https://ohsiha.slack.com/archives/C8Q40NY69">Slackin #general-kanavalla</a> tai suoraan <a href="mailto:jukka.huhtamaki@tuni.fi">Jukalle</a>.
 </strong></p>
 
 <p>Harjoitustyö on pakollinen osa Ohjelmallisen sisällönhallinnan
@@ -15,14 +16,18 @@ Näin siksi, että sisällön käsittelyn automatisoinnin ja verkkopalveluiden t
 <p>Harjoitustyön lopputuloksena syntyy koodiportfolio, joka kokoaa yhteen harjoitustyöhön toteutetut toiminnot ja niiden tiiviin dokumentaation.
 
 </p>
-<p>Keväällä 2019 voit käyttää harjoitustyön tekemiseen seuraavia vaihtoehtoisia teknologioita:</p>
+<p>Keväällä 2020 voit käyttää harjoitustyön tekemiseen seuraavia vaihtoehtoisia teknologioita:</p>
+
 <ul>
-<li><a href="http://www.djangoproject.com/" target="_blank">Django</a>, <a href="http://flask.pocoo.org/" target="_blank">Flask</a>, <a href="http://www.pylonsproject.org/" target="_blank">Pylons</a> (<a href="http://turbogears.org/" target="_blank">TurboGears</a>, <a href="https://trypyramid.com/" target="_blank">Pyramid (vanha BFG)</a>) tai muu valitsemasi Python-kehys </li>
+
+  <li><a href="http://www.djangoproject.com/" target="_blank">Django</a>, 
+  <a href="http://flask.pocoo.org/" target="_blank">Flask</a>, <a href="http://www.pylonsproject.org/" target="_blank">Pylons</a> (<a href="http://turbogears.org/" target="_blank">TurboGears</a>, <a href="https://trypyramid.com/" target="_blank">Pyramid (vanha BFG)</a>) tai muu valitsemasi Python-kehys </li>
 <li><a href="http://rubyonrails.org/" target="_blank">Ruby on Rails</a></li>
 <li><a href="http://nodejs.org/" target="_blank">Node.js</a> (+ esim. <a href="http://backbonejs.org/" target="_blank">Backbone.js</a>)</li>
-<li>PHP (ja halutessasi <a href="http://codeigniter.com/" target="_blank">CodeIgniter</a>, <a href="http://laravel.com/" target="_blank">Lavarel</a> tai muu valitsemasi PHP-sovelluskehys)</li> 
+<li>PHP (ja halutessasi <a href="http://codeigniter.com/" target="_blank">CodeIgniter</a>, <a href="http://laravel.com/" target="_blank">Lavarel</a> tai muu valitsemasi PHP-sovelluskehys)</li>
 <li>.Net</li>
 </ul>
+
 <p>
 	Mikäli olet aloitteleva Web-kehittäjä, suosittelemme Django-kehystä.
 	Jos taas olet suorittanut Web-ohjelmoinnin tai olet muuten jo ehtinyt kerryttämään devausosaamistasi, kannustamme valitsemaan itsellesi uuden teknologian.
@@ -46,7 +51,7 @@ Näin siksi, että sisällön käsittelyn automatisoinnin ja verkkopalveluiden t
 
 ## Minimivaatimukset
 
-Keväällä 2019 harjoitustöissä painotetaan datakeskeisten palvelujen kehittämistä. Ota lähtökohdaksi jokin olemassa oleva data, ota se käyttöön omassa palvelussasi ja rakenna dataa edelleen jalostava toiminnallisuus. Esimerkkejä datan lähteistä ovat avoimen datan kokoelmat
+Keväällä 2020 harjoitustöissä painotetaan datakeskeisten palvelujen kehittämistä. Ota lähtökohdaksi jokin olemassa oleva data, ota se käyttöön omassa palvelussasi ja rakenna dataa edelleen jalostava toiminnallisuus. Esimerkkejä datan lähteistä ovat avoimen datan kokoelmat
 [Tampereella](https://data.tampere.fi/fi/) ja
 [Helsingissä](http://www.hri.fi/fi/),
 [Spotify](https://developer.spotify.com/web-api/),
@@ -104,8 +109,8 @@ Opiskelija saa valita harjoitustyönsä aiheen vapaasti, luonnollisesti hyvän m
   Inspiraatiota voit kerätä vaikkapa tutustumalla Demolassa tarjolla oleviin
   <a href="https://tampere.demola.net/projects" target="_blank">projektiaiheisiin</a> tai programmableweb.com-sivuston <a href="http://www.programmableweb.com/mashups" target="_blank">koostepalveluesimerkkeihin</a>.
 </p>
-<p> 
-  Kurssin harjoitustyö on myös mahdollista suorittaa myös SCIL-projektina. SCIL-projektissa ideoidaan ja kehitetään sovelluksia, jotka hyödyntävät   Tampereen korkeakouluyhteisön avoimen datan palvelua. Katso lisätietoja <a href="http://scil.tampere3.fi/projects/avoin-data/">tehtävänannosta</a>. 
+<p>
+  Kurssin harjoitustyö on myös mahdollista suorittaa myös SCIL-projektina. SCIL-projektissa ideoidaan ja kehitetään sovelluksia, jotka hyödyntävät   Tampereen korkeakouluyhteisön avoimen datan palvelua. Katso lisätietoja <a href="http://scil.tampere3.fi/projects/avoin-data/">tehtävänannosta</a>.
 </p>.
 
 ## Harjoitustyöpisteet ja arvosana
@@ -268,10 +273,10 @@ Kuvauksen mukainen viesti on toimitettava Slackiin viimeistään perjantaina kel
   <p>Harjoitustyöni aihe: Verkkopalvelu raitiovaunubongareille</p>
   <p>Harjoitustyö löytyy kokonaisuudessaan oheisesta zip-paketista (ohsiha2018-234567.zip).</p>
 
-<p>Korvaan tenttisuorituksen luentopäiväkirjalla. Osoite luentopäiväkirjaani: <a href="http://blog.fi/jamesstation/ohsiha2019">http://blog.fi/jamesstation/ohsiha2019</a></p>
+<p>Korvaan tenttisuorituksen luentopäiväkirjalla. Osoite luentopäiväkirjaani: <a href="http://blog.fi/jamesstation/ohsiha2020">http://blog.fi/jamesstation/ohsiha2020</a></p>
 </blockquote>
 <p>
-Palautettavan zip-paketin (ohsiha2019-opiskelijanumero.zip) tulee sisältää hakemisto nimeltä ohsiha2018-234567 (korvaa lukusarja 234567 omalla opiskelijanumerollasi), jonka sisältä löytyvät työhösi liittyvät koodi- ja asetustiedostot.
+Palautettavan zip-paketin (ohsiha2020-opiskelijanumero.zip) tulee sisältää hakemisto nimeltä ohsiha2018-234567 (korvaa lukusarja 234567 omalla opiskelijanumerollasi), jonka sisältä löytyvät työhösi liittyvät koodi- ja asetustiedostot.
 Huomaa, että sovelluksen ei tarvitse toimia sellaisenaan. Riittää, että paketin sisältöön voi perehtyä suoraviivaisesti paketin purkamalla.
 </p>
 <p>Kurssin alussa annetuista ohjeista poiketen pisteitä ei tarvitse merkitä itse mihinkään.
