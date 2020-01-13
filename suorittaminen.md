@@ -22,7 +22,7 @@ Avausluennolla esitetty ohjeistus pätee oppimispäiväkirjalla suorittamiseen:
 1. Kirjaa lisäksi ylös viisi oivallusta tai tärkeintä oppimaasi asiaa.
 1. Listaa vielä yhdestä kolmeen kehityskohdetta luentoviikolle.
 
-Oppimiskirja karttuu noin yhdellä A4-sivulla viikossa.
+Oppimispäiväkirja karttuu noin yhdellä A4-sivulla viikossa.
 
 Ilmoita Jukalle mikäli olet kiinnostunut oppimispäiväkirjalla suorittamisesta (otsikoi sähköposti: #ohsiha Oppimispäiväkirja).
 Perusta oppimispäiväkirjaa varten verkkoon dokumentti, jota päivität kevään mittaan luentojen edetessä.
