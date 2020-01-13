@@ -98,7 +98,9 @@ Lähdemme koodikliniikalla liikkeelle oletuksesta, että kaikilta löytyy koneel
 
 Kurssin Slack-alusta on nyt julkaistu. Kutsulinkki on lähetetty sähköpostitse kaikille kurssin osallistujille.
 
-## Luentoviikko 3.2 (viikko 3): Resurssista representaatioksi
+-->
+
+## Luentoviikko 2 (viikko 3): Resurssista representaatioksi
 
 Ennakkotehtävä: perehdy [Web-sovellusten arkkitehtuurivaihtoehtoihin](https://blog.octo.com/en/new-web-application-architectures-and-impacts-for-enterprises-1/).
 
@@ -111,9 +113,7 @@ HTML, CSS ja Javascript: sisältö, esitystapa, toiminnallisuus.
 Lisämateriaalia: Taustaa tarkemmin: Learn [HTML &amp; CSS](https://www.codecademy.com/learn/web), [Javascript](https://www.codecademy.com/learn/javascript).
 Edistyneille: [Bootstrap](http://getbootstrap.com/).
 
-Koodikliniikalla tutustutaan HTML + CSS. Kannattaa ottaa oma kone mukaan. Koodikliniikan esimerkit: [html](http://ohsiha.github.io/2019/koodikliniikka/html+css+js/index.html) [css](http://ohsiha.github.io/2019/koodikliniikka/html+css+js/index.css)
-
--->
+Koodikliniikalla tutustutaan HTML + CSS -yhdistelmään. Koodikliniikan esimerkit: [html](http://ohsiha.github.io/2020/koodikliniikka/html+css+js/index.html) [css](http://ohsiha.github.io/2020/koodikliniikka/html+css+js/index.css)
 
 ## Luentoviikko 1 (viikko 2): Käytännöt ja katsaus ohjelmallisen sisällönhallinnan nykytilaan
 
