@@ -113,7 +113,10 @@ HTML, CSS ja Javascript: sisältö, esitystapa, toiminnallisuus.
 Lisämateriaalia: Taustaa tarkemmin: Learn [HTML &amp; CSS](https://www.codecademy.com/learn/web), [Javascript](https://www.codecademy.com/learn/javascript).
 Edistyneille: [Bootstrap](http://getbootstrap.com/).
 
-Koodikliniikalla tutustutaan HTML + CSS -yhdistelmään. Koodikliniikan esimerkit: [html](http://ohsiha.github.io/2020/koodikliniikka/html+css+js/index.html) [css](http://ohsiha.github.io/2020/koodikliniikka/html+css+js/index.css)
+Koodikliniikalla tutustutaan HTML + CSS -yhdistelmään.
+Koodikliniikan esimerkit:
+[html](http://ohsiha.github.io/2020/koodikliniikka/html+css+js/index.html),
+[css](http://ohsiha.github.io/2020/koodikliniikka/html+css+js/index.css).
 
 ## Luentoviikko 1 (viikko 2): Käytännöt ja katsaus ohjelmallisen sisällönhallinnan nykytilaan
 
@@ -123,6 +126,6 @@ Koodikliniikalla tutustutaan HTML + CSS -yhdistelmään. Koodikliniikan esimerki
 
 Aiheet: Opintojakson ja kevään toteutuskerran esittely ja suorittamisen käytännöt.
 Perjantaina koodiklinikalla tutustutaan harjoitustyöhön.
-<!-- Huom! Aloitamme perjantaina klo 9.00.-->
 
+<!-- Huom! Aloitamme perjantaina klo 9.00.-->
 <!-- [ohjelmallisen sisällönhallinnan tila vuonna 2018](http://ohsiha.github.io/2018/01/10/ohsiha-vuonna-2018). -->
