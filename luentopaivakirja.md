@@ -21,7 +21,7 @@ Hyödynnämme [Echo360-järjestelmään tallennettuja luentoja](https://echo360.
 * Luentoviikko 5 (viikko 6): Koostepalvelut ja visuaalinen analytiikka
 * Luentoviikko 4 (viikko 5): API-talous
 * Luentoviikko 3 (viikko 4): Resurssikeskeinen arkkitehtuuri
-* Luentoviikko 2 (viikko 3): Resurssista representaatioksi
+<!-- * Luentoviikko 2 (viikko 3): Resurssista representaatioksi -->
 
 *Tarkempi suunnitelma tämän dokumentin kommenteissa*
 </div>
@@ -110,7 +110,10 @@ HTML, CSS ja Javascript: sisältö, esitystapa, toiminnallisuus.
 
 *"Esitys" [hypertekstinä](http://ohsiha.github.io/2019/luento/K2/esitys.html).*
 
-Lisämateriaalia: Taustaa tarkemmin: Learn [HTML &amp; CSS](https://www.codecademy.com/learn/web), [Javascript](https://www.codecademy.com/learn/javascript).
+Lisämateriaalia: Taustaa tarkemmin:
+[Learn HTML](https://www.codecademy.com/learn/learn-html),
+[Learn CSS](https://www.codecademy.com/learn/learn-css) &amp;
+[Introduction to Javascript](https://www.codecademy.com/learn/javascript).
 Edistyneille: [Bootstrap](http://getbootstrap.com/).
 
 Koodikliniikalla tutustutaan HTML + CSS -yhdistelmään.
