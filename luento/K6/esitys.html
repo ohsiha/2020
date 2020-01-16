@@ -5,7 +5,7 @@
       <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fi" lang="fi">
          <head>
           <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-          <title>TLO-32400 Ohjelmallinen sisällönhallinta :: Luentoviikko 3.5</title>
+          <title>TLO-32400 Ohjelmallinen sisällönhallinta :: Luentoviikko 6</title>
           <meta name="copyright" content="Esitys Katja Kujala Jukka Huhtamäen materiaalien pohjalta. Käytössä HTML Slidy." />
           <meta name="font-size-adjustment" content="1" />
           <link rel="stylesheet" type="text/css" media="print" href="../Slidy/print.css" />
@@ -45,7 +45,7 @@
 <div class="slide">
 <h1>Datalla ohjattu kehitystyö</h1>
 <p>
-  12.2.2019
+  11.2.2020
 </p>
 </div>
 
@@ -89,23 +89,23 @@
     on toki hallitumpi.</p>
 </div>
 
-<div class="slide">	
+<div class="slide">
 	<h1>Kohti web-analytiikkaa</h1>
 		<p>Esimerkkiksi <a href="https://www.aamulehti.fi/" target="_blanck">Aamulehti</a> hyödyntää analytiikkaa</p>
 		<p>Millaisia keinoja datan keräämiseen on?</p>
 </div>
 
-<div class="slide">	
+<div class="slide">
 	<h1>Dataa keräämässä 1/3</h1>
     <p class="subhead">Javascript</p>
     <p>Aikaisemmin olemme tutustuneet sivun tietojen tarkasteluun document-olennon kautta</p>
 	<p>Vilkaistaan nyt navigator- ja windows-olentoja</p>
 	<p>Toiminnallisuutta rajoittamassa saman lähteen politiikka</p>
-	<p><a href="https://blog.teamtreehouse.com/exploring-javascript-device-apis" target="_blanck">Lisämateriaalia</a></p>	
-	
+	<p><a href="https://blog.teamtreehouse.com/exploring-javascript-device-apis" target="_blanck">Lisämateriaalia</a></p>
+
 </div>
 
-<div class="slide">	
+<div class="slide">
 	<h1>Dataa keräämässä 2/3</h1>
     <p class="subhead">HTTP Referer</p>
     <p>Molempia kirjoitusasuja referer ja referrer käytetään</p>
@@ -113,20 +113,20 @@
 	<p>Refereriä ei lähetetä mikäli se viittaisi paikalliseen tiedostoon tai pyyntö käyttää HTTP:tä edellisen sivun ollessa HTTPS:n alaisuudessa</p>
 </div>
 
-<div class="slide">	
+<div class="slide">
 	<h1>Dataa keräämässä 3/3</h1>
     <p class="subhead">Google Analytics</p>
     <img src="GA.png">
 </div>
 
-<div class="slide">	
+<div class="slide">
 	<h1>Dataa keräämässä 3/3</h1>
     <p class="subhead">Google Analytics</p>
     <p>Pureudutaan seuraavaksi Google Analytics -palvelun toimintaan:</p>
     <ol>
         <li>Tunnuksen tekeminen.</li>
         <li>Uuden seurantakohteen perustaminen.</li>
-        <li>Seurtakoodin sisältävä <a href="https://support.google.com/analytics/answer/1008080" target="_blanck"> js:n</a> lisääminen seurattavan sivun html:ään</li>
+        <li>Seurantakoodin sisältävä <a href="https://support.google.com/analytics/answer/1008080" target="_blanck"> js:n</a> lisääminen seurattavan sivun html:ään</li>
         <li>Käytön analysointi: näkymät, aikajana ja muut yksityiskohdat.</li>
     </ol>
 	<p>Toki myös muita 3. osapuolen palveluita on olemassa, kuten aamulehden kohdalla huomasimme</p>
@@ -150,7 +150,7 @@
   <p>
     Verkkopalveluiden (mukaan lukien sosiaalisen median) käytön analytiikan tuella pyritään
     vastaamaan neljään keskeiseen kysymykseen (Croll &amp; Sean, 2009;
-    <a href="http://docplayer.fi/1879235-Teemo-tebest-verkkopalvelun-kayton-seuranta-ja-seurantatiedon-visualisointi-diplomityo.html" target="_blanck">Tebest, 2010</a>):</p>
+    <a href="https://docplayer.fi/1879235-Teemo-tebest-verkkopalvelun-kayton-seuranta-ja-seurantatiedon-visualisointi-diplomityo.html" target="_blanck">Tebest, 2010</a>):</p>
     <ol>
         <li>Mitä käyttäjät tekevät verkkopalvelussa?</li>
         <li>Miten käyttäjät toimivat verkkopalvelussa?</li>
@@ -159,7 +159,7 @@
     </ul>
 </div>
 
-<div class="slide">	
+<div class="slide">
 	<h1>Analytiikan tasot web-analytiikassa</h1>
 	<p>Litotihasta tutut analytiikan tasot: kuvaileva analytiikka, diagnosoiva analytiikka, ennakoiva analytiikka ja ohjaileva analytiikka</p>
 	<ol class="incremental">
@@ -171,17 +171,17 @@
 
 <div class="slide">
 	<h1>Suppiloanalyysi</h1>
-	<img src="Actions.png">	
+	<img src="Actions.png">
 </div>
 
 <div class="slide">
 	<h1>Suppiloanalytiikka</h1>
-	<img src="Avainmittarit.png">	
+	<img src="Avainmittarit.png">
 </div>
 
 <div class="slide">
 	<h1>Suppiloanalytiikka</h1>
-	<img src="Avainmittarit2.png">	
+	<img src="Avainmittarit2.png">
 	<p>(Maurya 2010)</p>
 </div>
 
@@ -198,7 +198,7 @@
 	<p>Toteutus käytännössä: koodaten tai <a href="https://tagmanager.google.com/" target="_blanck">Google Tag Managerilla </a><a href="https://www.simoahava.com/analytics/simple-split-test-google-tag-manager/" target="_blanck">(Simo Ahavan blogi)</a></p>
   </div>
 
-<div class="slide">	
+<div class="slide">
   <h1>Lean Startupin periaatteet</h1>
     <ul>
 		<li>Yrittäjiä on kaikkialla</li>
@@ -210,7 +210,7 @@
 	<p>(Riesen 2008)</p>
 </div>
 
-<div class="slide">	
+<div class="slide">
   <h1>Rakenna-Mittaa-Opi</h1>
     <img src="Lean.png">
 </div>
