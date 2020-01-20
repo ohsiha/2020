@@ -20,8 +20,10 @@ Hyödynnämme [Echo360-järjestelmään tallennettuja luentoja](https://echo360.
 * Luentoviikko 6 (viikko 7): Datalla ohjattu kehitystyö
 * Luentoviikko 5 (viikko 6): Koostepalvelut ja visuaalinen analytiikka
 * Luentoviikko 4 (viikko 5): API-talous
+<!--
 * Luentoviikko 3 (viikko 4): Resurssikeskeinen arkkitehtuuri
-<!-- * Luentoviikko 2 (viikko 3): Resurssista representaatioksi -->
+* Luentoviikko 2 (viikko 3): Resurssista representaatioksi
+-->
 
 *Tarkempi suunnitelma tämän dokumentin kommenteissa*
 </div>
@@ -81,7 +83,9 @@ Esimerkit:
 [visittampere-API](https://github.com/ohsiha/2019-01-visittampere-API) ja
 [twitter-collector](https://github.com/ohsiha/2019-01-twitter-collector)
 
-## Luentoviikko 3.3 (viikko 4): Resurssikeskeinen arkkitehtuuri
+-->
+
+## Luentoviikko 3 (viikko 4): Resurssikeskeinen arkkitehtuuri
 Ei ennakkotehtävää.
 
 Aiheena: kolmikerrosmalli,
@@ -90,15 +94,12 @@ istunnot(tomuus) AJAX,
 REST, HTTP ja REST,
 [RESTful-periaate](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api), SPA ja REST.
 
-*Esitys [hypertekstinä](http://ohsiha.github.io/2019/luento/K3/esitys.html).*
+*Esitys [hypertekstinä](http://ohsiha.github.io/2020/luento/K3/esitys.html).*
 
 
-Koodikliniikalla asennettiin Django-ympäristö. Kannattaa ottaa oma kone mukaan.
-Lähdemme koodikliniikalla liikkeelle oletuksesta, että kaikilta löytyy koneeltaan selain ja editori. Mallisuorituksessa käytetään [Visual Studio Codea](https://code.visualstudio.com/)), mutta harjoitustyön on mahdollista suorittaa myös muilla editoreilla. Lisäksi windowsin käyttäjien kannattaa ladata [python](https://www.python.org/downloads/). Sen asentamisen käymme läpi koodikliniikalla.
-
-Kurssin Slack-alusta on nyt julkaistu. Kutsulinkki on lähetetty sähköpostitse kaikille kurssin osallistujille.
-
--->
+Koodikliniikalla asennetaan Django-ympäristö.
+<!-- Kannattaa ottaa oma kone mukaan.-->
+Koodiklinikka lähtee liikkeelle oletuksesta, että kaikilta löytyy koneelta selain ja editori. Mallisuorituksessa käytetään [Visual Studio Codea](https://code.visualstudio.com/)), mutta harjoitustyön on mahdollista suorittaa myös muilla editoreilla. Lisäksi Windows-käyttäjien kannattaa ladata [python](https://www.python.org/downloads/). Sen asentamisen käymme läpi koodikliniikalla.
 
 ## Luentoviikko 2 (viikko 3): Resurssista representaatioksi
 
