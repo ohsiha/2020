@@ -99,7 +99,8 @@ REST, HTTP ja REST,
 
 Koodikliniikalla asennetaan Django-ympäristö.
 <!-- Kannattaa ottaa oma kone mukaan.-->
-Koodiklinikka lähtee liikkeelle oletuksesta, että kaikilta löytyy koneelta selain ja editori. Mallisuorituksessa käytetään [Visual Studio Codea](https://code.visualstudio.com/)), mutta harjoitustyön on mahdollista suorittaa myös muilla editoreilla. Lisäksi Windows-käyttäjien kannattaa ladata [python](https://www.python.org/downloads/). Sen asentamisen käymme läpi koodikliniikalla.
+Koodiklinikka lähtee liikkeelle oletuksesta, että kaikilta löytyy koneelta selain ja editori. Mallisuorituksessa käytetään [Visual Studio Codea](https://code.visualstudio.com/), mutta harjoitustyö on mahdollista suorittaa myös muilla editoreilla.
+<!-- Lisäksi Windows-käyttäjien kannattaa ladata [python](https://www.python.org/downloads/). Sen asentamisen käymme läpi koodikliniikalla.-->
 
 ## Luentoviikko 2 (viikko 3): Resurssista representaatioksi
 
