@@ -80,7 +80,7 @@ Aiheena: Alustatalous, API-talous, arvonluonti API-taloudessa
 
 *Esitys [hypertekstinä](http://ohsiha.github.io/2020/luento/K4/esitys.html).*
 
-Koodiklinikalla Jukka Huhtamäki demosi API-taloutta käytännössä.
+Koodiklinikalla Jukka Huhtamäki demoaa API-taloutta käytännössä.
 
 Esimerkit:
 [visittampere-API](https://github.com/ohsiha/2019-01-visittampere-API) ja
