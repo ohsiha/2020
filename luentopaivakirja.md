@@ -19,8 +19,8 @@ Hyödynnämme [Echo360-järjestelmään tallennettuja luentoja](https://echo360.
 * Luentoviikko 7 (viikko 8): Mukautuvat järjestelmät - kohti JODAa
 * Luentoviikko 6 (viikko 7): Datalla ohjattu kehitystyö
 * Luentoviikko 5 (viikko 6): Koostepalvelut ja visuaalinen analytiikka
-* Luentoviikko 4 (viikko 5): API-talous
 <!--
+* Luentoviikko 4 (viikko 5): API-talous
 * Luentoviikko 3 (viikko 4): Resurssikeskeinen arkkitehtuuri
 * Luentoviikko 2 (viikko 3): Resurssista representaatioksi
 -->
