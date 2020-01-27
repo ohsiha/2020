@@ -70,20 +70,21 @@ Aiheena: johdanto koostepalveluihin, koostamisen tasot,informaation visualisoint
 
 Koodiklinikalla perehdyttiin Djangoon.
 
-## Luentoviikko 3.4 (viikko 5): API-talous
+-->
+
+## Luentoviikko 4 (viikko 5): API-talous
 
 Esitehtävä: Lue taustaksi API-talous 101 -kirjan [ensimmäinen luku](https://www.apitalous101.fi/luku-varoitus).
 
 Aiheena: Alustatalous, API-talous, arvonluonti API-taloudessa
 
-*Esitys [hypertekstinä](http://ohsiha.github.io/2019/luento/K4/esitys.html).*
+*Esitys [hypertekstinä](http://ohsiha.github.io/2020/luento/K4/esitys.html).*
 
 Koodiklinikalla Jukka Huhtamäki demosi API-taloutta käytännössä.
-Esimerkit:
-[visittampere-API](https://github.com/ohsiha/2019-01-visittampere-API) ja
-[twitter-collector](https://github.com/ohsiha/2019-01-twitter-collector)
 
--->
+Esimerkit:
+[visittampere-API](https://github.com/ohsiha/2020-01-visittampere-API) ja
+[twitter-collector](https://github.com/ohsiha/2020-01-twitter-collector)
 
 ## Luentoviikko 3 (viikko 4): Resurssikeskeinen arkkitehtuuri
 Ei ennakkotehtävää.
@@ -95,7 +96,6 @@ REST, HTTP ja REST,
 [RESTful-periaate](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api), SPA ja REST.
 
 *Esitys [hypertekstinä](http://ohsiha.github.io/2020/luento/K3/esitys.html).*
-
 
 Koodikliniikalla asennetaan Django-ympäristö.
 <!-- Kannattaa ottaa oma kone mukaan.-->
