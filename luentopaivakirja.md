@@ -83,8 +83,8 @@ Aiheena: Alustatalous, API-talous, arvonluonti API-taloudessa
 Koodiklinikalla Jukka Huhtamäki demosi API-taloutta käytännössä.
 
 Esimerkit:
-[visittampere-API](https://github.com/ohsiha/2020-01-visittampere-API) ja
-[twitter-collector](https://github.com/ohsiha/2020-01-twitter-collector)
+[visittampere-API](https://github.com/ohsiha/2019-01-visittampere-API) ja
+[twitter-collector](https://github.com/ohsiha/2019-01-twitter-collector)
 
 ## Luentoviikko 3 (viikko 4): Resurssikeskeinen arkkitehtuuri
 Ei ennakkotehtävää.
