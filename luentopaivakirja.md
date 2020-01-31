@@ -39,11 +39,11 @@ Ohjelmallisen sisällönhallinnan kevään toteutuskerta on päättynyt.
 [Johdanto datatieteeseen](http://jodatut.github.io/2018) jatkaa siitä mihin Ohjelmallinen sisällönhallinta jäi.
 -->
 <!--
-## Luentoviikko 3.7 (viikko 8): Mukautuvat järjestelmät
+## Luentoviikko 7 (viikko 8): Mukautuvat järjestelmät
 
 Ei ennakkotehtävää.
 
-*Esitys [hypertekstinä](http://ohsiha.github.io/2019/luento/K7/esitys.html).*
+*Esitys [hypertekstinä](https://ohsiha.github.io/2020/luento/K7/esitys.html).*
 
 Kohti mukautuvia ominaisuuksia.
 Lähestymistapoja mukautuvuuteen (laiteriippumattomuus,
@@ -53,23 +53,23 @@ käyttäjän mallintaminen,
 hajautetut käyttäjäprofiilit,
 suosittelujärjestelmät.
 
-Koodiklinikalla hahmotellaan askelia [kohti oppivia järjestelmiä](https://ohsiha.github.io/2019/02/22/oppivat-jarjestelmat.html). Echon kanssa törmättiin teknisiin ongelmiin kesken tallennuksen, joten tallennetta ei valitettavasti julkaista.
+Koodiklinikalla hahmotellaan askelia [kohti oppivia järjestelmiä](https://ohsiha.github.io/2020/02/22/oppivat-jarjestelmat.html). Echon kanssa törmättiin teknisiin ongelmiin kesken tallennuksen, joten tallennetta ei valitettavasti julkaista.
 
-## Luentoviikko 3.6 (viikko 7): Datalla ohjattu kehitystyö
+## Luentoviikko 6 (viikko 7): Datalla ohjattu kehitystyö
 Ei ennakkotehtävää
 
 Aiheena: Lean startup ja datalla ohjattu kehitystyö, käytön seurannan periaatteet ja toteuttaminen, käyttödatan kerääminen.
 
-*Esitys [hypertekstinä](http://ohsiha.github.io/2019/luento/K6/esitys.html).*
+*Esitys [hypertekstinä](http://ohsiha.github.io/2020/luento/K6/esitys.html).*
 
-Koodiklinikalla puhuttiin visualisoinnista.[Toimiva demo .zip pakettina](https://ohsiha.github.io/2019/koodikliniikka/Dashboard/dashboard.zip)
+Koodiklinikalla puhuttiin visualisoinnista.[Toimiva demo .zip pakettina](https://ohsiha.github.io/2020/koodikliniikka/Dashboard/dashboard.zip)
 
-## Luentoviikko 3.5 (viikko 6): Koostepalvelut ja visuaalinen analytiikka
+## Luentoviikko 5 (viikko 6): Koostepalvelut ja visuaalinen analytiikka
 Ei ennakkotehtävää
 
 Aiheena: johdanto koostepalveluihin, koostamisen tasot,informaation visualisointi
 
-*Esitys [hypertekstinä](http://ohsiha.github.io/2019/luento/K5/esitys.html).*
+*Esitys [hypertekstinä](http://ohsiha.github.io/2020/luento/K5/esitys.html).*
 
 Koodiklinikalla perehdyttiin Djangoon.
 
@@ -113,7 +113,7 @@ Aiheena: Web-toteutusten perusteet.
 URI-tunniste, resurssi, representaatio
 HTML, CSS ja Javascript: sisältö, esitystapa, toiminnallisuus.
 
-*"Esitys" [hypertekstinä](http://ohsiha.github.io/2019/luento/K2/esitys.html).*
+*"Esitys" [hypertekstinä](http://ohsiha.github.io/2020/luento/K2/esitys.html).*
 
 Lisämateriaalia: Taustaa tarkemmin:
 [Learn HTML](https://www.codecademy.com/learn/learn-html),
