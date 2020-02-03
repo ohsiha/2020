@@ -6,7 +6,7 @@
          <head>
           <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
           <title>TLO-32400 Ohjelmallinen sisällönhallinta :: Luentoviikko 5</title>
-          <meta name="copyright" content="Esitys Katja Kujala Jukka Huhtamäen materiaalien pohjalta. Käytössä HTML Slidy." />
+          <meta name="copyright" content="Jukka Huhtamäki &amp; Katja Kujala. Käytössä HTML Slidy." />
           <meta name="font-size-adjustment" content="1" />
           <link rel="stylesheet" type="text/css" media="print" href="../Slidy/print.css" />
           <link rel="stylesheet" href="../Slidy2/styles/slidy.css" type="text/css"
@@ -45,12 +45,12 @@
   </div>
 
 <div class="slide cover">
-  <h1>Koostapalvelut ja visuaalinen analytiikka</h1>
+  <h1>Koostepalvelut ja visuaalinen analytiikka</h1>
   <p>4.2.2020</p>
 </div>
 
 <div class="slide">
-  <h1>Johdattelua</h1>
+  <h1>Johdantoa</h1>
   <p>
 		Tähän mennessä on käsitelty lähinnä yksittäisien järjestelmien arkkitehtuurin ja vuorovaikutuksen toteuttamista.
  </p>
@@ -94,21 +94,23 @@
 </div>
 
 <div class="slide">
-<h1>Yhdistetty julkinen data Suomessa</h1>
-<p class="subhead">Yhdistetty julkinen data on hyvin ajankohtainen asia myös Suomessa:</p>
+<h1>Yhdistetty avoin data Suomessa</h1>
+<p class="subhead">Yhdistetty <a href="https://hri.fi/fi/avoin-data-suomessa-10-vuotta-arkea-ja-juhlaa/">avoin data on vakiintunut</a> osaksi julkisten toimijoiden käytänteitä:</p>
 <ul>
-  <li>Vuonna 2015 alkanut 6Aika-hanke nojaa vahvasti avoimeen dataan.</li>
   <li>Helsinki Region Infoshare ja Open Data Tampere ovat yhdessä avanneet yli 1000 suomalaista datasettiä.</li>
   <li>Aiheeseen liittyvää tutkimus- ja kehitystyötä on aikaisemmin tehty esimerkiksi
       <a href="https://seco.cs.aalto.fi/projects/ldf/" target="_blank">Linked Data Finland -hankkeessa</a>.
   </li>
   <li>
-    Kiinnostus ja paine tietosisältöjen avaamiseen tarkoittanee sitä, että tulevina vuosina
-    koostepalveluiden kehittäjien ja muiden ohjelmallisen sisällönhallinnan osaajien käyttöön
-    tulee kosolti lisää mielenkiintoista aineistoa.</li>
+    Kiinnostus ja paine tietosisältöjen avaamiseen tarkoittanee sitä, että
+    koostepalveluiden kehittäjien ja muiden ohjelmallisen sisällönhallinnan osaajien käyttöön avautuu jatkossakin mielenkiintoista aineistoa.</li>
  <li>
     Kuten viime viikolla totesimme, myös yritykset tarjoavat API-rajapintoja omaan dataansa.
  </li>
+ <li>
+   Omadata eli MyData on kasvavan kiinnostuksen kohteena sekä julkisessa päätöksenteossa että yrityksissä.
+ </li>
+
 </ul>
 </div>
 <div class="slide">
@@ -116,8 +118,9 @@
 <ul>
     <li><a href="https://www.avoindata.fi/" target="_blank">avoindata.fi</a></li>
     <li><a href="http://data.tampere.fi" target="_blank">data.tampere.fi</a></li>
-    <li><a href="http://avoindata.net/" target="_blank">avoindata.net</a></li>
+    <li><a href="https://opendata.tuni.fi/" target="_blank">opendata.tuni.fi</a></li>
     <li><a href="https://www.okf.fi" target="_blank">Open Knowledge Finland</a></li>
+    <li><a href="https://mydata.org/finland/" target="_blank">MyData Finland</a></li>
     <li><a href="https://www.facebook.com/groups/fi.okfn/" target="_blank">Finnish Open Data Ecosystem</a></li>
     <li><a href="https://www.facebook.com/groups/175241005863017/" target="_blank">Open Data Tampere</a></li>
 </ul>
@@ -157,7 +160,7 @@
    <ul class="incremental">
       <li>Sisällön koostaminen: RSS/Atom, Web APIt (REST), HTML-muotoisen tiedon jalostaminen (screen scraping)
       </li>
-      <li>Sovelluslogiikan koostaminen: datan koostaminen, suodattaminen ja muuntaminen (esimerkiksi <a href="https://www.google.com/fusiontables/" target="_blank">Google Fusion Tables</a>);
+      <li>Sovelluslogiikan koostaminen: datan koostaminen, suodattaminen ja muuntaminen (esimerkiksi <a href="https://cloud.google.com/data-fusion/" target="_blank">Google Cloud Data Fusion</a>);
           datan käsittely selaimessa, kommunikointi selaimen ja palvelimen välillä
           (vrt. <a href="https://jqueryui.com/" target="_blank">jQuery UI</a>)</li>
       <li>Käyttöliittymien koostaminen: Google Maps ja Earth, YouTube, <a href="https://d3js.org/" target="_blank">d3.js</a>,
@@ -168,14 +171,14 @@
 <div class="slide">
 	<h1>Web-pohjaisen datatuotteen arkkitehtuuri</h1>
 	<img src="Kaittola37.png">
-	<p>Kuva: <a href="https://dspace.cc.tut.fi/dpub/bitstream/handle/123456789/25359/Kaittola.pdf?sequence=3&isAllowed=y" target="_blank">Kaittola 2017</a></p>
+	<p>Kuva: <a href="http://urn.fi/URN:NBN:fi:tty-201711222206" target="_blank">Kaittola (2017)</a></p>
 </div>
 
 <div class="slide">
 	<h1>Monipuolisemman koostamisen mahdollistajat</h1>
 	<p>DOM - Document Object Model </p>
 	<p>Raketeistetut dokumentit on mahdollista esittää puumallina, jonka objekteja voidaan hakea, tutkia ja manipuloida</p>
-	<p>Esimerkiksi <a href="https://ohsiha.github.io/2020/koodikliniikka/html+css+js/index.html" target="_blank">koodikliniikan JS manipulaatio</a> tai 2. luennon JQuery manipulaatio</p>
+	<p>Esimerkiksi <a href="https://ohsiha.github.io/2020/koodikliniikka/html+css+js/index.html" target="_blank">Koodikliniikan JS-manipulaatio</a> tai 2. luennon JQuery-manipulaatio</p>
 </div>
 
 <div class="slide">
@@ -214,7 +217,7 @@
         <a href="http://www.visualcomplexity.com/vc/" target="_blank">visual complexity</a>,
         <a href="https://d3js.org/" target="_blank">d3.js</a>,
         <a href="https://www.highcharts.com/" target="_blank">Highcharts.js</a> ja
-        <a href="https://lissu.tampere.fi/" target="_blank">Lissu Liikenteenseuranta</a>.
+        <a href="https://nyssetutka.fi/" target="_blank">Nyssetutka</a>.
     </p>
     </div>
 </div>
@@ -224,7 +227,7 @@
     <p>
         <img src="laihonen.png"/>
     </p>
-    <p>Kuvalähde: (Laihonen et al 2013	)</p>
+    <p>Kuvalähde: (<a href="http://urn.fi/URN:ISBN:978-952-15-3058-6">Laihonen ja muut, 2013</a>)</p>
 </div>
 
 <div class="slide">
@@ -267,7 +270,7 @@
 
 <div class="slide">
     <h1>Demon aika</h1>
-	<p><a href="https://github.com/jukkahuhtamaki/dashboard-demo" target="_blank">Jukka Huhtamäen Dashboard-demo</p>
+	<p><a href="https://github.com/jukkahuhtamaki/dashboard-demo" target="_blank">Dashboard-demo</p>
 </div>
 </body>
 </html>
