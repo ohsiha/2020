@@ -70,7 +70,7 @@ Koodiklinikalla puhuttiin visualisoinnista.[Toimiva demo .zip pakettina](https:/
 
 Ei ennakkotehtävää
 
-Aiheena: johdanto koostepalveluihin, koostamisen tasot,informaation visualisointi
+Aiheena: johdanto koostepalveluihin, koostamisen tasot, informaation visualisointi.
 
 *Esitys [hypertekstinä](http://ohsiha.github.io/2020/luento/K5/esitys.html).*
 
@@ -80,7 +80,7 @@ Koodiklinikalla perehdytään Djangoon.
 
 Esitehtävä: Lue taustaksi API-talous 101 -kirjan [ensimmäinen luku](https://www.apitalous101.fi/luku-varoitus).
 
-Aiheena: Alustatalous, API-talous, arvonluonti API-taloudessa
+Aiheena: Alustatalous, API-talous, arvonluonti API-taloudessa.
 
 *Esitys [hypertekstinä](http://ohsiha.github.io/2020/luento/K4/esitys.html).*
 
