@@ -149,7 +149,7 @@ Opiskelija saa valita harjoitustyönsä aiheen vapaasti, luonnollisesti hyvän m
 
 <p>
   Voit tuplata edelliset pisteet valmistelemalla Koodiklinikalle demon toteutuksestasi.
-  Ota yhteyttä Katjaan jos olet kiinnostunut mahdollisuudesta.
+  Ota yhteyttä Jukkaan jos olet kiinnostunut mahdollisuudesta.
 </p>
 
 Edellä kuvatut neljä kokonaisuutta voit toteuttaa omalla koneellasi pyörivässä paikallisessa kehitysympäristössä. Mikäli haluat kerätä **lisää pisteitä seuraavia kokonaisuuksia toteuttamalla**, sinun on ensin julkaistava palvelusi Webiin. Palautus <strong>keskiviikkoon 29. huhtikuuta kello 17</strong> mennessä:
