@@ -20,11 +20,11 @@ Näin siksi, että sisällön käsittelyn automatisoinnin ja verkkopalveluiden t
 
 <ul>
 
-  <li><a href="http://www.djangoproject.com/" target="_blank">Django</a>, 
-  <a href="http://flask.pocoo.org/" target="_blank">Flask</a>, <a href="http://www.pylonsproject.org/" target="_blank">Pylons</a> (<a href="http://turbogears.org/" target="_blank">TurboGears</a>, <a href="https://trypyramid.com/" target="_blank">Pyramid (vanha BFG)</a>) tai muu valitsemasi Python-kehys </li>
-<li><a href="http://rubyonrails.org/" target="_blank">Ruby on Rails</a></li>
-<li><a href="http://nodejs.org/" target="_blank">Node.js</a> (+ esim. <a href="http://backbonejs.org/" target="_blank">Backbone.js</a>)</li>
-<li>PHP (ja halutessasi <a href="http://codeigniter.com/" target="_blank">CodeIgniter</a>, <a href="http://laravel.com/" target="_blank">Lavarel</a> tai muu valitsemasi PHP-sovelluskehys)</li>
+  <li><a href="https://www.djangoproject.com/" target="_blank">Django</a>,
+  <a href="https://palletsprojects.com/p/flask/" target="_blank">Flask</a>, <a href="https://www.pylonsproject.org/" target="_blank">Pylons</a> (<a href="https://turbogears.org/" target="_blank">TurboGears</a>, <a href="https://trypyramid.com/" target="_blank">Pyramid (vanha BFG)</a>) tai muu valitsemasi Python-kehys </li>
+<li><a href="https://rubyonrails.org/" target="_blank">Ruby on Rails</a></li>
+<li><a href="https://nodejs.org/" target="_blank">Node.js</a> (+ esim. <a href="https://backbonejs.org/" target="_blank">Backbone.js</a>)</li>
+<li>PHP (ja halutessasi <a href="https://codeigniter.com/" target="_blank">CodeIgniter</a>, <a href="https://laravel.com/" target="_blank">Lavarel</a> tai muu valitsemasi PHP-sovelluskehys)</li>
 <li>.Net</li>
 </ul>
 
@@ -61,7 +61,7 @@ Kattavia datalähdelistauksia löydät muun muassa  ProgrammableWeb- ja
 [apinf.io-palveluista](https://apinf.io/).  
 
 Harjoitustyön minimivaatimuksena on toteuttaa verkkopalvelu, joka näyttää dataa käyttäjälle vuorovaikutteisella tavalla. Lisäksi käyttäjällä on mahdollisuus rekisteröityä ja kirjautua palveluun.
-Löydät lisätietoa tämänkaltaisista datatuotteista esimerkiksi Tuomas Kaittolan diplomityöstä [Web-teknologioilla toteutetun datatuotteen arkkitehtuuri](https://dspace.cc.tut.fi/dpub/handle/123456789/25359).
+Löydät lisätietoa tämänkaltaisista datatuotteista esimerkiksi Tuomas Kaittolan diplomityöstä [Web-teknologioilla toteutetun datatuotteen arkkitehtuuri](https://trepo.tuni.fi/handle/123456789/25359).
 
 Jos kuitenkin haluat toteuttaa Web-palvelun ilman erillistä datalähdettä, minimivaatimukset täyttää palvelu jonka sisältöä on mahdollista lisätä, muokata, poistaa ja listata Web-käyttöliittymän tuella.
 Toteuta tällöin seuraavat ominaisuudet:
@@ -82,7 +82,7 @@ Vanhan työn käyttäminen ei kuitenkin anna erivapauksia pisteiden jakamisen pe
 -->
 Harjoitustyön tekeminen alkaa kehitysympäristön perustamisella ja valinnalla.
 Voit joko asentaa itsellesi vaikkapa Django-ympäristön tai perustaa ympäristön valitsemallesi alustalle.
-[Heroku](http://www.heroku.com/) on erityisen kiinnostava vaihtoehto ja palvelimen tuunaamisesta kiinnostunut voi ottaa käyttöön vaikkapa <a href="http://aws.amazon.com/" target="_blank">Amazon AWS:n</a> - nyt tavoitteena on kuitenkin edetä suoraviivaisesti kehittämään varsinaista sovellusta.
+[Heroku](https://www.heroku.com/) on erityisen kiinnostava vaihtoehto ja palvelimen tuunaamisesta kiinnostunut voi ottaa käyttöön vaikkapa <a href="https://aws.amazon.com/" target="_blank">Amazon AWS:n</a> - nyt tavoitteena on kuitenkin edetä suoraviivaisesti kehittämään varsinaista sovellusta.
 
 ## Esimerkkejä aiheista
 
@@ -90,7 +90,7 @@ Opiskelija saa valita harjoitustyönsä aiheen vapaasti, luonnollisesti hyvän m
 <p>
   <strong>Koostepalvelu (mashup)</strong> Olennaisen osan nykyaikasta Web-palvelutarjontaa muodostavat erilaiset koostepalvelut (mashup), jotka koostavat, yhdistelevät, jalostavat ja rikastavat eri lähteistä kerättyä tietoa.
   Keskeisessä roolissa koostepalvelujen toteuttamisessa ovat verkkopalvelujen tarjoamat rajapinnat (Web API), joiden tuella tietoja voidaan ohjelmallisesti siirtää verkkopalvelujen välillä.
-  Erilaiset paikkatiedon ja kartan yhdistelmät ovat yleisimmin toteutettuja koostepalveluita, mutta esimerkiksi <a href="http://d3js.org/" target="_blank">D3.js-kirjaston</a> ja avoimen datan yhdistelmällä saa aikaan paljon muutakin.
+  Erilaiset paikkatiedon ja kartan yhdistelmät ovat yleisimmin toteutettuja koostepalveluita, mutta esimerkiksi <a href="https://d3js.org/" target="_blank">D3.js-kirjaston</a> ja avoimen datan yhdistelmällä saa aikaan paljon muutakin.
 </p>
 <p>
   Toteuta <strong>maailman paras opinto-opas</strong>, joka esittää opinto-oppaan tiedot opiskelijalle hyödyllisellä tavalla.
@@ -107,7 +107,7 @@ Opiskelija saa valita harjoitustyönsä aiheen vapaasti, luonnollisesti hyvän m
   Edellä mainittuja aiheita voi vapaasti muokata siten, että ne sopivat paremmin tekijän omiin tarpeisiin.
   Erityisen suositeltavaa on keksiä jokin ehdotettuja parempi aihe.
   Inspiraatiota voit kerätä vaikkapa tutustumalla Demolassa tarjolla oleviin
-  <a href="https://tampere.demola.net/projects" target="_blank">projektiaiheisiin</a> tai programmableweb.com-sivuston <a href="http://www.programmableweb.com/mashups" target="_blank">koostepalveluesimerkkeihin</a>.
+  <a href="https://applications.demola.net/" target="_blank">projektiaiheisiin</a> tai programmableweb.com-sivuston <a href="https://www.programmableweb.com/mashups" target="_blank">koostepalveluesimerkkeihin</a>.
 </p>
 <p>
   Kurssin harjoitustyö on myös mahdollista suorittaa myös SCIL-projektina. SCIL-projektissa ideoidaan ja kehitetään sovelluksia, jotka hyödyntävät   Tampereen korkeakouluyhteisön avoimen datan palvelua. Katso lisätietoja <a href="http://scil.tampere3.fi/projects/avoin-data/">tehtävänannosta</a>.
@@ -117,33 +117,33 @@ Opiskelija saa valita harjoitustyönsä aiheen vapaasti, luonnollisesti hyvän m
 
   Harjoitustyöstä voi kerätä pisteitä yhteensä 18 kappaletta.
   Harjoitustyöstä kerättävät pisteet vaikuttavat arvosanaan
-  [suorittamisohjeen](https://ohsiha.github.io/2018/suorittaminen) mukaisesti
+  [suorittamisohjeen](https://ohsiha.github.io/2020/suorittaminen) mukaisesti
 
 <p>Neljä vaihetta:</p>
 <ol>
 <li>
   Kehitysympäristön perustaminen: Django käyntiin omalle koneelle
   tai esimerkiksi Herokun käyttöönotto.
-  Katso <a href="https://ohsiha.github.io/2019/01/22/apukysymyksia">apukysymykset dokumentointiin</a>.
-  Palautus <strong>perjantaihin 22. helmikuuta kello 17</strong> mennessä. (3 pistettä)
+  Katso <a href="https://ohsiha.github.io/2020/01/22/apukysymyksia">apukysymykset dokumentointiin</a>.
+  Palautus <strong>perjantaihin 21. helmikuuta kello 17</strong> mennessä. (3 pistettä)
 </li>
 <li>
   Esimerkkipalvelu valitsemallasi teknologialla:
   Tuki kirjautumiseen ja rekisteröitymiseen tai jokin vaihtoehtoinen tapa käyttäjäkohtaisen tilan ylläpitämiseen sekä esimerkkidatan näyttäminen tai lisää-näytä-päivitä-poista (CRUD) -toiminnot.
-  Palautus <strong>perjantaihin 15. maaliskuuta kello 17</strong> mennessä. (3 pistettä)
+  Palautus <strong>perjantaihin 13. maaliskuuta kello 17</strong> mennessä. (3 pistettä)
 </li>
 <li>
   Datarajapinnan käyttö: Lue dataa oman sovelluksesi käyttöön tarkoituksenmukaisen lähteestä.
   Integroi data elimelliseksi osaksi palvelusi tietosisältöä.
   Voit joko ottaa käyttöön soveltuvan API:n tai vaihtoehtoisesti
-  lukea palvelun käyttöön staattisen datan (esimerkiksi <a href="http://data.tampere.fi">data.tampere.fi</a>).
-  Palautus <strong>perjantaihin 5. huhtikuuta kello 17</strong> mennessä. (3 pistettä)
+  lukea palvelun käyttöön staattisen datan (esimerkiksi <a href="https://data.tampere.fi">data.tampere.fi</a>).
+  Palautus <strong>perjantaihin 3. huhtikuuta kello 17</strong> mennessä. (3 pistettä)
 </li>
 <li>
   Visualisointi: sovelluksen keräämän tai datarajapinnasta luetun datan ei-triviaali visualisointi (siis jotain muuta kuin yksittäinen toimistografiikkaelementti tai joukko kartalle heitettyjä tietoja).
   Käytännössä esimerkiksi suurin osa D3.js-kirjastolla toteuteista visualisoinneista voidaan luokitella ei-triviaaliksi.
   Toteutukseksi käy myös yksinkertaisista, esimerkiksi Highchartsilla toteutetuista visualisoinneista muodostettu kojelauta (dashboard).
-  Palautus <strong>perjantaihin 19. huhtikuuta kello 17</strong> mennessä. (3 pistettä)
+  Palautus <strong>perjantaihin 17. huhtikuuta kello 17</strong> mennessä. (3 pistettä)
 </li>
 </ol>
 
@@ -152,7 +152,7 @@ Opiskelija saa valita harjoitustyönsä aiheen vapaasti, luonnollisesti hyvän m
   Ota yhteyttä Katjaan jos olet kiinnostunut mahdollisuudesta.
 </p>
 
-Edellä kuvatut neljä kokonaisuutta voit toteuttaa omalla koneellasi pyörivässä paikallisessa kehitysympäristössä. Mikäli haluat kerätä **lisää pisteitä seuraavia kokonaisuuksia toteuttamalla**, sinun on ensin julkaistava palvelusi Webiin. Palautus <strong>perjantaihin 3. toukokuuta kello 17</strong> mennessä:
+Edellä kuvatut neljä kokonaisuutta voit toteuttaa omalla koneellasi pyörivässä paikallisessa kehitysympäristössä. Mikäli haluat kerätä **lisää pisteitä seuraavia kokonaisuuksia toteuttamalla**, sinun on ensin julkaistava palvelusi Webiin. Palautus <strong>keskiviikkoon 29. huhtikuuta kello 17</strong> mennessä:
 
 **SPA-toteutus** (3 pistettä):
 Palvelusi toimii Single Page Application -periaatteella. Toteutus perustuu esimerkiksi
@@ -177,33 +177,32 @@ Toteuta botti, joka esimerkiksi tervehtii sivulle saapuvaa käyttäjää ja kysy
 <strong>Folksonomioihin perustuva taggaaminen</strong> (2 pistettä):
 Nimihirviö viittaa tyypilliseen Web 2.0 -palvelujen piirteeseen, joka mahdollistaa käyttäjien vapaasti määrittelemien avainsanojen liittämisen palvelun tietosisältöön.
 Merkinnät näkyvät kaikille palvelun käyttäjille ja niitä käytetään esimerkiksi tietosisällön listaamiseen.
-Esimerkiksi <a href="http://last.fm/" target="_blank">Last.fm</a> ja <a href="http://delicious.com/" target="_blank">delicious.com</a> soveltavat tageja monipuolisesti.
+Esimerkiksi <a href="https://www.last.fm/" target="_blank">Last.fm</a> soveltaa tageja monipuolisesti.
 Pisteiden kerääminen edellyttää myös suosittujen avainsanojen suosittelumekanismin toteuttamista (”Popular tags for this artist”, “recommended tags”).
 
 **AJAX-toteutus** (1 piste):
 AJAX-teknologian soveltaminen verkkopalvelun käyttöliittymän toteutuksessa (sekä asynkroninen tiedonsiirto että käyttöliittymän dynaaminen mukauttaminen).
   AJAX-toteutus voi liittyä esimerkiksi käyttöliittymän dynaamiseen päivittämiseen tai käyttäjän syötteen välittämiseen palvelimelle tarkastettavaksi ja virheellisestä syötteestä ilmoittamiseen.
-  Myös tagien lisäysmekanismit (ks. <a href="http://en.wikipedia.org/wiki/Tag_%28metadata%29" target="_blank">tag</a><a href="http://en.wikipedia.org/wiki/Tag_%28metadata%29" target="_blank">eja käsittelevä artikkeli</a> Wikipediassa) ovat pääsääntöisesti AJAX-perustaisia.
+  Myös tagien lisäysmekanismit (ks. <a href="https://en.wikipedia.org/wiki/Tag_%28metadata%29" target="_blank">tag</a><a href="https://en.wikipedia.org/wiki/Tag_%28metadata%29" target="_blank">eja käsittelevä artikkeli</a> Wikipediassa) ovat pääsääntöisesti AJAX-perustaisia.
 
 
 <strong>HTML5-pohjainen käyttöliittymä</strong> (1 piste):
   Ota verkkopalvelussasi käyttöön vähintään kaksi seuraavista HTML5-kielen esittelemistä tai siihen keskeisesti liittyvistä uusista ominaisuuksista:
-  <a href="http://www.whatwg.org/specs/web-apps/current-work/multipage/the-canvas-element.html" target="_blank">Canvas</a>,
-  <a href="http://www.w3.org/TR/webstorage/" target="_blank">Web Storage</a>,
-  <a href="http://www.w3.org/TR/workers/" target="_blank">Web Workers</a>,
-  <a href="http://www.w3.org/TR/websockets/" target="_blank">Web Socket</a> ja
-  <a href="http://www.w3.org/wiki/HTML5_form_additions" target="_blank">uudet lomakeominaisuudet</a>.
-</p>
+  <a href="https://www.whatwg.org/specs/web-apps/current-work/multipage/the-canvas-element.html" target="_blank">Canvas</a>,
+  <a href="https://www.w3.org/TR/webstorage/" target="_blank">Web Storage</a>,
+  <a href="https://www.w3.org/TR/workers/" target="_blank">Web Workers</a>,
+  <a href="https://www.w3.org/TR/websockets/" target="_blank">Web Socket</a> ja
+  <a href="https://www.w3.org/wiki/HTML5_form_additions" target="_blank">uudet lomakeominaisuudet</a>.
 
 <strong>Kertakirjautuminen</strong> (1 pistettä):
-Yksittäiset palveluntarjoajat tarjoavat usein <a href="http://oauth.net/" target="_blank">OAuth-protokollaan</a> perustuvia keinoja kertakirjautumisen toteuttamiseen,
-ks. esimerkiksi <a href="http://developers.facebook.com/connect.php" target="_blank">Facebook</a><a href="http://developers.facebook.com/docs/guides/web/#login" target="_blank"> for Websites: Authentication</a>,
-<a href="http://code.google.com/apis/accounts/docs/GettingStarted.html" target="_blank">Authentication and Authorization for Google APIs</a> ja
+Yksittäiset palveluntarjoajat tarjoavat usein <a href="https://oauth.net/" target="_blank">OAuth-protokollaan</a> perustuvia keinoja kertakirjautumisen toteuttamiseen,
+ks. esimerkiksi <a href="https://developers.facebook.com/" target="_blank">Facebook</a><a href="https://developers.facebook.com/docs/guides/web/#login" target="_blank"> for Websites: Authentication</a>,
+<a href="https://code.google.com/apis/accounts/docs/GettingStarted.html" target="_blank">Authentication and Authorization for Google APIs</a> ja
 <a href="https://developer.twitter.com/en/docs/basics/authentication/overview/authentication-and-authorization.html" target="_blank">Twitter: </a><a href="https://developer.twitter.com/en/docs/basics/authentication/overview/authentication-and-authorization.html" target="_blank">Authentication &amp; Authorization</a>.
 Kerää piste toteuttamalla tuki vähintään yhdelle mainituista kirjautumismenetelmistä.
 
 <strong>Sovelluskehittäjän rajapinta</strong> (3 pistettä):
-Mahdollista sovelluksesi keräämän tietosisällön hyödyntäminen ja/tai muokkaaminen muille kehittäjille toteuttamalla sovellukseesi <a href="http://en.wikipedia.org/wiki/Application_programming_interface#Web_APIs">Web API</a> eli sovelluskehittäjärajapinta.
+Mahdollista sovelluksesi keräämän tietosisällön hyödyntäminen ja/tai muokkaaminen muille kehittäjille toteuttamalla sovellukseesi <a href="https://en.wikipedia.org/wiki/Application_programming_interface#Web_APIs">Web API</a> eli sovelluskehittäjärajapinta.
 
 <!--<p><strong>Älypuhelinnäkymä sovellukseen</strong> (3 pistettä): Toteuta yksinkertainen älypuhelinsovellus sovelluksesi keräämien tietojen näyttämiseen/käyttämiseen tai muokkaamiseen.</p>
 -->
@@ -238,7 +237,7 @@ Mahdollista sovelluksesi keräämän tietosisällön hyödyntäminen ja/tai muok
 </ol>
 <p>
   Kun viesti on valmis, julkaise se Slackissä.
-  Halutessasi voit kirjoittaa kuvauksen esimerkiksi <a href="http://dillinger.io/">dillinger.io</a>-palvelulla ja liittää sen Slackiin-viestiin PDF-muodossa. Mikäli mahdollista, voit julkaista koko kuvauksen sellaisenaan Slack-kanavalle.
+  Halutessasi voit kirjoittaa kuvauksen esimerkiksi <a href="https://dillinger.io/">dillinger.io</a>-palvelulla ja liittää sen Slackiin-viestiin PDF-muodossa. Mikäli mahdollista, voit julkaista koko kuvauksen sellaisenaan Slack-kanavalle.
 </p>
 <p id="teknologiatagi">
 Kuvauksen mukainen viesti on toimitettava Slackiin viimeistään perjantaina kello 17 mennessä sillä viikolla, joilloin kyseisestä ominaisuudesta jaetaan pisteet: kirjoita viesti ominaisuuteen liittyvälle kanavalle ja lisää siihen sopivat hashtagit:
@@ -261,7 +260,7 @@ Kuvauksen mukainen viesti on toimitettava Slackiin viimeistään perjantaina kel
 
 <h2 id="loppuraportti">Loppuraportti</h2>
 <p>
-  Harjoitustyön palautus tapahtuu lähettämällä oheisen mallin mukainen tiedote osoitteeseen <a href="mailto:katja.kujala@tuni.fi">katja.kujala@tuni.fi</a>.
+<!--  Harjoitustyön palautus tapahtuu lähettämällä oheisen mallin mukainen tiedote osoitteeseen <a href="mailto:katja.kujala@tuni.fi">katja.kujala@tuni.fi</a>.
   Lähetä viesti otsikolla #OHSIHA: työ valmis <em>perjantaihin 3. toukokuuta kello 17 mennessä</em>.
 </p>
 <blockquote>
@@ -273,7 +272,7 @@ Kuvauksen mukainen viesti on toimitettava Slackiin viimeistään perjantaina kel
   <p>Harjoitustyöni aihe: Verkkopalvelu raitiovaunubongareille</p>
   <p>Harjoitustyö löytyy kokonaisuudessaan oheisesta zip-paketista (ohsiha2018-234567.zip).</p>
 
-<p>Korvaan tenttisuorituksen luentopäiväkirjalla. Osoite luentopäiväkirjaani: <a href="http://blog.fi/jamesstation/ohsiha2020">http://blog.fi/jamesstation/ohsiha2020</a></p>
+<p>Korvaan tenttisuorituksen luentopäiväkirjalla. Osoite luentopäiväkirjaani: <a href="https://blog.fi/jamesstation/ohsiha2020">https://blog.fi/jamesstation/ohsiha2020</a></p>
 </blockquote>
 <p>
 Palautettavan zip-paketin (ohsiha2020-opiskelijanumero.zip) tulee sisältää hakemisto nimeltä ohsiha2018-234567 (korvaa lukusarja 234567 omalla opiskelijanumerollasi), jonka sisältä löytyvät työhösi liittyvät koodi- ja asetustiedostot.
@@ -281,6 +280,8 @@ Huomaa, että sovelluksen ei tarvitse toimia sellaisenaan. Riittää, että pake
 </p>
 <p>Kurssin alussa annetuista ohjeista poiketen pisteitä ei tarvitse merkitä itse mihinkään.
 </p>
+-->
+Harjoitustyön loppuraportille on rakenteilla palautusautomaatti. Loppuraportilla on aikaa palauttaa keskiviikkoon 29. huhtikuuta kello 17 asti.
 <!--
 <p>
 Merkitse lisäksi harjoitustyön eri ominaisuuksien raportoiduista toteutuksista keräämäsi pisteet <a href="https://tuni-my.sharepoint.com/:x:/g/personal/katja_kujala_tuni_fi/EckNaAYrqEdIspI3TjSRWy8BMMZCDmLi9su81-YFV1mP-A?e=79pCf3">laskentataulukkoon.</a><strong>Merkitse pisteet ainoastaan siinä tapauksessa, että olet julkaissut kuvauksen määräaikaan mennessä.</strong>
