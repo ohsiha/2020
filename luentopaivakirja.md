@@ -16,14 +16,14 @@ Hyödynnämme [Echo360-järjestelmään tallennettuja luentoja](https://echo360.
   <h3>Tulossa</h3>
   <!-- Oh yes, using Markdown inside HTML in Github-based Jekyll! -->
   <div markdown="1">
-* Luentoviikko 7 (viikko 8): Mukautuvat järjestelmät - kohti JODAa
-* Luentoviikko 6 (viikko 7): Datalla ohjattu kehitystyö
+  * Luentoviikko 7 (viikko 8): Mukautuvat järjestelmät - kohti JODAa
 
 *Tarkempi suunnitelma tämän dokumentin kommenteissa*
 </div>
 </div>
 
 <!--
+* Luentoviikko 6 (viikko 7): Datalla ohjattu kehitystyö
 * Luentoviikko 5 (viikko 6): Koostepalvelut ja visuaalinen analytiikka
 * Luentoviikko 4 (viikko 5): API-talous
 * Luentoviikko 3 (viikko 4): Resurssikeskeinen arkkitehtuuri
@@ -55,6 +55,8 @@ suosittelujärjestelmät.
 
 Koodiklinikalla hahmotellaan askelia [kohti oppivia järjestelmiä](https://ohsiha.github.io/2020/02/22/oppivat-jarjestelmat.html). Echon kanssa törmättiin teknisiin ongelmiin kesken tallennuksen, joten tallennetta ei valitettavasti julkaista.
 
+-->
+
 ## Luentoviikko 6 (viikko 7): Datalla ohjattu kehitystyö
 Ei ennakkotehtävää
 
@@ -62,9 +64,7 @@ Aiheena: Lean startup ja datalla ohjattu kehitystyö, käytön seurannan periaat
 
 *Esitys [hypertekstinä](http://ohsiha.github.io/2020/luento/K6/esitys.html).*
 
-Koodiklinikalla puhuttiin visualisoinnista.[Toimiva demo .zip pakettina](https://ohsiha.github.io/2020/koodikliniikka/Dashboard/dashboard.zip)
-
--->
+Koodiklinikalla puhutaan visualisoinnista.[Toimiva demo .zip pakettina](https://ohsiha.github.io/2020/koodikliniikka/Dashboard/dashboard.zip)
 
 ## Luentoviikko 5 (viikko 6): Koostepalvelut ja visuaalinen analytiikka
 
