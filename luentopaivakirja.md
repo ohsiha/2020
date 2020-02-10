@@ -60,11 +60,12 @@ Koodiklinikalla hahmotellaan askelia [kohti oppivia järjestelmiä](https://ohsi
 ## Luentoviikko 6 (viikko 7): Datalla ohjattu kehitystyö
 Ei ennakkotehtävää
 
-Aiheena: Lean startup ja datalla ohjattu kehitystyö, käytön seurannan periaatteet ja toteuttaminen, käyttödatan kerääminen.
+Aiheena: Lean startup ja datalla ohjattu kehitystyö, käytön seurannan periaatteet ja toteuttaminen, käyttödatan kerääminen. Kiinnostuneille tiedoksi: [Palvelumuotoilu ja data-analytiikka](https://docs.google.com/presentation/d/1d7jm1I1y9WZHYvbypQZKuRviL7GLnq1cqQt33jm0Ah8/edit?usp=sharing).
 
 *Esitys [hypertekstinä](http://ohsiha.github.io/2020/luento/K6/esitys.html).*
 
-Koodiklinikalla puhutaan visualisoinnista.[Toimiva demo .zip pakettina](https://ohsiha.github.io/2020/koodikliniikka/Dashboard/dashboard.zip)
+Koodiklinikalla puhutaan visualisoinnista.
+[Toimiva demo .zip pakettina](https://ohsiha.github.io/2020/koodikliniikka/Dashboard/dashboard.zip)
 
 ## Luentoviikko 5 (viikko 6): Koostepalvelut ja visuaalinen analytiikka
 

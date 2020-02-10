@@ -6,7 +6,7 @@
          <head>
           <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
           <title>TLO-32400 Ohjelmallinen sisällönhallinta :: Luentoviikko 6</title>
-          <meta name="copyright" content="Esitys Katja Kujala Jukka Huhtamäen materiaalien pohjalta. Käytössä HTML Slidy." />
+          <meta name="copyright" content="Esitys Jukka Huhtamäki &amp; Katja Kujala. Käytössä HTML Slidy." />
           <meta name="font-size-adjustment" content="1" />
           <link rel="stylesheet" type="text/css" media="print" href="../Slidy/print.css" />
           <link rel="stylesheet" href="../Slidy2/styles/slidy.css" type="text/css"
@@ -50,6 +50,10 @@
 </div>
 
 <div class="slide">
+  <h1>Reflektoidaan aluksi visuaalista analytiikkaa</h1>
+</div>
+
+<div class="slide">
     <h1>Millaisia haasteita tai uhkia liittyy visuaaliseen analytiikkaan? 1/2</h1>
 		<p>Analytiikan haasteet ja uhat eivät ole muuttuneet mihinkään liiketoimintatiedon hallinta -kurssilta</p>
 		<ul>
@@ -75,6 +79,10 @@
 </div>
 
 <div class="slide">
+  <h1>Datalla ohjattu kehitystyö</h1>
+</div>
+
+<div class="slide">
   <h1>Taustaa: Web-hypertekstin lainalaisuuksia</h1>
   <p class="subhead">Yksinkertaiset perusperiaatteet ovat sekä Webin heikkous että vahvuus.</p>
   <p>Hyperlinkit ovat yksisuuntaisia:</p>
@@ -91,19 +99,34 @@
 
 <div class="slide">
 	<h1>Kohti web-analytiikkaa</h1>
-		<p>Esimerkkiksi <a href="https://www.aamulehti.fi/" target="_blanck">Aamulehti</a> hyödyntää analytiikkaa</p>
+		<p>Esimerkkiksi <a href="https://www.aamulehti.fi/" target="_blank">Aamulehti</a> hyödyntää analytiikkaa</p>
 		<p>Millaisia keinoja datan keräämiseen on?</p>
 </div>
 
 <div class="slide">
 	<h1>Dataa keräämässä 1/3</h1>
     <p class="subhead">Javascript</p>
-    <p>Aikaisemmin olemme tutustuneet sivun tietojen tarkasteluun document-olennon kautta</p>
-	<p>Vilkaistaan nyt navigator- ja windows-olentoja</p>
-	<p>Toiminnallisuutta rajoittamassa saman lähteen politiikka</p>
-	<p><a href="https://blog.teamtreehouse.com/exploring-javascript-device-apis" target="_blanck">Lisämateriaalia</a></p>
+    <p>Aikaisemmin olemme tutustuneet sivun tietojen tarkasteluun document-olioiden kautta</p>
+	<p>Vilkaistaan nyt navigator- ja windows-olioita</p>
+	<p>Toiminnallisuutta rajoittamassa
+    <a href="https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy" target="_blank">saman lähteen periaate</a> (same-origin policy)</p>
+	<p><a href="https://blog.teamtreehouse.com/exploring-javascript-device-apis" target="_blank">Lisämateriaalia</a></p>
+</div>
+
+<div class="slide">
+  <h1>Testataan sijainnin selvittämistä</h1>
+
+<pre>
+navigator.geolocation.watchPosition(
+  function(pos) {
+    console.log(pos);
+  })
+</pre>
+
+<p>Sijainti kartalle: <a href="https://developers.google.com/maps/documentation/javascript/adding-a-google-map#step_2_add_a_map_with_a_marker">Add a map with a marker</a></p>
 
 </div>
+
 
 <div class="slide">
 	<h1>Dataa keräämässä 2/3</h1>
@@ -213,6 +236,13 @@
 <div class="slide">
   <h1>Rakenna-Mittaa-Opi</h1>
     <img src="Lean.png">
+</div>
+
+<div>
+  <h1>Yhteenveto</h1>
+
+  <p>Tiivistetään yhdessä kolme keskeistä havaintoa</p>
+
 </div>
 
 <script>
