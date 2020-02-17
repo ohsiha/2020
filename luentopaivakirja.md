@@ -8,8 +8,8 @@ Tämä on Ohjelmallisen sisällönhallinnan kevään 2020 toteutuskerran luentop
 Toteutus noudattelee [vuoden 2019 toteutuskertaa](https://ohsiha.github.io/2019/luentopaivakirja).
 Alan dynaamisuudesta johtuen sisältöjä ja toteutustapaa kuitenkin kehitetään jatkuvasti.
 
-Hyödynnämme [Echo360-järjestelmään tallennettuja luentoja](https://echo360.org.uk/section/89ccd5ff-39ab-417f-a411-77591e21f565/public) keväältä 2019. Mahdolliset uudet luentotallenteet julkaistaan Tampereen yliopiston Pantoptossa.
-
+Hyödynnämme [Echo360-järjestelmään tallennettuja luentoja](https://echo360.org.uk/section/89ccd5ff-39ab-417f-a411-77591e21f565/public) keväältä 2019.
+Uudet luentotallenteet julkaistaan [Tampereen yliopiston Pantoptossa](https://panopto.tuni.fi/).
 
 # Luentopäiväkirja
 
