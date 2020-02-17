@@ -12,33 +12,30 @@ Hyödynnämme [Echo360-järjestelmään tallennettuja luentoja](https://echo360.
 
 
 # Luentopäiväkirja
+
+<!--
 <div id="accordion">
   <h3>Tulossa</h3>
-  <!-- Oh yes, using Markdown inside HTML in Github-based Jekyll! -->
+  <! -- Oh yes, using Markdown inside HTML in Github-based Jekyll! - ->
   <div markdown="1">
   * Luentoviikko 7 (viikko 8): Mukautuvat järjestelmät - kohti JODAa
+  * Luentoviikko 6 (viikko 7): Datalla ohjattu kehitystyö
+  * Luentoviikko 5 (viikko 6): Koostepalvelut ja visuaalinen analytiikka
+  * Luentoviikko 4 (viikko 5): API-talous
+  * Luentoviikko 3 (viikko 4): Resurssikeskeinen arkkitehtuuri
+  * Luentoviikko 2 (viikko 3): Resurssista representaatioksi
 
-*Tarkempi suunnitelma tämän dokumentin kommenteissa*
+  *Tarkempi suunnitelma tämän dokumentin kommenteissa*
+  </div>
 </div>
-</div>
-
-<!--
-* Luentoviikko 6 (viikko 7): Datalla ohjattu kehitystyö
-* Luentoviikko 5 (viikko 6): Koostepalvelut ja visuaalinen analytiikka
-* Luentoviikko 4 (viikko 5): API-talous
-* Luentoviikko 3 (viikko 4): Resurssikeskeinen arkkitehtuuri
-* Luentoviikko 2 (viikko 3): Resurssista representaatioksi
 -->
 
-
-<!--
--->
 <!-- Tulossa: (Päivittämättä)
 
 Ohjelmallisen sisällönhallinnan kevään toteutuskerta on päättynyt.
 [Johdanto datatieteeseen](http://jodatut.github.io/2018) jatkaa siitä mihin Ohjelmallinen sisällönhallinta jäi.
 -->
-<!--
+
 ## Luentoviikko 7 (viikko 8): Mukautuvat järjestelmät
 
 Ei ennakkotehtävää.
@@ -53,9 +50,7 @@ käyttäjän mallintaminen,
 hajautetut käyttäjäprofiilit,
 suosittelujärjestelmät.
 
-Koodiklinikalla hahmotellaan askelia [kohti oppivia järjestelmiä](https://ohsiha.github.io/2020/02/22/oppivat-jarjestelmat.html). Echon kanssa törmättiin teknisiin ongelmiin kesken tallennuksen, joten tallennetta ei valitettavasti julkaista.
-
--->
+Koodiklinikalla hahmotellaan askelia [kohti oppivia järjestelmiä](https://ohsiha.github.io/2020/02/22/oppivat-jarjestelmat.html).
 
 ## Luentoviikko 6 (viikko 7): Datalla ohjattu kehitystyö
 Ei ennakkotehtävää
