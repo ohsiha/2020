@@ -10,6 +10,8 @@ Sisällön jalostaminen:
 * Folksonomiat
 * [Natural Language Corpus Data: Beautiful Data](http://norvig.com/ngrams/) (Norvig, 2008)
 * [TF-IDF](https://lizrush.gitbooks.io/algorithms-for-webdevs-ebook/content/chapters/tf-idf.html)
+* [fastText](https://fasttext.cc/)
+* [EmoPy](https://neurohive.io/en/news/emopy-python-emotion-recognition-toolkit-from-thoughtworks/#.Xk1po_tROtU.twitter)
 
 Koneoppiminen:
 
@@ -24,5 +26,7 @@ Suosittelujärjestelmät:
 * [Quick Guide to Build a Recommendation Engine in Python](https://www.analyticsvidhya.com/blog/2016/06/quick-guide-build-recommendation-engine-python/) (Jain 2016)
 * Recommender systems, Part 1: [Introduction to approaches and algorithms](https://www.ibm.com/developerworks/library/os-recommender1/) (M. Jones, IBM)
 * [Surprise: A Python scikit for recommender systems](http://surpriselib.com/)
+
+
 
 [Johdanto datatieteeseen](https://jodatut.github.io/2020/) käy läpi koneoppimisen mentelmiä, jotka soveltuvat myös oppivien ja "älykkäiden" järjestelmien kehittämiseen.
