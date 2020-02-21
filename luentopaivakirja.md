@@ -9,7 +9,7 @@ Toteutus noudattelee [vuoden 2019 toteutuskertaa](https://ohsiha.github.io/2019/
 Alan dynaamisuudesta johtuen sisältöjä ja toteutustapaa kuitenkin kehitetään jatkuvasti.
 
 Hyödynnämme [Echo360-järjestelmään tallennettuja luentoja](https://echo360.org.uk/section/89ccd5ff-39ab-417f-a411-77591e21f565/public) keväältä 2019.
-Uudet luentotallenteet julkaistaan [Tampereen yliopiston Pantoptossa](https://panopto.tuni.fi/).
+Uudet luentotallenteet julkaistaan [Tampereen yliopiston Pantoptossa](https://panopto.tuni.fi/Panopto/Pages/Sessions/List.aspx#folderID=%222802c7d2-c9a2-4047-8f29-ab5d00fe450c%22).
 
 # Luentopäiväkirja
 
