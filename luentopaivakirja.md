@@ -13,7 +13,7 @@ Uudet luentotallenteet julkaistaan [Tampereen yliopiston Pantoptossa](https://pa
 
 # Luentopäiväkirja
 
-**Tiedonanto:** [OHSIHA jää tauolle](https://ohsiha.github.io/2020/02/18/2020-02-18-muutoksia-opintojaksoissa.html)
+**Tiedonanto:** [OHSIHA jää tauolle](https://ohsiha.github.io/2020/02/21/2020-02-18-muutoksia-opintojaksoissa.html)
 
 <!--
 <div id="accordion">
