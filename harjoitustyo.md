@@ -281,7 +281,7 @@ Huomaa, että sovelluksen ei tarvitse toimia sellaisenaan. Riittää, että pake
 <p>Kurssin alussa annetuista ohjeista poiketen pisteitä ei tarvitse merkitä itse mihinkään.
 </p>
 -->
-Harjoitustyön loppuraportille on rakenteilla palautusautomaatti. Loppuraportilla on aikaa palauttaa keskiviikkoon 29. huhtikuuta kello 17 asti.
+Loppuraportti palautetaan [Moodle-sivuilla olevaan palautuslaatikkoon](https://moodle.tuni.fi/mod/assign/view.php?id=241945). Loppuraportilla on aikaa palauttaa keskiviikkoon 29. huhtikuuta kello 17 asti.
 <!--
 <p>
 Merkitse lisäksi harjoitustyön eri ominaisuuksien raportoiduista toteutuksista keräämäsi pisteet <a href="https://tuni-my.sharepoint.com/:x:/g/personal/katja_kujala_tuni_fi/EckNaAYrqEdIspI3TjSRWy8BMMZCDmLi9su81-YFV1mP-A?e=79pCf3">laskentataulukkoon.</a><strong>Merkitse pisteet ainoastaan siinä tapauksessa, että olet julkaissut kuvauksen määräaikaan mennessä.</strong>
