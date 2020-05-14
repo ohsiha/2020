@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Muutoksia opintojaksoissa: OHSIHA jää tauolle
+title: OHSIHA jää tauolle
 ---
 
 Tuleva lukuvuosi on täynnä Tampereen yliopiston uudelleenjärjestäytymiseen liittyviä muutoksia. Myös opintojaksot muuttuvat merkittävästi.
